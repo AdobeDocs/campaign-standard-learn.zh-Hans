@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 96cc4e9c52ed122e8c6fbbc7cd91f38c4ad98333
+source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '522'
 ht-degree: 6%
 
 ---
@@ -83,7 +83,6 @@ ht-degree: 6%
       + [预览电子邮件和防垃圾邮件分析](/help/designing-content/email-designer/preview-your-email.md)
       + [使用现有内容](/help/designing-content/email-designer/working-with-existing-content.md)
       + [使用Adobe Dreamweaver创建内容](/help/designing-content/email-designer/dreamweaver-integration.md)
-      + [使用Creative Cloud SDK编辑图像](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
    + [在交易电子邮件中配置产品列表](/help/designing-content/product-listings-in-transactional-email.md)
 + 管理流程和数据 {#managing-processes-and-data}
    + [创建工作流](/help/managing-processes-and-data/create-workflow.md)
