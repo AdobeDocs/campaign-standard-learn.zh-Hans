@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
+source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '488'
 ht-degree: 6%
 
 ---
@@ -99,17 +99,6 @@ ht-degree: 6%
 + 开发 {#developing}
    + Custom Resources {#custom-resources-develop}
       + [创建自定义资源](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-+ 集成 {#integrating}
-   + Microsoft Dynamics 365连接器 {#microsoft-dynamics365-connector}
-      + [简介](/help/integrating/microsoft-dynamics-365-connector/introduction.md)
-      + [单一登录(SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
-      + [支持镜像页面URL](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
-      + [配置Microsoft Dynamics 365](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-      + [配置Adobe IO](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
-      + [配置Unifi —— 简介](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-      + [Unifi作业——概述](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-      + [异常作业——入口和出口](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-      + [统一化——操作和监测](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + 管理 {#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + 控制面板 {#control-panel}
