@@ -10,8 +10,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 5%
+source-wordcount: '315'
+ht-degree: 4%
 
 ---
 
@@ -55,25 +55,34 @@ Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并�
 ## 控制面板教程
 
 * **管理SFTP服务器**
-   <br>
+
    *了解如何监视服务器容量、白名单IP地址和添加SSH密钥*
 
    * [监视服务器容量、白名单IP地址和添加SSH密钥](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
    * [生成SSH密钥](/help/administrating/control-panel/generate-ssh-key.md)
    * [连接到SFTP服务器](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[委派子域](/help/administrating/control-panel/subdomain-delegation.md)**   <br>
+* **[委派子域](/help/administrating/control-panel/subdomain-delegation.md)**
+
    *了解如何将子域完全委派给Adobe Campaign*
-* **[添加SSL证书](/help/administrating/control-panel/adding-ssl-certificates.md)**   <br>
+* **[添加SSL证书](/help/administrating/control-panel/adding-ssl-certificates.md)**
+
    *了解如何添加SSL证书以保护子域。*
-* **[管理SSL证书](/help/administrating/control-panel/managing-ssl-certificates.md)**   <br>
+* **[管理SSL证书](/help/administrating/control-panel/managing-ssl-certificates.md)**
+
    *了解如何视图子域的SSL证书状态以及请求续订。*
-* **[Google TXT记录管理](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
+* **[Google TXT记录管理](/help/administrating/control-panel/google-txt-record-management.md)**
+
    *了解如何将Google TXT站点验证记录添加到所有子域，这些子域用于通过活动控制面板向GMAIL地址发送电子邮件。*
 
-* **[疑难解答](/help/administrating/control-panel/trouble-shooting.md)**   <br>
+* **[生成和安装GPG密钥](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *了解如何在指定实例上生成和安装新的公共／私有GPG密钥对，以及如何将公钥导入和安装到Adobe Campaign实例。*
+
+* **[疑难解答](/help/administrating/control-panel/trouble-shooting.md)**
+
    *了解如何对控制面板进行疑难解答*
 
 ## 其他资源
 
-* [[!UICONTROL控制面板帮助中心]](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/control-panel-home.html)
+* [控制面板帮助中心](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/control-panel-home.html)
 
