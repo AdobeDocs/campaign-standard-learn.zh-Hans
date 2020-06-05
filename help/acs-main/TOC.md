@@ -11,7 +11,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 translation-type: tm+mt
 source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '509'
 ht-degree: 6%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 6%
       + [创建电子邮件](/help/communication-channels/email/create-email-from-homepage.md)
       + [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [创建多语言电子邮件或短信投放](/help/communication-channels/create-multilingual-deliveries.md)
-      + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [将现有电子邮件、SMS投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B测试](/help/communication-channels/email/a-b-testing.md)
       + [使用目标用户档案测试电子邮件](/help/communication-channels/email/profile-substitution.md)
       + [查看电子邮件投放和报告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,8 @@ ht-degree: 6%
    + 移动 {#mobile}
       + SMS{#sms}
          + [创建SMS投放](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [创建多语言电子邮件和短信投放](/help/communication-channels/create-multilingual-deliveries.md)
-         + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [创建多语言电子邮件或短信投放](/help/communication-channels/create-multilingual-deliveries.md)
+         + [将现有电子邮件、SMS投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push Notifications {#push}
          + [创建推送通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [创建多语言推送通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -111,6 +111,7 @@ ht-degree: 6%
       + [添加SSL证书](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [管理SSL证书](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT记录管理](/help/administrating/control-panel/google-txt-record-management.md)
+      + [生成和安装GPG密钥](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [疑难解答](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [了解Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
@@ -128,3 +129,5 @@ ht-degree: 6%
    + [修改隐私请求的自定义资源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手动创建和跟踪隐私请求](/help/privacy/create-and-track-privacy-requests.md)
    + [执行隐私请求](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign交付能力最佳实践指南](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
