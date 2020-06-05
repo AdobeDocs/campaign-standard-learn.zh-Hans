@@ -5,8 +5,8 @@ products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 4ef870e79a3479004dae4c22816338e8fe4563dd
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 19%
+source-wordcount: '302'
+ht-degree: 18%
 
 ---
 
@@ -17,33 +17,31 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增内容
 
+* **[控制面板生成和安装GPG密钥](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+   *了解如何在指定实例上生成和安装新的公共／私有GPG密钥对，以及如何将公钥导入和安装到Adobe Campaign实例。*
+
 * **[外部API活动](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
    *了解如何使用外部API活动配置和运行工作流。*
 
 * **[用户档案替换——使用目标用户档案测试电子邮件](/help/communication-channels/email/profile-substitution.md)**   <br>
    *了解如何发送验证以供审阅，其中用户档案将收到的消息具有确切的表示形式。*
 
-* **[控制面板- Google TXT记录管理](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
-   *了解如何将Google TXT站点验证记录添加到所有子域，这些子域用于通过活动控制面板向GMAIL地址发送电子邮件。*
-
-* **[教程： Android推送通知入门](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)**   <br>
-   *本教程将指导您完成从Adobe Campaign发送推送通知以及在Android应用程序中接收这些通知所涉及的步骤。*
 
 ## 员工挑选
 
 <table>
 <tr>
   <td>
-    <a href="./communication-channels/mobile/in-app/in-app-message-overview.md"> 
-      <img alt="应用程序内消息传递（教程）" src="./assets/in_app_messaging.png"/>
+    <a href="./communication-channels/email/profile-substitution.md"> 
+      <img alt="用户档案替换——使用目标用户档案测试电子邮件（视频）" src="./assets/substitution_tab.png"/>
     </a>
     <div>
-      <a href="./communication-channels/mobile/in-app/in-app-message-overview.md">
-    <strong>应用程序内消息传递（教程）</strong>
+      <a href="./communication-channels/email/profile-substitution.md">
+    <strong>用户档案替换——使用目标用户档案测试电子邮件（视频）</strong>
     </a>
     </div>
     <p>
-    <em>应用程序内消息传递是一种渠道，当用户在移动应用程序中处于活动状态时，它允许您显示消息。</em>
+    <em>了解如何发送验证以供审阅，其中用户档案将收到的消息具有确切的表示形式。</em>
     <p>
   </td>
    <td>
@@ -60,16 +58,16 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     <p>
   </td>
   <td>
-    <a href="./designing-content/product-listings-in-transactional-email.md">
-      <img alt="使用动态内容块个性化电子邮件（视频）" src="./assets/acs_product_listings.png" />
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <img alt="教程： Android推送通知入门" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="./designing-content/product-listings-in-transactional-email.md">
-    <strong>产品列表（教程）</strong>
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <strong>教程： Android推送通知入门</strong>
     </a>
     </div>
     <p>
-    <em>利用一列表产品和产品创建交易电子邮件。 </em>
+    <em>本教程将指导您完成从Adobe Campaign发送推送通知以及在Android应用程序中接收这些通知所涉及的步骤。 </em>
     <p>
   </td>
 </tr>
