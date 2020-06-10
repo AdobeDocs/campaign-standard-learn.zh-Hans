@@ -74,10 +74,6 @@ Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并�
 
    *了解如何将Google TXT站点验证记录添加到所有子域，这些子域用于通过活动控制面板向GMAIL地址发送电子邮件。*
 
-* **[生成和安装GPG密钥](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
-
-   *了解如何在指定实例上生成和安装新的公共／私有GPG密钥对，以及如何将公钥导入和安装到Adobe Campaign实例。*
-
 * **[疑难解答](/help/administrating/control-panel/trouble-shooting.md)**
 
    *了解如何对控制面板进行疑难解答*
