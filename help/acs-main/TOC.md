@@ -111,7 +111,6 @@ ht-degree: 6%
       + [添加SSL证书](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [管理SSL证书](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT记录管理](/help/administrating/control-panel/google-txt-record-management.md)
-      + [生成和安装GPG密钥](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [疑难解答](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [了解Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
