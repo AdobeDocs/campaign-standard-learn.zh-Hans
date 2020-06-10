@@ -17,9 +17,6 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增内容
 
-* **[控制面板生成和安装GPG密钥](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
-   *了解如何在指定实例上生成和安装新的公共／私有GPG密钥对，以及如何将公钥导入和安装到Adobe Campaign实例。*
-
 * **[外部API活动](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
    *了解如何使用外部API活动配置和运行工作流。*
 
