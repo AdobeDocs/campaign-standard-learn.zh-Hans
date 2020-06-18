@@ -4,15 +4,15 @@ description: 此视频概述了Adobe Campaign Standard用户界面以及主要�
 feature: User Interface
 topics: Getting started
 kt: 3882
-thumbnail: docs-campaign.png
+thumbnail: acs-ui-get-started.png
 doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 617b150131cf24a6cf3e55933046a4dd0a339edc
+source-git-commit: 0a37f5949b580490ef03f6884cfba01ed09afe86
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 6%
 
 ---
 
