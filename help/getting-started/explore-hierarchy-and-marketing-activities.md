@@ -1,6 +1,6 @@
 ---
 title: 探索层次结构和营销活动
-description: 此视频介绍了Adobe Campaign标准(ACS)中项目和活动的层次结构，如何创建营销项目，以及如何在项目中创建营销活动。
+description: 此视频介绍了Adobe Campaign Standard(ACS)中项目和活动的层次结构，如何创建营销项目，以及如何在项目中创建营销活动。
 feature: managing campaigns
 topics: null
 kt: 3892
@@ -8,7 +8,7 @@ doc-type: feature video
 activity: Understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: ec12edfcfb8d56c8472fdc55c16a087880a5063d
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
