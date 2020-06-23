@@ -1,6 +1,6 @@
 ---
 title: 拍摄控制面板时出现问题
-description: 控制面板允许您按实例和白名单IP地址监视和管理SFTP存储。
+description: 控制面板允许您按实例监视和管理SFTP存储，并允许列出IP地址。
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 0%
+source-wordcount: '336'
+ht-degree: 1%
 
 ---
 
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 连接到SFTP服务器需要：
 
-* [!UICONTROL Whitelisting] 您连接到SFTP服务器的IP地址
+* [!UICONTROL allow listing] 您连接到SFTP服务器的IP地址
 * 需要向Adobe Campaign注册的私钥／公钥对
 * 如果直接连接到SFTP服务器，您还需要SFTP客户端软件
 
 ### 帮助文档
 
-* [登录SFTP服务器](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [登录 SFTP 服务器](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
