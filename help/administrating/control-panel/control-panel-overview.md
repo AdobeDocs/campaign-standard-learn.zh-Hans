@@ -1,6 +1,6 @@
 ---
 title: 控制面板
-description: 控制面板允许您按实例和白名单IP地址监视和管理SFTP存储。
+description: 控制面板允许您按实例监视和管理SFTP存储，并允许列出IP地址。
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '361'
 ht-degree: 4%
 
 ---
@@ -18,7 +18,11 @@ ht-degree: 4%
 
 # [!UICONTROL Control Panel] {#control-panel}
 
-Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并执行管理任务，如按实例或白名单IP地址管理SFTP存储。
+>[!NOTE]
+>
+>术语“[!UICONTROL whitelist]”和“[!UICONTROL blacklist]”已在Adobe Campaign文档中[!UICONTROL allow list]替换为“[!UICONTROL block list]”和“”。 产品UI、选项名称、内部代码以及教程视频中可能仍然存在这些术语的某些实例。 在即将发布的控制面板版本中将替换它们。
+
+Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并执行管理任务，如按实例或IP地址管理SFTP [!UICONTROL allow list] 存储。
 
 ## 访问 [!UICONTROL Control Panel]
 
@@ -56,9 +60,9 @@ Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并�
 
 * **管理SFTP服务器**
 
-   *了解如何监视服务器容量、白名单IP地址和添加SSH密钥*
+   *了解如何监视服务器容量、允许列出IP地址和添加SSH密钥*
 
-   * [监视服务器容量、白名单IP地址和添加SSH密钥](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+   * [监视服务器容量、允许列出IP地址和添加SSH密钥](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [生成SSH密钥](/help/administrating/control-panel/generate-ssh-key.md)
    * [连接到SFTP服务器](/help/administrating/control-panel/connect-to-sftp-server.md)
 * **[委派子域](/help/administrating/control-panel/subdomain-delegation.md)**
@@ -70,9 +74,13 @@ Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并�
 * **[管理SSL证书](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
    *了解如何视图子域的SSL证书状态以及请求续订。*
-* **[Google TXT记录管理](/help/administrating/control-panel/google-txt-record-management.md)**
+* **[Google TXT 记录管理](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *了解如何将Google TXT站点验证记录添加到所有子域，这些子域用于通过活动控制面板向GMAIL地址发送电子邮件。*
+
+* **[生成和安装GPG密钥](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *了解如何在指定实例上生成和安装新的公共／私有GPG密钥对，以及如何将公钥导入和安装到Adobe Campaign实例。*
 
 * **[疑难解答](/help/administrating/control-panel/trouble-shooting.md)**
 
