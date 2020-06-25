@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: b95fb2360d6336c941e7b92a6e2abb376185a7c3
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -27,11 +27,13 @@ ht-degree: 0%
 以下视频介绍了完成以下操作所需的配置步骤：
 
 1. **从外部系统** (如内容管理系统(CRM))接收外部参数：
+
    * 在外部信号活动中声明参数
    * 配置API调用以定义参数并触发工作流外部信号活动。 有关如何配置API调用的详细信息，请参 [阅触发信号活动](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)。
 
 1. **使用外部参数(事件变量** )自定义工作流：
-触发工作流后，参数将被引入工作流的事件变量中，并可在工作流中使用。 请参阅 [可以](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) 使用活动变量自定义的所有事件的文档：
+
+   触发工作流后，参数将被引入工作流的事件变量中，并可在工作流中使用。 请参阅 [可以](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) 使用活动变量自定义的所有事件的文档：
 
    * 配置测试活动（19.2中新增）
    * 配置读取受众和电子邮件投放活动
