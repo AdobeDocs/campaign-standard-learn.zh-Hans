@@ -1,6 +1,6 @@
 ---
 title: 控制面板
-description: 控制面板允许您按实例监视和管理SFTP存储，并允许列出IP地址。
+description: 控制面板允许您按实例和存储IP地址监视和管理SFTP允许列表。
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '386'
 ht-degree: 4%
 
 ---
@@ -60,7 +60,7 @@ Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并�
 
 * **管理SFTP服务器**
 
-   *了解如何监视服务器容量、允许列出IP地址和添加SSH密钥*
+   *了解如何监控服务器容量、允许列表IP地址和添加SSH密钥：*
 
    * [监视服务器容量、允许列出IP地址和添加SSH密钥](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [生成SSH密钥](/help/administrating/control-panel/generate-ssh-key.md)
@@ -78,9 +78,13 @@ Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并�
 
    *了解如何将Google TXT站点验证记录添加到所有子域，这些子域用于通过活动控制面板向GMAIL地址发送电子邮件。*
 
-* **[生成和安装GPG密钥](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **GPG密钥管理**
 
-   *了解如何在指定实例上生成和安装新的公共／私有GPG密钥对，以及如何将公钥导入和安装到Adobe Campaign实例。*
+   *了解如何在指定的活动实例上生成和安装公钥／私钥对以加密出站数据，以及在活动实例上导入和安装公钥以解密入站数据：*
+
+   * [生成和安装用于数据加密的GPG密钥](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [使用GPG密钥加密数据](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [解密数据](./gpg-key-management/decrypting-data.md)
 
 * **[疑难解答](/help/administrating/control-panel/trouble-shooting.md)**
 
