@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 9%
+source-wordcount: '514'
+ht-degree: 8%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 9%
          + [应用程序内消息简介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [配置事件](/help/communication-channels/mobile/in-app/configure-events.md)
          + [广播应用程序内消息](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
-         + [Target用户基于其活动用户档案](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
+         + [目标用户基于其活动用户档案](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [在工作流中创建应用程序内投放](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [报告应用程序内投放](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [使用Adobe Experience PlatformSDK配置移动应用程序](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
@@ -111,7 +111,11 @@ ht-degree: 9%
       + [添加SSL证书](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [管理SSL证书](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT 记录管理](/help/administrating/control-panel/google-txt-record-management.md)
-      + [生成和安装GPG密钥](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
+      + GPG密钥管理 {#gpg-key-management}
+         + [GPG密钥管理——概述](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [生成和安装用于数据加密的GPG密钥](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [使用GPG密钥加密数据](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [解密数据](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [疑难解答](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform数据连接器{adobe-experience-platform-data-connector}
       + [了解Adobe Experience Platform数据连接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
