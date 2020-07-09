@@ -8,10 +8,10 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 我们现在需要创建并发送使用 [!UICONTROL Push Notification] Adobe Campaign。 . 要创建用于测试目的的简单推送通知，请执行以下步骤。
 
-* 登录Adobe Campaign标准实例
+* 登录Adobe Campaign Standard实例
 * 单击 **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * 选择并 **[!UICONTROL Send push to app subscribers(mobileApp)]** 单击“下一步”
 * 从下拉列表中选择相应的移 **[!UICONTROL Associate a Mobile App to a delivery]** 动应用程序，然后单击 **[!UICONTROL Next]**
