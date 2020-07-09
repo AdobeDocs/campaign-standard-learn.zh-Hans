@@ -3,10 +3,10 @@ title: Adobe Campaign Standard教程——概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关Adobe Campaign Standard的众多特性和功能的视频和教程。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 21%
+source-wordcount: '308'
+ht-degree: 20%
 
 ---
 
@@ -17,9 +17,9 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增内容
 
-* **[控制面板——生成和安装GPG密钥](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[GPG密钥管理](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *了解如何在指定实例上生成和安装新的公共／私有GPG密钥对，以及如何将公钥导入和安装到Adobe Campaign实例。*
+   *了解如何在指定的活动实例上生成和安装公钥／私钥对以加密出站数据，以及在活动实例上导入和安装公钥以解密入站数据。*
 
 * **[外部API活动](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
