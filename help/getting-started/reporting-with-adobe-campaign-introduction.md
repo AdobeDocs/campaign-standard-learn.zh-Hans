@@ -1,6 +1,6 @@
 ---
 title: 报告简介
-description: 此视频概述了Adobe Campaign标准的报告功能
+description: 此视频概述了报告的Adobe Campaign Standard功能
 feature: Dynamic Reports
 topics: null
 kt: 3974
@@ -8,17 +8,17 @@ doc-type: value video
 activity: understand
 team: PMM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
 
 # 报告简介
 
-此视频概述了Adobe Campaign标准的报告功能
+此视频概述了报告的Adobe Campaign Standard功能
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 
