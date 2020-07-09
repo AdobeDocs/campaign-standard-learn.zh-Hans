@@ -1,23 +1,23 @@
 ---
 title: 使用Adobe Dreamweaver创建内容
-description: 该视频介绍启用Dreamweaver集成所需的功能以及如何使用Dreamweaver为Adobe Campaign标准版创建和编辑内容。
+description: 该视频介绍启用Dreamweaver集成所需的功能以及如何使用Dreamweaver创建和编辑内容以供Adobe Campaign Standard。
 feature: Email Designer
 kt: 1420
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 
 # 使用Adobe Dreamweaver创建内容
 
-Adobe Campaign标准与Adobe Dreamweaver的集成允许您直接在Dreamweaver界面中编辑电子邮件的内容：
+与Adobe Dreamweaver的Adobe Campaign Standard集成允许您直接在Dreamweaver界面中编辑电子邮件的内容：
 
 * 内容的双向实时同步
 * 通过Dreamweaver将本地图像上传到Adobe Campaign
@@ -27,7 +27,7 @@ Adobe Campaign标准与Adobe Dreamweaver的集成允许您直接在Dreamweaver�
 >
 >此功能需要称为Dreamweaver扩展的Dreamweaver扩 **[!UICONTROL Adobe Campaign Integration]**&#x200B;展。 您可以从Adobe Exchange下载 [扩展](https://exchange.adobe.com/creativecloud.html#search)。 有关安装的详细信息，请参 [阅Dreamweaver活动扩展](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)。
 
-该视频介绍启用Dreamweaver集成所需的功能以及如何使用Dreamweaver为Adobe Campaign标准版创建和编辑内容。
+该视频介绍启用Dreamweaver集成所需的功能以及如何使用Dreamweaver创建和编辑内容以供Adobe Campaign Standard。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
 *如何在Adobe Campaign中使用Dreamweaver集成（02:37分钟）*
