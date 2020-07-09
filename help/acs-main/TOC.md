@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '503'
 ht-degree: 8%
 
 ---
@@ -57,7 +57,6 @@ ht-degree: 8%
    + 移动 {#mobile}
       + SMS{#sms}
          + [创建SMS投放](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [创建多语言电子邮件和短信投放](/help/communication-channels/create-multilingual-deliveries.md)
          + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push Notifications {#push}
          + [创建推送通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -87,7 +86,6 @@ ht-degree: 8%
    + [在交易电子邮件中配置产品列表](/help/designing-content/product-listings-in-transactional-email.md)
 + 管理流程和数据 {#managing-processes-and-data}
    + [创建工作流](/help/managing-processes-and-data/create-workflow.md)
-   + [使用工作流导入用户档案](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [外部信号活动](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
