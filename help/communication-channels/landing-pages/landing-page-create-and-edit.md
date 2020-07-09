@@ -1,6 +1,6 @@
 ---
 title: 创建和编辑登陆页
-description: Adobe Campaign附带的登陆页是在线表单，可用于捕获受众、优惠订阅服务、显示数据和扩展数据库。 登陆页还可用于获取或更新现有用户档案。 这些视频介绍了如何在Adobe Campaign标准中创建、编辑和测试登陆页。
+description: Adobe Campaign附带的登陆页是在线表单，可用于捕获受众、优惠订阅服务、显示数据和扩展数据库。 登陆页还可用于获取或更新现有用户档案。 这些视频介绍了如何在Adobe Campaign Standard中创建、编辑和测试登陆页。
 feature: Landing Pages
 topics: null
 kt: 1808
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
