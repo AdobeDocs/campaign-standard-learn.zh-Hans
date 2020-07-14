@@ -1,6 +1,6 @@
 ---
 title: 配置事件
-description: '在Adobe Campaign标准(ACS)事件中配置应用程序内消息时，定义由哪个用户启动的操作将触发要显示的消息。 '
+description: '在Adobe Campaign Standard(ACS)事件中配置应用程序内消息时，定义由哪个用户启动的操作将触发要显示的消息。 '
 feature: In-App
 topics: Mobile
 kt: 2548
@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] 需要Adobe Analytics许可证。 配置[! [DNL Analytics]扩展](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) ，并将Analytics [添加到应用程序后](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)，这些事件在ACS的配 [!UICONTROL In-App] 置中变为可用。
+>[!UICONTROL Analytics events] 需要AdobeAnalytics许可。 配置扩展 [[!DNL Analytics] 并将Analytics](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 添加到应 [用程序后](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)，这些事件在ACS的配置 [!UICONTROL In-App] 中变为可用。
 
 ## 其他资源
 
