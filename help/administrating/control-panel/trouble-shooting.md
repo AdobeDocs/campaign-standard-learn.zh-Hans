@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
+source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '327'
 ht-degree: 1%
 
 ---
 
 
-# 拍摄[!UICONTROL控制面板}时遇到问题
+# 无法拍摄 [!UICONTROL Control Panel]
 
 了解如何在使用控制面板时排除故障。
 
