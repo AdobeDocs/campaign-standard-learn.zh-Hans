@@ -1,6 +1,6 @@
 ---
-title: 拍摄控制面板时出现问题
-description: 控制面板允许您按实例监视和管理SFTP存储，并允许列出IP地址。
+title: 拍摄控制面板时遇到问题
+description: 该控制面板允许您按实例和允许列表IP地址监视和管理SFTP存储。
 feature: Control Panel
 topics: null
 kt: 2938
@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # 拍摄[!UICONTROL控制面板}时遇到问题
 
-了解如何在使用控制面板时对问题进行疑难解答。
+了解如何在使用控制面板时排除故障。
 
 ## 登录和主页
 
@@ -55,8 +55,8 @@ ht-degree: 1%
 
 ### 帮助文档
 
-* [发现[!UICONTROL控制面板]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [管理对[!UICONTROL控制面板]的权限](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [了解 [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [管理 [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## 建立与SFTP服务器（客户端或API）的连接
 
