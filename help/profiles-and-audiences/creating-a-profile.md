@@ -1,6 +1,6 @@
 ---
 title: '创建用户档案 '
-description: 此视频介绍如何在用户档案标准(ACS)中创建受众以及如何将其添加到Adobe Campaign标准(ACS)中
+description: 此视频介绍如何创建用户档案以及如何将其添加到Adobe Campaign Standard(ACS)中的受众
 feature: Profiles and Audiences
 topic: null
 kt: 1820
