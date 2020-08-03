@@ -1,6 +1,6 @@
 ---
 title: 查看电子邮件投放和报告
-description: 此视频介绍如何查看个性化的电子邮件投放，并探索Adobe Campaign标准(ACS)中提供的不同报告。
+description: 此视频介绍如何查看个性化的电子邮件投放，并探索Adobe Campaign Standard(ACS)中提供的不同报告。
 feature: Reporting
 topics: null
 kt: 3904
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
 # 查看电子邮件投放和报告
 
-此视频介绍如何查看个性化的电子邮件投放，并探索Adobe Campaign标准中提供的不同报告。
+此视频介绍如何查看个性化的电子邮件投放，并探索Adobe Campaign Standard中提供的不同报告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
 
