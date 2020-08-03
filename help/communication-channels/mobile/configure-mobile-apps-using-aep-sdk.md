@@ -1,6 +1,6 @@
 ---
 title: 使用Adobe Experience PlatformSDK配置移动应用程序
-description: 要使用Experience CloudSDK应用程序发送应用程序内消息或推送通知，必须在Adobe Experience Platform启动中设置移动应用程序，并在Adobe Campaign中进行配置
+description: 要使用Experience CloudSDK应用程序发送应用程序内消息或推送通知，必须在Adobe Experience Platform Launch设置移动应用程序并以Adobe Campaign配置
 feature: Mobile SDK V5
 topics: Mobile
 kt: 2501
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -25,9 +25,10 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
 
 >[!NOTE]
+>
 >有关 [视频中使用的 [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) 详细文档和代码模板，请参阅配置应用程序。
 
 ## 其他资源
 
-* [设置移动属性（Adobe Launch文档）](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [使用Adobe Experience PlatformSDK配置移动应用程序（文档）](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [设置移动属性(Adobe启动文档)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
+* [使用Adobe Experience PlatformSDK配置移动应用程序（文档）](https://helpx.adobe.com/cn/campaign/kb/configuring-app-sdk.html)
