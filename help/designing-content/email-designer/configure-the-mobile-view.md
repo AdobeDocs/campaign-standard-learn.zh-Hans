@@ -1,6 +1,6 @@
 ---
 title: 在电子邮件设计器中配置移动视图
-description: 此视频介绍如何通过单独编辑移动显示的所有样式选项，在Adobe Campaign标准(ACS)中微调电子邮件的响应式设计。
+description: 此视频介绍如何通过单独编辑移动显示的所有样式选项来微调Adobe Campaign Standard(ACS)中电子邮件的响应式设计。
 feature: Email Designer
 topics: null
 kt: 2423
