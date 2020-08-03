@@ -1,6 +1,6 @@
 ---
 title: Android应用程序推送通知快速入门
-description: Adobe Campaign允许您向iOS和Android移动设备发送个性化的分段推送通知。 通过利用Experience Cloud Mobile SDK V4或Experience Platform SDK，您在Adobe Campaign中设置的移动应用程序上会收到这些消息。 本教程将指导您完成从Adobe Campaign发送推送通知以及在Android应用程序中接收这些通知所涉及的步骤。
+description: 利用 Adobe Campaign，可向 iOS 和 Android 移动设备发送个性化的分段推送通知。这些消息通过利用Adobe CampaignMobile SDK V4或Experience PlatformSDK在您以Experience Cloud设置的移动应用程序上接收。 本教程将指导您完成从Adobe Campaign发送推送通知以及在Android应用程序中接收这些通知所涉及的步骤。
 feature: Push
 topics: Mobile
 kt: 3846
@@ -11,23 +11,22 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 # Android应用程序推送通知快速入门
 
-Adobe Campaign允许您向iOS和Android移动设备发送个性化的分段推送通知。
-通过利用Experience Cloud Mobile SDK V4或Experience Platform SDK，您在Adobe Campaign中设置的移动应用程序上会收到这些消息。
+利用 Adobe Campaign，可向 iOS 和 Android 移动设备发送个性化的分段推送通知。这些消息通过利用Adobe CampaignMobile SDK V4或Experience PlatformSDK在您以Experience Cloud设置的移动应用程序上接收。
 本教程将指导您完成从Adobe Campaign发送推送通知以及在Android应用程序中接收这些通知所涉及的步骤。
 
 ## 先决条件
 
-* 您应已使用Adobe Campaign标准扩展配置启动属性。 请按照下面列出的联机帮助进行操作。
+* 您应已为启动属性配置Adobe Campaign Standard扩展。 请按照下面列出的联机帮助进行操作。
    * [视频教程](https://video.tv.adobe.com/v/26224?quality=12&captions=chi_hans)
    * [文档](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
-* 确保将Adobe Campaign标准中相应属性的状态设置为已配置。
+* 确保将相应属性在Adobe Campaign Standard中的状态设置为已配置。
 * [具有有效的Google Firebase帐户](https://firebase.google.com)
 * [已安装最新版Android Studio](https://developer.android.com/studio)
 
