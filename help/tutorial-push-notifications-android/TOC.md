@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign标准- Android推送通知快速入门
+user-guide-title: Adobe Campaign Standard- Android推送通知入门
 translation-type: tm+mt
 source-git-commit: ac7733530ca6d6fecc2ec636343a280ae1837933
 workflow-type: tm+mt
