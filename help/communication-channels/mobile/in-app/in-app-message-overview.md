@@ -1,6 +1,6 @@
 ---
 title: 应用程序内消息简介
-description: Adobe Campaign标准(ACS)应用程序内消息传递渠道允许您向用户呈现上下文相关的应用程序内消息，以响应客户在移动应用程序中的实时行为。
+description: Adobe Campaign Standard(ACS)应用程序内消息传递渠道允许您向用户呈现上下文相关的应用程序内消息，以响应客户在移动应用程序中的实时行为。
 feature: In-App
 topics: Mobile
 kt: 1911
@@ -11,37 +11,37 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '753'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
 
 # 消息简 [!UICONTROL In-App] 介 {#introduction}
 
-渠道 [!UICONTROL In-App Messaging] 允许您在用户在移动应用程序中处于活动状态时显示消息。 此渠道要求与移动应用程序集成 [!UICONTROL Adobe Experience Platform SDK]。
+渠道 [!UICONTROL In-App Messaging] 允许您在用户在移动应用程序中处于活动状态时显示消息。 This channel requires mobile applications to be integrated with [!UICONTROL Adobe Experience Platform SDK].
 
-本教程将说明设置移动属性、渠道 [!UICONTROL Launch] 扩展以及 [!UICONTROL In-App Messaging] 如何在Adobe Campaign标准中准备、自定义和发送 [!UICONTROL In-App] 消息所需的步骤。 这些链接将引导您观看每个高亮显示主题的视频教程。
+本教程将说明设置移动属性、渠道的扩 [!UICONTROL Launch] 展以及 [!UICONTROL In-App Messaging] 如何在Adobe Campaign Standard中准备、自定义和发送 [!UICONTROL In-App] 消息所需的步骤。 这些链接将引导您观看每个高亮显示主题的视频教程。
 
-## 先决条件 {#prerequisites}
+## 先决条件{#prerequisites}
 
-1. 确保可以访问 **[!UICONTROL In-App]** 渠道。 如果您无法访问这些渠道，请与您的帐户团队联系。
-1. 验证您的用 **户** 是否在“ **Adobe Campaign标** 准” [!UICONTROL Launch]和“标准”中拥有必要的权限。
+1. 确保可以访问 **[!UICONTROL In-App]** 渠道。 如果您无法访问这些渠道，请与帐户管理团队联系。
+1. Verify that your **user** has the necessary **permissions** in Adobe Campaign Standard and [!UICONTROL Launch].
 
-   1. 在Adobe Campaign标准中，确保IMS用户是组和组的一 [!UICONTROL Standard User] 部分 [!UICONTROL Administrator] 。\
-      此步骤允许用户登录到Adobe Campaign标准，导航到Experience Platform SDK移动应用程序页面，并视图您在中创建的移动应用程序属性 [!UICONTROL Launch]。
+   1. 在Adobe Campaign Standard中，确保IMS用户是组和组的一 [!UICONTROL Standard User] 部分 [!UICONTROL Administrator] 。\
+      此步骤允许用户登录Adobe Campaign Standard，导航到Experience PlatformSDK移动应用程序页面，并视图您在中创建的移动应用程序属性 [!UICONTROL Launch]。
    1. 在 [!UICONTROL Launch]中，确保您的IMS用户是产品用户档案的 [!UICONTROL Launch] 一部分。\
       此步骤允许用户登录以创 [!UICONTROL Launch] 建和视图属性。 有关中的产品用户档案的详 [!UICONTROL Launch]细信息， [请参阅创建产品用户档案](https://docs.adobelaunch.com/launch-reference/administration/user-permissions#3-create-your-product-profile)。 在产品用户档案中，公司或属性上不应设置任何权限，但用户仍应能够登录。
 
-1. 在Adobe Experience Platform Launch中：
+1. 在Adobe Experience Platform Launch:
 
-   1. 通过创建移动属性并使用Experience Platform SDK对移动应用程序进行仪表，创建移动应用程序。
-   1. 为您的 **移动应用程** 序安装Adobe Campaign标准扩展。
+   1. 通过创建移动属性并使用Experience PlatformSDK对移动应用程序进行仪表，创建移动应用程序。
+   1. 为移动 **应用程序** 安装Adobe Campaign Standard扩展。
 
-有关扩展的详细信息，请参 [阅文档中的配置Campaign Standard](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) 扩 [!UICONTROL Adobe Launch ]展。
+有关扩展的详细信息，请参阅文 [档中的“在Adobe启动中配](Https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) 置Campaign Standard扩展 [!UICONTROL Adobe Launch ]”一节。
 
 ## 设置消息的步 [!UICONTROL In-App] 骤 {#steps-to-set-up}
 
-1. [使用Adobe Experience Platform SDK配置移动应用程序](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)。
+1. [使用Adobe Experience PlatformSDK配置移动应用程序](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)。
 
 1. [配置事件](/help/communication-channels/mobile/in-app/configure-events.md)。
 
@@ -57,7 +57,7 @@ ht-degree: 1%
 
 1. 目标所有用户，具体取决于其移动App用户档案。
 
-   此消息类型允许您目标具有移动用户档案的移动应用程序的所有已知或匿名用户。 此消息类型可仅使用非个人属性和非敏感属性进行个性化，并且不需要Mobile SDK与Adobe Campaign的应用程序内消息传递服务之间的安全握手。 因此，个性化策略基于您从用户与设备的交互中了解到的信息。 例如，目标上周启动其App超过5次的所有用户。
+   此消息类型允许您目标具有移动用户档案的移动应用程序的所有已知或匿名用户。 此消息类型可仅使用非个人属性和非敏感属性进行个性化，并且不需要 Mobile SDK 与 Adobe Campaign 的应用程序内消息传递服务之间进行安全握手。因此，个性化策略基于您从用户与设备的交互中了解到的信息。 例如，目标上周启动其App超过5次的所有用户。
 
 1. [**目标用户的活动用户档案&#x200B;**](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)。
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 * [应用程序内报告](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)
 * [设置移动属性](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [使用Adobe Experience Platform SDK配置移动应用程序](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [使用Adobe Experience PlatformSDK配置移动应用程序](https://helpx.adobe.com/cn/campaign/kb/configuring-app-sdk.html)
 * [准备和发送应用程序内消息](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
 * [自定义应用程序内消息](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
 * [在工作流中发送应用程序内消息](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html)
