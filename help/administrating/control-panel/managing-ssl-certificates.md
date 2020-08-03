@@ -1,6 +1,6 @@
 ---
 title: 管理SSL证书
-description: 通过控制面板可以管理您委托给Adobe Campaign的子域。 您可以视图子域，并请求续订其证书。
+description: 控制面板允许您管理委托给Adobe Campaign的子域。 您可以视图子域，并请求续订其证书。
 feature: Control Panel
 topics: null
 kt: 3379
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 管理SSL证书
 
-通过控制面板可以管理您委托给Adobe Campaign的子域。 您可以视图子域，并请求续订其证书。
+控制面板允许您管理委托给Adobe Campaign的子域。 您可以视图子域，并请求续订其证书。
 
 ## 访问 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
