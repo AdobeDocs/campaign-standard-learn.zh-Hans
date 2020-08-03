@@ -1,6 +1,6 @@
 ---
-title: 了解用户档案和Adobe Campaign标准
-description: 此视频介绍用户档案和受众的概念，以及如何在Adobe Campaign标准中创建用户档案和受众。
+title: 了解用户档案和Adobe Campaign Standard
+description: 此视频介绍用户档案和受众的概念，以及如何创建Adobe Campaign Standard和受众。
 feature: Profiles and Audiences
 topics: null
 kt: 3893
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 
-# 了解用户档案和Adobe Campaign标准
+# 了解用户档案和Adobe Campaign Standard
 
 此视频介绍了该概念以及如何创建用户档案和受众。
 
