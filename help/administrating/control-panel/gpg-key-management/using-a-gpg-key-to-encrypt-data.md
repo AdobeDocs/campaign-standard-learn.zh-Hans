@@ -1,6 +1,6 @@
 ---
 title: '使用GPG密钥加密数据 '
-description: 了解如何使用控制面板上安装的GPG密钥导出数据。
+description: 了解如何使用安装在控制面板上的GPG密钥导出数据。
 feature: Control Panel
 topics: GPG key Management
 kt: 5688
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 
 # 使用GPG密钥加密数据
 
-了解如何使用控制面板上安装的GPG密钥导出数据。
+了解如何使用安装在控制面板上的GPG密钥导出数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
 
