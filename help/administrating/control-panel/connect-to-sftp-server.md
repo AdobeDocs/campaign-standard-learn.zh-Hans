@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 访问 [!UICONTROL Control Panel] SFTP管理
 
-要访问控制面板中的SFTP管理，请转至：
+要在控制面板中访问SFTP管理，请访问：
 
 * [Experience Cloud主页](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] >卡 **[!UICONTROL Control Panel]** > SFTP **卡**
 
