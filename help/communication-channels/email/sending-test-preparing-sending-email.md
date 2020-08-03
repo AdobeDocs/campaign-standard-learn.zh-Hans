@@ -1,6 +1,6 @@
 ---
 title: 发送测试、准备和发送电子邮件
-description: '此视频介绍如何在Adobe Campaign标准(ACS)中发送测试电子邮件、准备并发送电子邮件投放。 '
+description: '此视频介绍如何以Adobe Campaign Standard(ACS)发送测试电子邮件、准备并发送电子邮件投放。 '
 feature: Email
 topics: null
 kt: 1812
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
 # 发送测试、准备和发送电子邮件
 
-此视频介绍如何在Adobe Campaign标准(ACS)中发送测试电子邮件、准备并发送电子邮件投放。
+此视频介绍如何以Adobe Campaign Standard(ACS)发送测试电子邮件、准备并发送电子邮件投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)
 
