@@ -1,6 +1,6 @@
 ---
 title: 创建自定义资源
-description: Adobe Campaign标准版提供扩展资源或创建新资源的功能。 此多部分教程将指导您完成创建和链接自定义资源所需的步骤。
+description: Adobe Campaign Standard提供扩展资源或创建新资源的能力。 此多部分教程将指导您完成创建和链接自定义资源所需的步骤。
 feature: Custom Resources
 topics: null
 kt: 2998
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 创建自定义资&#x200B;源
 
-Adobe Campaign标准版提供扩展资源或创建新资源的功能。 此多部分教程将指导您完成创建和链接自定义资源所需的步骤。 在本教程的结尾，您将学习以下&#x200B;
+Adobe Campaign Standard提供扩展资源或创建新资源的能力。 此多部分教程将指导您完成创建和链接自定义资源所需的步骤。 在本教程的结尾，您将学习以下&#x200B;
 
 * 创建自定义资源
 * 向自定义资源添加字段
