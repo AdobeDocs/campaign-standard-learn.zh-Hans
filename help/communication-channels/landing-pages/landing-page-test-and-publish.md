@@ -1,6 +1,6 @@
 ---
 title: 测试和发布登陆页
-description: 此视频介绍如何测试在Adobe Campaign标准中构建的登陆页以及如何发布它。
+description: 此视频介绍如何测试在Adobe Campaign Standard中构建的登陆页以及如何发布它。
 uuid: 410b8e37-b9b6-4763-988c-31312c1dc8a6
 discoiquuid: b7dd29cf-cb56-4e6b-8050-400293a2e5e5
 feature: Landing Pages
