@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
 
 # 浏览报告
 
-此视频概述了报告标准的Adobe Campaign功能。
+此视频概述了报告的Adobe Campaign Standard功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
