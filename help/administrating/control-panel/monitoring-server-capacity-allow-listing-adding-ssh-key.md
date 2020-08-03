@@ -1,6 +1,6 @@
 ---
 title: 监视服务器容量、允许列出IP地址和添加SSH密钥
-description: 控制面板允许您按实例监视和管理SFTP存储，并添加IP地址以允许列表。
+description: 该控制面板允许您按实例监控和管理SFTP存储，并向允许列表添加IP地址。
 feature: Control Panel
 topics: null
 kt: 3266
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 监视服务器容 [!UICONTROL allow listing] 量、 IP地址和添加SSH密钥
 
-控制面板允许您按实例监视和管理SFTP存储并添加 [!UICONTROL allow listing]IP地址。
+该控制面板允许您按实例监视和管理SFTP存储并添加 [!UICONTROL allow listing]IP地址。
 
 ## 访问 [!UICONTROL Control Panel] 子域管理
 
