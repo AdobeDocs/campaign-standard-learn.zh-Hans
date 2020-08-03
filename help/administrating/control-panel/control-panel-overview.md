@@ -1,6 +1,6 @@
 ---
 title: 控制面板
-description: 控制面板允许您按实例和存储IP地址监视和管理SFTP允许列表。
+description: 该控制面板允许您按实例和允许列表IP地址监视和管理SFTP存储。
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -20,13 +20,13 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->术语“[!UICONTROL whitelist]”和“[!UICONTROL blacklist]”已在Adobe Campaign文档中[!UICONTROL allow list]替换为“[!UICONTROL block list]”和“”。 产品UI、选项名称、内部代码以及教程视频中可能仍然存在这些术语的某些实例。 在即将发布的控制面板版本中将替换它们。
+>术语“[!UICONTROL whitelist]”和“[!UICONTROL blacklist]”已在Adobe Campaign文档中[!UICONTROL allow list]替换为“[!UICONTROL block list]”和“”。 产品UI、选项名称、内部代码以及教程视频中可能仍然存在这些术语的某些实例。 在即将发布的控制面板版中将替换它们。
 
 Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并执行管理任务，如按实例或IP地址管理SFTP [!UICONTROL allow list] 存储。
 
 ## 访问 [!UICONTROL Control Panel]
 
-要访问控制面板，请转到Experience Cloud主页： [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+要访问控制面板，请转至Experience Cloud主页： [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -56,7 +56,7 @@ Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并�
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *如何向产品用户档案“”中添加[!UICONTROL Administrators]管理员以便能够[!UICONTROL Control Panel]使用（01:03分钟）*
 
-## 控制面板教程
+## 控制面板Tutorials
 
 * **管理SFTP服务器**
 
@@ -76,7 +76,7 @@ Adobe Campaign管 [!UICONTROL Control Panel] 理员可以监视关键资产并�
    *了解如何视图子域的SSL证书状态以及请求续订。*
 * **[Google TXT 记录管理](/help/administrating/control-panel/google-txt-record-management.md)**
 
-   *了解如何将Google TXT站点验证记录添加到所有子域，这些子域用于通过活动控制面板向GMAIL地址发送电子邮件。*
+   *了解如何将Google TXT站点验证记录添加到所有子域，这些子域用于通过活动控制面板将电子邮件发送到GMAIL地址。*
 
 * **GPG密钥管理**
 
