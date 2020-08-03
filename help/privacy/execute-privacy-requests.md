@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -25,4 +25,4 @@ Adobe Campaign隐私请求由工作流执行。 此视频描述哪些工作流�
 ## 其他资源
 
 * [活动的一般隐私准则](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [CCPA forAdobe Campaign标准](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [CCPA用于Adobe Campaign Standard](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
