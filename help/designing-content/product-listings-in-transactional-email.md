@@ -1,6 +1,6 @@
 ---
 title: 在交易电子邮件中配置产品列表
-description: 视频介绍在Adobe Campaign标准(ACS)中配置交易电子邮件中的产品列表所需的步骤。
+description: 视频介绍在Adobe Campaign Standard(ACS)中的交易电子邮件中配置产品列表所需的步骤。
 feature: Transactional Emails
 topics: Content Creation
 kt: 1728
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
