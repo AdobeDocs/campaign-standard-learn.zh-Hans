@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign标准入门
-description: 此视频概述了Adobe Campaign标准版用户界面以及主要功能和核心功能。
+title: Adobe Campaign Standard入门
+description: 此视频概述了Adobe Campaign Standard用户界面以及主要功能和核心功能。
 feature: User Interface
 topics: null
 kt: null
@@ -11,20 +11,20 @@ translation-type: tm+mt
 source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
-# Adobe Campaign标准入门
+# Adobe Campaign Standard入门
 
-Adobe Campaign标准版是一款功能强大的跨渠道活动管理工具，可帮助您调整线上和线下策略，创造个性化的客户体验。
+Adobe Campaign Standard是一款功能强大的跨渠道活动管理工具，可帮助您调整线上和线下策略，创造个性化的客户体验。
 
-控制创建、执行和跟踪跨渠道活动的整个过程，并根据客户的用户档案、行为、偏好和需求发送个性化的消息。 您可以轻松编排、建模并实现整个营销流程的自动化，并与其他Adobe解决方案集成。
+控制创建、执行和跟踪跨渠道活动的整个过程，并根据客户的用户档案、行为、偏好和需求发送个性化的消息。 您可以轻松地编排、建模和自动化整个营销流程，并与其他Adobe解决方案集成。
 
-有一组教程视频可帮助您开始使用Adobe Campaign标准：
+有一组教程视频可帮助您开始使用Adobe Campaign Standard:
 
-* [Adobe Campaign标准简介](/help/getting-started/adobe-campaign-standard-introduction.md)
+* [Adobe Campaign Standard简介](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [功能概述](/help/getting-started/functional-overview.md)
 * [UI入门](/help/getting-started/getting-started-with-the-ui.md)
 * [配置列表](/help/getting-started/configure-a-list.md)
@@ -37,4 +37,4 @@ Adobe Campaign标准版是一款功能强大的跨渠道活动管理工具，可
 
 ## 其他资源
 
-* [文档-Adobe Campaign标准入门](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-campaign-standard.html)
+* [文档-Adobe Campaign Standard入门](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-campaign-standard.html)
