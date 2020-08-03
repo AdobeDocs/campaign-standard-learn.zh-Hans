@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] 需要AdobeAnalytics许可。 配置扩展 [[!DNL Analytics] 并将Analytics](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 添加到应 [用程序后](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)，这些事件在ACS的配置 [!UICONTROL In-App] 中变为可用。
+>[!UICONTROL Analytics events] 需要获得Adobe Analytics执照。 配置扩展 [[!DNL Analytics] 并向应用](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 程序添 [加Analytics后](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)，这些事件在ACS的配置 [!UICONTROL In-App] 中变为可用。
 
 ## 其他资源
 
