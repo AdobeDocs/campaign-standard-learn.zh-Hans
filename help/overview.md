@@ -1,12 +1,12 @@
 ---
-title: Adobe Campaign Standard教程——概述
+title: Adobe Campaign StandardTutorials-概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关Adobe Campaign Standard的众多特性和功能的视频和教程。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 20%
+source-wordcount: '280'
+ht-degree: 23%
 
 ---
 
@@ -24,10 +24,6 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 * **[外部API活动](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *了解如何使用外部API活动配置和运行工作流。*
-
-* **[用户档案替换——使用目标用户档案测试电子邮件](/help/communication-channels/email/profile-substitution.md)**
-
-   *了解如何发送验证以供审阅，其中用户档案将收到的消息具有确切的表示形式。*
 
 ## 员工挑选
 
