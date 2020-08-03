@@ -11,17 +11,17 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
 
 # 管理活动
 
-Adobe Campaign允许您规划市场营销活动，在这些活动中，您可以创建和管理不同类型的： 电子邮件、短信、 [!UICONTROL push notifications]工作流、登陆页。 这些活动及其内容可以收集成项目。 此视频将向您展示如何在Adobe Campaign中创建和管理活动。
+Adobe Campaign allows you to plan marketing campaigns in which you can create and manage different types of activities: emails, SMS messages, [!UICONTROL push notifications], workflows, landing pages. 这些营销策划及其内容可以收集成到项目中。此视频将向您展示如何在Adobe Campaign中创建和管理活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24672?quality=12)
 
 ## 其他资源
 
-* [计划和营销活动](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)
+* [项目和营销策划](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)
