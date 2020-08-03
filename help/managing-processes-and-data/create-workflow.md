@@ -1,6 +1,6 @@
 ---
 title: 创建工作流
-description: 此视频将向您展示如何在Adobe Campaign标准中创建和编辑工作流。
+description: 此视频将向您展示如何在Adobe Campaign Standard中创建和编辑工作流。
 feature: Workflows
 topics: null
 kt: 1809
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 * 将数据导入活动库
 * 诸如数据库清理、恢复跟踪信息等技术流程。
 
-此视频将向您展示如何在Adobe Campaign标准中创建和编辑工作流。
+此视频将向您展示如何在Adobe Campaign Standard中创建和编辑工作流。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
