@@ -20,7 +20,7 @@ ht-degree: 0%
 
 它支 [!UICONTROL Email Designer] 持快速、轻松地创建个性化电子邮件的视觉效果，无需编写任何代码即可帮助缩放电子邮件创建。 它允许您创建电子邮件内容和电子邮件内容模板。 它兼容简单的电子邮件、交易电子邮件、A/B测试电子邮件、多语言电子邮件和重复的电子邮件。
 
-此视频为您概括介绍Adobe Campaign标准的功能和用法 [!UICONTROL Email Designer]。
+此视频概括介绍了Adobe Campaign Standard的功能和用法 [!UICONTROL Email Designer]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
