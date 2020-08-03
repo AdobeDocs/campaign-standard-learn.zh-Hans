@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign标准简介
-description: 此视频为您提供了Adobe Campaign标准的高级介绍。
+title: Adobe Campaign Standard简介
+description: 此视频为您提供了Adobe Campaign Standard的高级介绍。
 feature: Profiles and Audiences
 topics: null
 kt: 3993
@@ -16,8 +16,8 @@ ht-degree: 0%
 ---
 
 
-# Adobe Campaign标准简介
+# Adobe Campaign Standard简介
 
-此视频为您提供了Adobe Campaign标准的高级介绍。
+此视频为您提供了Adobe Campaign Standard的高级介绍。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27072?quality=12)
