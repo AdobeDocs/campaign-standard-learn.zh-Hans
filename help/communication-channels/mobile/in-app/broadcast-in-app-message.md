@@ -1,6 +1,6 @@
 ---
 title: '广播应用程序内消息 '
-description: 通过广播应用程序内消息模板，您可以使用目标标准(ACS)Adobe Campaign移动应用程序的所有用户
+description: 通过广播应用程序内消息模板，您可以使用目标(ACS)Adobe Campaign Standard移动应用程序的所有用户
 feature: In-App
 topics: Mobile
 kt: 2497
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
