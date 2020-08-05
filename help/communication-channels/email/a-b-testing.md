@@ -1,6 +1,6 @@
 ---
 title: A/B测试
-description: '此视频介绍如何在Adobe Campaign Standard中配置和发送A/B测试，以及测试主题行。 '
+description: '此视频介绍如何在Adobe Campaign Standard配置和发送A/B测试，测试主题行。 '
 feature: A/B Testing
 topics: null
 kt: 3907
