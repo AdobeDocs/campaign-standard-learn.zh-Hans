@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Standard入门
-description: 此视频概述了Adobe Campaign Standard用户界面以及主要功能和核心功能。
+description: 此视频概述了Adobe Campaign Standard的用户界面以及主要特性和核心功能。
 feature: User Interface
 topics: null
 kt: null
@@ -18,11 +18,11 @@ ht-degree: 2%
 
 # Adobe Campaign Standard入门
 
-Adobe Campaign Standard是一款功能强大的跨渠道活动管理工具，可帮助您调整线上和线下策略，创造个性化的客户体验。
+Adobe Campaign Standard是一款功能强大的跨渠道活动管理工具，可帮助您调整线上和线下战略，创造个性化的客户体验。
 
 控制创建、执行和跟踪跨渠道活动的整个过程，并根据客户的用户档案、行为、偏好和需求发送个性化的消息。 您可以轻松地编排、建模和自动化整个营销流程，并与其他Adobe解决方案集成。
 
-有一组教程视频可帮助您开始使用Adobe Campaign Standard:
+有一组教程视频可帮助您开始学习Adobe Campaign Standard:
 
 * [Adobe Campaign Standard简介](/help/getting-started/adobe-campaign-standard-introduction.md)
 * [功能概述](/help/getting-started/functional-overview.md)
