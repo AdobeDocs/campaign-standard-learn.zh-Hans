@@ -1,6 +1,6 @@
 ---
 title: 创建多语言推送通知
-description: '了解如何在Adobe Campaign Standard(ACS)中创建多语言推送通知。 '
+description: '了解如何在Adobe Campaign Standard(ACS)创建多语言推送通知。 '
 feature: Push
 topics: Mobile
 kt: 1375
@@ -18,7 +18,7 @@ ht-degree: 18%
 
 # Create a multilingual push notification [!UICONTROL push notification]
 
-了解如何在Adobe Campaign Standard中创建多 [!UICONTROL push notifications] 语言。
+了解如何在Adobe Campaign Standard创建多 [!UICONTROL push notifications] 语种。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
