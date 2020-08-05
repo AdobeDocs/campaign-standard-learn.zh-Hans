@@ -1,6 +1,6 @@
 ---
 title: 了解Adobe Experience Platform数据连接器
-description: Adobe Experience Platform数据连接器通过将XTK数据(在活动中摄取的数据)映射到Adobe Experience Platform上的体验数据模型(XDM)数据，帮助现有客户在Adobe Experience Platform上提供数据。
+description: Adobe Experience Platform数据连接器通过将XTK数据(以活动摄取的数据)映射到Adobe Experience Platform的体验数据模型(XDM)数据，帮助现有客户在Adobe Experience Platform提供数据。
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
@@ -16,7 +16,7 @@ ht-degree: 5%
 ---
 
 
-# 了解Adobe Experience Platform [!UICONTROL Data Connector]
+# 理解Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
@@ -26,21 +26,21 @@ ht-degree: 5%
 
 ## 概述
 
-Adobe Experience Platform [!UICONTROL Data Connector] 通过将XTK数据(在Adobe Campaign中摄取的数据)映射到Adobe Experience Platform上的(XDM)数据， [!DNL Experience Data Model] 帮助现有客户提供Adobe Experience Platform数据。
+Adobe Experience Platform [!UICONTROL Data Connector] 帮助现有客户将XTK数据(以Adobe Campaign摄取的数据)映射到Adobe Experience Platform(XDM)数据，以 [!DNL Experience Data Model] 便在Adobe Experience Platform提供数据。
 
-请注意，连接器是单向的，会将数据从Adobe Campaign Standard发送到Adobe Experience Platform。 数据从不从Adobe Experience Platform发送到Adobe Campaign Standard。
+请注意，连接器是单向的，将数据从Adobe Campaign Standard发送到Adobe Experience Platform。 数据从不从Adobe Experience Platform发送到Adobe Campaign Standard。
 
-Adobe Experience Platform [!UICONTROL Data Connector] 面向了解Adobe Campaign Standard并了解客户 [!UICONTROL custom resources] 的整体数据模式应如何存在于Adobe Experience Platform中的数据工程师。
+Adobe Experience Platform [!UICONTROL Data Connector] 面向了解Adobe Campaign Standard并了 [!UICONTROL custom resources] 解客户的整体数据模式在Adobe Experience Platform内部应如何的数据工程师。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*此视频概述了Adobe Experience Platform([!UICONTROL Data Connector]09:35分钟)*
+*此视频概述Adobe Experience Platform([!UICONTROL Data Connector]09:35分钟)*
 
 >[!NOTE]
 >
->不支持现成的 [!UICONTROL subscription events] 传输。 要进行传 [!UICONTROL subscription events]输，您可以在Adobe Experience Platform上创建相应的XDM和数据集，然后为这些数据配置自定义数据映射。
+>不支持现成的 [!UICONTROL subscription events] 传输。 要进行传 [!UICONTROL subscription events]输，您可以在Adobe Experience Platform创建相应的XDM和数据集，然后为这些数据配置自定义数据映射。
 >
->现有 [!UICONTROL experience events] 内容无法引入Adobe Experience Platform，但当前生成的内 [!UICONTROL experience events] 容将流化到Adobe Experience Platform。
+>现有 [!UICONTROL experience events] 资源不能被收录进Adobe Experience Platform，但持续产生的 [!UICONTROL experience events] 资源将流入Adobe Experience Platform。
 
 ## 执行数据映射的关键步骤
 
