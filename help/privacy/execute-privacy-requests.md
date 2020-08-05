@@ -25,4 +25,4 @@ Adobe Campaign隐私请求由工作流执行。 此视频描述哪些工作流�
 ## 其他资源
 
 * [活动的一般隐私准则](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [CCPA用于Adobe Campaign Standard](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [CCPA forAdobe Campaign Standard](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
