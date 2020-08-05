@@ -1,6 +1,6 @@
 ---
 title: 报告简介
-description: 此视频概述了报告的Adobe Campaign Standard功能
+description: 此视频概述了Adobe Campaign Standard的报告功能
 feature: Dynamic Reports
 topics: null
 kt: 3974
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # 报告简介
 
-此视频概述了报告的Adobe Campaign Standard功能
+此视频概述了Adobe Campaign Standard的报告功能
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 
