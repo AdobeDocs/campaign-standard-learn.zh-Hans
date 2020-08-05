@@ -1,6 +1,6 @@
 ---
 title: 创建推送通知
-description: '了解如何在Adobe Campaign Standard(ACS)中创建推送通知。 '
+description: '了解如何在Adobe Campaign Standard(ACS)创建推送通知。 '
 feature: Push
 topics: Mobile
 kt: 1401
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # 创建 [!UICONTROL push notification]
 
-了解如何在 [!UICONTROL push notification] Adobe Campaign Standard(ACS)中创建：
+了解如何在Adobe Campaign Standard [!UICONTROL push notification] (ACS)创建：
 
 Adobe Campaign allows you to send personalized and segmented [!UICONTROL push notifications] to iOS and Android mobile devices. 您有两种选择：
 
