@@ -1,6 +1,6 @@
 ---
 title: 功能概述
-description: 此视频概述Adobe Campaign Standard(ACS)功能。
+description: 此视频概述了Adobe Campaign Standard(ACS)功能。
 feature: Profiles and Audiences
 topics: Getting Started
 kt: 3971
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 功能概述
 
-此视频概述了Adobe Campaign Standard功能。
+此视频概述了Adobe Campaign Standard的功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
