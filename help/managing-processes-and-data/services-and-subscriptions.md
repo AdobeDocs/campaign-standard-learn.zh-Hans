@@ -1,6 +1,6 @@
 ---
 title: 管理服务和订阅
-description: Adobe Campaign允许您通过一组服务创建和管理新闻稿和跨渠道通信。 此视频将向您展示如何创建服务并以Adobe Campaign Standard(ACS)管理其订阅。
+description: Adobe Campaign允许您通过一组服务创建和管理新闻稿和跨渠道通信。 此视频将向您展示如何在Adobe Campaign Standard(ACS)创建服务和管理其订阅。
 feature: Subscriptions and Services
 topics: null
 kt: 1815
