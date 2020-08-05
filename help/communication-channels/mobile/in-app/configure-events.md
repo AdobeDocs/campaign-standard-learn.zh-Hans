@@ -59,7 +59,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] 需要获得Adobe Analytics执照。 配置扩展 [[!DNL Analytics] 并向应用](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 程序添 [加Analytics后](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)，这些事件在ACS的配置 [!UICONTROL In-App] 中变为可用。
+>[!UICONTROL Analytics events] 需要获得Adobe Analytics执照。 配置扩展 [[!DNL Analytics] 并将](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) Analytics添 [加到应用程序后](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)，这些事件在ACS的配 [!UICONTROL In-App] 置中变为可用。
 
 ## 其他资源
 
