@@ -18,7 +18,7 @@ ht-degree: 16%
 
 # 浏览报告
 
-此视频概述了报告的Adobe Campaign Standard功能。
+此视频概述了Adobe Campaign Standard的报告功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
