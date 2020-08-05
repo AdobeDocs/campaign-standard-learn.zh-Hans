@@ -1,6 +1,6 @@
 ---
 title: 通过Adobe Campaign用户界面手动创建和跟踪隐私请求
-description: Adobe Campaign允许您根据GDPR和CCPA等隐私权法案创建PII数据的访问和删除请求。 此视频演示如何手动创建隐私请求并在Adobe Campaign Standard用户界面中跟踪其演变。
+description: Adobe Campaign允许您根据GDPR和CCPA等隐私权法案创建PII数据的访问和删除请求。 此视频演示如何手动创建隐私请求并跟踪其在Adobe Campaign Standard用户界面中的演变。
 feature: GDPR, CCPA
 topic: null
 kt: 1242
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Adobe Campaign允许您根据GDPR和CCPA等隐私权法案创建PII数据的访问和删除请求。
 
-此视频演示如何手动创建隐私请求并在Adobe Campaign Standard用户界面中跟踪其演变。
+此视频演示如何手动创建隐私请求并跟踪其在Adobe Campaign Standard用户界面中的演变。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
