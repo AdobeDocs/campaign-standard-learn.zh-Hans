@@ -26,7 +26,7 @@ ht-degree: 1%
 >
 >**选择退出个人信息销售(CCPA)**
 >
->从19.4开始，在活动界面和API中提供了现成的CCPA退出字段。 对于19.3，要利用此信息，您需要在Adobe Campaign Standard中创建此>字段。 有关详细信息， [请参阅](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) 详细的文档。
+>从19.4开始，在活动界面和API中提供了现成的CCPA退出字段。 对于19.3，要利用此信息，您需要在Adobe Campaign Standard创建此>字段。 有关详细信息， [请参阅](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) 详细的文档。
 >
 > 单击？ 图标，然后选择“关于”。
 
