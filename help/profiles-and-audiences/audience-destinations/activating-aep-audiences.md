@@ -16,7 +16,7 @@ ht-degree: 1%
 ---
 
 
-# 在营销工作流的工作流中激 [!UICONTROL Adobe Experience Platform Audiences] 活Adobe Experience Platform受众
+# 在营销工作流中的工作流 [!UICONTROL Adobe Experience Platform Audiences] 中激活Adobe Experience Platform受众
 
 >[!NOTE]
 >
@@ -37,6 +37,6 @@ ht-degree: 1%
 
 视频资源：
 
-* [使用Unified Segment Builder在Adobe Campaign Standard中创建新受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [在Adobe Campaign Standard使用统一细分构建器创建新受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [为平台定位维度更改投放的受众](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
