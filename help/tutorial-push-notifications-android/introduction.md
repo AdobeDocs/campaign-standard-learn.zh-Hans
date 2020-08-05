@@ -22,11 +22,11 @@ ht-degree: 14%
 
 ## 先决条件
 
-* 您应已为启动属性配置Adobe Campaign Standard扩展。 请按照下面列出的联机帮助进行操作。
+* 您应该为启动属性配置了Adobe Campaign Standard扩展。 请按照下面列出的联机帮助进行操作。
    * [视频教程](https://video.tv.adobe.com/v/26224?quality=12&captions=chi_hans)
    * [文档](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
-* 确保将相应属性在Adobe Campaign Standard中的状态设置为已配置。
+* 确保将Adobe Campaign Standard中相应属性的状态设置为已配置。
 * [具有有效的Google Firebase帐户](https://firebase.google.com)
 * [已安装最新版Android Studio](https://developer.android.com/studio)
 
