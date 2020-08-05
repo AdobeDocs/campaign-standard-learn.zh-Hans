@@ -1,6 +1,6 @@
 ---
 title: 映射体验事件
-description: 了解如何在Adobe Experience Platform中映射体验事件(AEP)
+description: 了解如何绘制Adobe Experience Platform(AEP)的体验事件地图
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2832
@@ -24,7 +24,7 @@ ht-degree: 7%
 >
 >如果您计划实 [!UICONTROL Adobe Customer Support] 施此功能，请联系。
 
-了解如何在 [!UICONTROL Experience Events] Adobe Experience Platform(AEP)中映射。
+了解如何在Adobe Experience Platform [!UICONTROL Experience Events] (AEP)绘制地图。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
