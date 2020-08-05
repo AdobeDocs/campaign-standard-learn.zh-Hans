@@ -1,6 +1,6 @@
 ---
 title: 配置列表
-description: '此视频介绍如何更改显示的列、列表视图的排序顺序和Adobe Campaign Standard。  '
+description: '此视频介绍如何更改在Adobe Campaign Standard显示的列表视图的列、顺序和排序顺序。  '
 feature: UI
 topics: null
 kt: 1821
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 配置列表
 
-此视频介绍如何更改显示的列、列表视图的排序顺序和Adobe Campaign Standard。
+此视频介绍如何更改在Adobe Campaign Standard显示的列表视图的列、顺序和排序顺序。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25288/?quality=12)
