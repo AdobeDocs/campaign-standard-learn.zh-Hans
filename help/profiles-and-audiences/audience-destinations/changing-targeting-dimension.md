@@ -1,6 +1,6 @@
 ---
 title: 更改定位维度
-description: 此视频介绍如何更改Adobe Campaign Standard中主用户档案表外的平台受众的定位维度。
+description: 此视频介绍如何更改Adobe Campaign Standard主用户档案表外的平台受众的定位维度。
 feature: Audience Destinations
 topics: ACOP
 kt: 3739
@@ -24,7 +24,7 @@ ht-degree: 4%
 >
 >如果您计划实 [!UICONTROL Adobe Customer Support] 施此功能，请联系。
 
-此视频介绍如何更改主定位维度表外 [!UICONTROL Platform Audience] 部投放的Adobe Campaign Standard的用户档案。
+此视频介绍如何更改Adobe Campaign Standard主定位维度表 [!UICONTROL Platform Audience] 外部投放的用户档案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
