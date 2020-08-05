@@ -1,6 +1,6 @@
 ---
 title: 受众目标——概述
-description: 在Adobe Campaign Standard(ACS)中利用Adobe Experience Platform(AEP)受众
+description: 在Adobe Campaign Standard利用Adobe Experience Platform(AEP)受众(ACS)
 feature: Audience Destinations
 topics: ACOP
 kt: 2755
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # [!UICONTROL Audience Destinations] （测试版）-概述
 
-## 在Adobe Campaign Standard中利用Adobe Experience Platform受众
+## 在Adobe Campaign Standard利用Adobe Experience Platform受众
 
 >[!NOTE]
 >
@@ -27,9 +27,9 @@ ht-degree: 1%
 >如果您计划实 [!UICONTROL Adobe Customer Support] 施此功能，请联系。
 
 
-本教程介绍如何将来自Adobe Experience Platform的集中化和整合用户档案数据用于Adobe Campaign Standard中的营销活动。
+本教程介绍如何将来自Adobe Experience Platform的集中化和整合的用户档案数据用于Adobe Campaign Standard的营销活动。
 
-Adobe Campaign Standard [!UICONTROL Audiences] 中的模块允许您使用位于实时客户用户档案 [中的Adobe Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services.html) -数据服务创 [建细分](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)。
+Adobe Campaign Standard [!UICONTROL Audiences] 的模块允许您使用位于实时客户用户档案的 [Adobe Experience Platform数据](https://www.adobe.io/apis/experienceplatform/home/services.html) -数据服 [务创建细分](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)。
 
 以下视频教程将指导您完成不同的步骤：
 
