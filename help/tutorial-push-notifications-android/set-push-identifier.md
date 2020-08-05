@@ -94,7 +94,7 @@ MobileCore.lifecyclePause();
 
 ### 检查移动应用程序订阅者
 
-登录Adobe Campaign Standard实例。
+登录您的Adobe Campaign Standard实例。
 导航 **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**。 打开相应的移动应用程序。 Tab to the [!UICONTROL Mobile Application Subscribers] tab. 您应当看到列 [!UICONTROL registration token ]表。
 
 ![移动——应用程序——用户](assets/mobile-application-subscribers.PNG)
