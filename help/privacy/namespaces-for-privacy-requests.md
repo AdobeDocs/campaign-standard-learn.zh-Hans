@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Campaign Standard(ACS)中为隐私请求创建命名空间
+title: 在Adobe Campaign Standard(ACS)为隐私请求创建命名空间
 description: GDPR或CCPA要求能够创建隐私访问和删除请求的先决条件是，命名空间的定义将用于在Adobe Campaign库中标识数据主体。 此视频介绍如何为隐私请求创建命名空间。
 feature: GDPR, CCPA
 topic: null
