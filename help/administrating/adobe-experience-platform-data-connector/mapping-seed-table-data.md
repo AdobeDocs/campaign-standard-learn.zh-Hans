@@ -1,6 +1,6 @@
 ---
 title: 映射种子表数据
-description: 了解如何映射种子数据以及如何使用用户档案(AEP)测试Adobe Experience Platform
+description: 了解如何映射种子数据以及如何使用Adobe Experience Platform(AEP)测试用户档案
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2900
@@ -24,7 +24,7 @@ ht-degree: 6%
 >
 >如果您计划实 [!UICONTROL Adobe Customer Support] 施此功能，请联系。
 
-了解如何使用Adobe Experience Platform映射种子数据和测试用户档案。
+了解如何在Adobe Experience Platform绘制种子数据和测试用户档案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 
