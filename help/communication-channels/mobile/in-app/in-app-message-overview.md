@@ -20,14 +20,14 @@ ht-degree: 9%
 
 渠道 [!UICONTROL In-App Messaging] 允许您在用户在移动应用程序中处于活动状态时显示消息。 This channel requires mobile applications to be integrated with [!UICONTROL Adobe Experience Platform SDK].
 
-本教程将说明设置移动属性、渠道的扩 [!UICONTROL Launch] 展以及 [!UICONTROL In-App Messaging] 如何在Adobe Campaign Standard中准备、自定义和发送 [!UICONTROL In-App] 消息所需的步骤。 这些链接将引导您观看每个高亮显示主题的视频教程。
+本教程将说明设置移动属性、渠道的扩 [!UICONTROL Launch] 展以及 [!UICONTROL In-App Messaging] 如何在Adobe Campaign Standard准备、自定义和发送 [!UICONTROL In-App] 消息所需的步骤。 这些链接将引导您观看每个高亮显示主题的视频教程。
 
 ## 先决条件{#prerequisites}
 
 1. 确保可以访问 **[!UICONTROL In-App]** 渠道。 如果您无法访问这些渠道，请与帐户管理团队联系。
 1. Verify that your **user** has the necessary **permissions** in Adobe Campaign Standard and [!UICONTROL Launch].
 
-   1. 在Adobe Campaign Standard中，确保IMS用户是组和组的一 [!UICONTROL Standard User] 部分 [!UICONTROL Administrator] 。\
+   1. 在Adobe Campaign Standard，确保IMS用户是组和组的一 [!UICONTROL Standard User] 部分 [!UICONTROL Administrator] 。\
       此步骤允许用户登录Adobe Campaign Standard，导航到Experience PlatformSDK移动应用程序页面，并视图您在中创建的移动应用程序属性 [!UICONTROL Launch]。
    1. 在 [!UICONTROL Launch]中，确保您的IMS用户是产品用户档案的 [!UICONTROL Launch] 一部分。\
       此步骤允许用户登录以创 [!UICONTROL Launch] 建和视图属性。 有关中的产品用户档案的详 [!UICONTROL Launch]细信息， [请参阅创建产品用户档案](https://docs.adobelaunch.com/launch-reference/administration/user-permissions#3-create-your-product-profile)。 在产品用户档案中，公司或属性上不应设置任何权限，但用户仍应能够登录。
@@ -35,7 +35,7 @@ ht-degree: 9%
 1. 在Adobe Experience Platform Launch:
 
    1. 通过创建移动属性并使用Experience PlatformSDK对移动应用程序进行仪表，创建移动应用程序。
-   1. 为移动 **应用程序** 安装Adobe Campaign Standard扩展。
+   1. 为您的移 **动应用** 程序安装Adobe Campaign Standard扩展。
 
 有关扩展的详细信息，请参阅文 [档中的“在Adobe启动中配](Https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) 置Campaign Standard扩展 [!UICONTROL Adobe Launch ]”一节。
 
