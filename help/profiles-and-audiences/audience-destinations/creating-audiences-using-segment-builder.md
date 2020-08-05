@@ -24,15 +24,15 @@ ht-degree: 0%
 >
 >如果您计划实 [!UICONTROL Adobe Customer Support] 施此功能，请联系。
 
-Adobe Campaign Standard允许您使用Adobe Experience Cloud实时客户 [用户档案的数据构建受众](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) ，方法是使用Adobe Experience Platform [!UICONTROL Unified Segment Builder]。
+Adobe Campaign Standard允许您使用Adobe Experience Cloud实时客户 [用户档案的数据构建受众](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) ，使用Adobe Experience Platform [!UICONTROL Unified Segment Builder]。
 
-您可以通过模 [!UICONTROL Unified Segment Builder] 块直接在Adobe Campaign Standard [!UICONTROL Audiences ] 中访问。 这允许您直接在受众视图中管 [!UICONTROL Audiences] 理这些列表，在该Adobe Experience Platform中，您可以直接从Adobe Campaign界面编辑或创建新的受众
+您可以通过模 [!UICONTROL Unified Segment Builder] 块直接在Adobe Campaign Standard [!UICONTROL Audiences ] 访问。 这允许您直接在受众视图中管 [!UICONTROL Audiences] 理这些列表，在该中，您可以直接从Adobe Campaign界面编辑或创建新的Adobe Experience Platform受众
 
-以下视频介绍如何使用受众内部创 [!UICONTROL Unified Segment Builder] 建新Adobe Campaign Standard。
+以下视频介绍如何使用Adobe Campaign Standard内部创建 [!UICONTROL Unified Segment Builder] 新受众。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
-*如何使用统一细分构建器在Adobe Campaign Standard中创建新受众（最低02:47）*
+*如何使用统一区段生成器在Adobe Campaign Standard创建新受众（最低02:47）*
 
 ## 其他资源
 
