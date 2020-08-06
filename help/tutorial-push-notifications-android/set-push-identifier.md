@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 将以下代码粘贴到 [!DNL MainActivity]:
 
-```java{.line-numbers}
+```java
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -100,5 +100,4 @@ MobileCore.lifecyclePause();
 ![移动——应用程序——用户](assets/mobile-application-subscribers.PNG)
 
 >[注意]
->
 >如果在继续操作之前未在选项卡“停止” [!UICONTROL Mobile Application Subscribers] 中看到注册令牌。
