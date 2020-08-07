@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 99%
+source-wordcount: '330'
+ht-degree: 100%
 
 ---
 
 
-# 无法拍摄 [!UICONTROL Control Panel]
+# 控制面板}故障排除
 
 了解如何在使用控制面板时进行故障排除。
 
