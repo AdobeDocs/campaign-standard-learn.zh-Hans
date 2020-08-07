@@ -5,7 +5,7 @@ products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 100%
 
 ---
@@ -24,10 +24,6 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 * **[外部 API 活动](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *了解如何使用外部 API 活动配置和运行工作流。*
-
-* **[用户档案替换 - 使用目标用户档案测试电子邮件](/help/communication-channels/email/profile-substitution.md)**
-
-   *了解如何发送验证以供审阅，其中包含用户档案将收到的消息的确切呈现形式。*
 
 ## 员工挑选
 
