@@ -1,6 +1,6 @@
 ---
-title: 'UI入门 '
-description: 此视频概述了Adobe Campaign Standard的用户界面以及主要特性和核心功能。
+title: 'UI 入门 '
+description: 此视频概述 Adobe Campaign Standard 用户界面以及主要功能和核心功能。
 feature: User Interface
 topics: Getting started
 kt: 3882
@@ -12,18 +12,18 @@ translation-type: tm+mt
 source-git-commit: 0a37f5949b580490ef03f6884cfba01ed09afe86
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# UI入门
+# UI 入门
 
-此视频为您提供Adobe Campaign Standard用户界面的概述，并说明如何导航到主要功能和核心功能。
+此视频概述 Adobe Campaign Standard 用户界面，并介绍如何导航到主要功能和核心功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
 
 ## 其他资源
 
-* [关于界面](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
-* [界面描述](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
+* [关于界面](https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [界面描述](https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
