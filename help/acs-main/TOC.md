@@ -11,8 +11,8 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standa
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 100%
+source-wordcount: '529'
+ht-degree: 91%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 100%
       + [创建电子邮件](/help/communication-channels/email/create-email-from-homepage.md)
       + [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [创建多语言电子邮件或短信投放](/help/communication-channels/create-multilingual-deliveries.md)
-      + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [将现有电子邮件、SMS投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B 测试](/help/communication-channels/email/a-b-testing.md)
       + [使用目标用户档案测试电子邮件](/help/communication-channels/email/profile-substitution.md)
       + [查看电子邮件投放和报告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,7 +57,8 @@ ht-degree: 100%
    + 手机 {#mobile}
       + 短信{#sms}
          + [创建短信投放](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [创建多语言电子邮件或短信投放](/help/communication-channels/create-multilingual-deliveries.md)
+         + [将现有电子邮件、SMS投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + 推送通知 {#push}
          + [创建推送通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [创建多语言推送通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -86,6 +87,7 @@ ht-degree: 100%
    + [在交易电子邮件中配置产品列表](/help/designing-content/product-listings-in-transactional-email.md)
 + 管理流程和数据 {#managing-processes-and-data}
    + [创建工作流](/help/managing-processes-and-data/create-workflow.md)
+   + [使用工作流导入用户档案](/help/managing-processes-and-data/importing-profiles.md)
    + 执行活动 {#execution-activities}
       + [外部信号活动](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 数据管理活动 {#data-management-activities}
@@ -131,3 +133,5 @@ ht-degree: 100%
    + [修改隐私请求的自定义资源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手动创建和跟踪隐私请求](/help/privacy/create-and-track-privacy-requests.md)
    + [执行隐私请求](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign交付能力最佳实践指南](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
