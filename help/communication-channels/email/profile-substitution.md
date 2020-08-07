@@ -4,7 +4,7 @@ description: 此视频介绍如何使用用户档案替换功能测试电子邮�
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
