@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '364'
 ht-degree: 100%
 
 ---
@@ -71,9 +71,7 @@ ht-degree: 100%
 * **[添加 SSL 证书](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *了解如何添加 SSL 证书以保护子域。*
-* **[管理 SSL 证书](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *了解如何查看子域的 SSL 证书状态以及请求续订。*
 * **[Google TXT 记录管理](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *了解如何将 Google TXT 网站验证记录添加到所有子域，这些子域用于通过 Campaign 控制面板向 Gmail 地址发送电子邮件。*
