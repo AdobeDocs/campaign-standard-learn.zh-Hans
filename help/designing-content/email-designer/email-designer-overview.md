@@ -3,15 +3,15 @@ title: 电子邮件设计人员概述
 description: 此视频介绍电子邮件设计器的一般功能以及如何从头开始设计电子邮件。本页列表了Adobe Campaign电子邮件设计器的所有可用功能视频
 feature: Email Designer
 topics: Content Creation
-kt: 2391
+kt: null
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 10%
 
 ---
 
@@ -24,18 +24,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
-## 开始使用 [!UICONTROL Email Designer]
-
-此视频介绍电子邮件的一般功 [!UICONTROL Email Designer] 能以及如何从头开始设计电子邮件。
-
->[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
-
 ## 教程
 
 提供以下详细教程：
 
+* [电子邮件设计人员入门](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [内容模板](/help/designing-content/email-designer/email-content-templates.md)
 * [配置移动视图](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [预览电子邮件](/help/designing-content/email-designer/preview-your-email.md)
 * [使用现有内容](/help/designing-content/email-designer/working-with-existing-content.md)
-* [使用Adobe Dreamweaver创建内容](/help/designing-content/email-designer/dreamweaver-integration.md)
+* [使用 Adobe Dreamweaver 创建内容](/help/designing-content/email-designer/dreamweaver-integration.md)
