@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard-lea
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 97%
+source-wordcount: '519'
+ht-degree: 96%
 
 ---
 
@@ -79,6 +79,7 @@ ht-degree: 97%
 + 设计内容和使内容个性化 {#designing-content}
    + 电子邮件设计工具{#email-designer}
       + [概述](/help/designing-content/email-designer/email-designer-overview.md)
+      + [电子邮件设计人员入门](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [电子邮件内容模板简介](/help/designing-content/email-designer/email-content-templates.md)
       + [配置移动视图](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [预览电子邮件和防垃圾邮件分析](/help/designing-content/email-designer/preview-your-email.md)
