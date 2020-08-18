@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard-lea
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
+source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 100%
+source-wordcount: '513'
+ht-degree: 97%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [探索层级和营销活动](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理营销活动](/help/getting-started/managing-campaigns.md)
    + [了解用户档案和受众](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [创建和通过电子邮件发送](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [创建工作流](/help/managing-processes-and-data/create-workflow.md)
    + [报告简介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [移动营销和 Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
