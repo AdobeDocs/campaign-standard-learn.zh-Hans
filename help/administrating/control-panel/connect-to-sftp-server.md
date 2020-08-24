@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
+source-git-commit: c72943b6e3209156b6f17679bae4d303fa766224
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 连接到 SFTP 服务器需要：
 
-* [!! UICONTROL 可将]您连接到 SFTP 服务器的 IP 地址添加到允许列表
+* [!UICONTROL allow listing] 您连接到 SFTP 服务器的 IP 地址
 * 需要向 Adobe Campaign 注册的私钥/公钥对
 * 如果直接连接到 SFTP 服务器，您还需要 SFTP 客户端软件
 
