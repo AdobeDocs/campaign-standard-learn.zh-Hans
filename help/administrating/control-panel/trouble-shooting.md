@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
+source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 99%
 
 ---
 
 
-# 控制面板故障排除
+# 无法拍摄 [!UICONTROL Control Panel]
 
 了解如何在使用控制面板时进行故障排除。
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 ### 症状：实例未列在 [!UICONTROL Control Panel]中
 
 **原因：**
-最可能的原因是用户需要添加为缺失实例的 *[!UICONTROL user]*&#x200B;产品用户档案`!DNL Campaign-xxx-Administrators/Admin`
+最可能的原因是用户需要添加为缺失实例的 *[!UICONTROL user]*&#x200B;产品用户档案`Campaign-xxx-Administrators/Admin`
 
 **要做什么：**
 管理员需要将用户添加到其要管理的每个实例的产品用户档案`Campaign-xxx-Admins`。如果用户是所有实例的管理员，则他们仍可能需要将自己添加为 *[!UICONTROL user]*。
@@ -55,8 +55,8 @@ ht-degree: 100%
 
 ### 帮助文档
 
-* [了解 [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/control-panel-home.html)
-* [管理 [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/control-panel-home.html) 的权限
+* [了解 [!UICONTROL Control Panel]](https://helpx.adobe.com/cn/campaign/kb/control-panel-overview.html)
+* [管理 [!UICONTROL Control Panel]](https://helpx.adobe.com/cn/campaign/kb/control-panel-access.html) 的权限
 
 ## 建立与 SFTP 服务器（客户端或 API）的连接
 
