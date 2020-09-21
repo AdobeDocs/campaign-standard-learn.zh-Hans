@@ -11,10 +11,10 @@ getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 94c15068a733b95a41201cd2a451d2adea4b9c29
+source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 96%
+source-wordcount: '536'
+ht-degree: 93%
 
 ---
 
@@ -51,12 +51,16 @@ ht-degree: 96%
    + 电子邮件 {#email}
       + [创建电子邮件](/help/communication-channels/email/create-email-from-homepage.md)
       + [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [创建多语言电子邮件或短信投放](/help/communication-channels/create-multilingual-deliveries.md)
-      + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B 测试](/help/communication-channels/email/a-b-testing.md)
       + [使用目标用户档案测试电子邮件](/help/communication-channels/email/profile-substitution.md)
+      + [向对照组添加投放](/help/communication-channels/email/control-groups.md)
+      + [创建多语言电子邮件或短信投放](/help/communication-channels/create-multilingual-deliveries.md)
+      + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [查看电子邮件投放和报告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [通过工作流创建和发送电子邮件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + AI支持的电子邮件 {#journey-ai}
+         + [预测发送时间优化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [预测性参与评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 手机 {#mobile}
       + 短信{#sms}
          + [创建短信投放](/help/communication-channels/mobile/sms/sms-delivery.md)
