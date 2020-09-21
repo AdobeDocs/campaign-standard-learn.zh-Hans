@@ -3,10 +3,10 @@ title: Adobe Campaign Standard 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 众多特性和功能的视频和教程。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '318'
+ht-degree: 62%
 
 ---
 
@@ -17,13 +17,17 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增内容
 
-* **[GPG 密钥管理](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[向对照组添加投放](/help/communication-channels/email/control-groups.md)**
 
-   *了解如何在指定的 Campaign 实例上生成和安装公钥/私钥对以加密出站数据，以及在 Campaign 实例上导入和安装公钥以解密入站数据。*
+   *了解如何在定[!UICONTROL control group]义投放目标时创建。*
 
-* **[外部 API 活动](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[预测发送时间优化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *了解如何使用外部 API 活动配置和运行工作流。*
+   *了解哪些工作流需要在Adobe Campaign和旅程AI模型之间同步数据。 了解如何视图在单个用户档案级别发送时间得分以及如何使用发送时间公式执行电子邮件投放。*
+
+* **[预测性参与评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+
+   *了解如何在个人视图层用户档案参与得分，使用得分定位参与的用户并抑制疲劳的用户，以及如何创建类型规则来管理客户疲劳。*
 
 ## 员工挑选
 
@@ -43,16 +47,16 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     <p>
   </td>
    <td>
-    <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="电子邮件设计工具（视频）" src="./assets/email_designer_tutorial.png" />
+    <a href="./administrating/control-panel/control-panel-overview.md">
+      <img alt="控制面板（视频）" src="./assets/control-panel.png" />
     </a>
     <div>
-      <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>电子邮件设计工具（视频）</strong>
+    <a href="./administrating/control-panel/control-panel-overview.md">
+    <strong>控制面板（视频）</strong>
     </a>
     </div>
     <p>
-    <em>电子邮件设计工具能够快速、轻松地创建个性化电子邮件的视觉效果。</em>
+    <em> 通过控制面板管理设置和跟踪实例的使用情况，提高管理员的效率。</em>
     <p>
   </td>
   <td>
