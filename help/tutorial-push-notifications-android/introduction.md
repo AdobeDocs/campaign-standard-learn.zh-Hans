@@ -1,6 +1,6 @@
 ---
 title: Android应用程序推送通知快速入门
-description: 利用 Adobe Campaign，可向 iOS 和 Android 移动设备发送个性化的分段推送通知。这些消息通过利用Adobe CampaignMobile SDK V4或Experience PlatformSDK在您以Experience Cloud设置的移动应用程序上接收。 本教程将指导您完成从Adobe Campaign发送推送通知以及在Android应用程序中接收这些通知所涉及的步骤。
+description: 本教程将指导您完成从Adobe Campaign发送推送通知以及在Android应用程序中接收这些通知所涉及的步骤。
 feature: Push
 topics: Mobile
 kt: 3846
@@ -8,10 +8,10 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 14%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
