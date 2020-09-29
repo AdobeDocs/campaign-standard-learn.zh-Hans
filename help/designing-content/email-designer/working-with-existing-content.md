@@ -3,15 +3,15 @@ title: 使用现有内容
 description: 此视频介绍如何快速从网站检索您的创意内容并将其加载到电子邮件设计器中。
 feature: Email Designer
 topics: Content Creation
-kt: 1453
+kt: 6295
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: a0943a06cad4c53f35713c733bcedf5eef0df93f
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
