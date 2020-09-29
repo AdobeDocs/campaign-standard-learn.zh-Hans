@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: f98966913cb4adfcd15b578ea4589ff00798a037
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# [!DNL Verizon Media Group]（Yahoo、AOL、Verizon等）
+# [!DNL Verizon Media Group] （Yahoo、AOL、Verizon等）
 
 [!DNL Verizon Media Group] 通常是大多数B2C列表的前三个域之一。 他们的行为有些独特，因为如果出现信誉问题，他们通常会限制邮件或批量发送邮件。
 
