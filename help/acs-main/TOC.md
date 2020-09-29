@@ -11,10 +11,10 @@ getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 93%
+source-wordcount: '540'
+ht-degree: 89%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 93%
    + [探索层级和营销活动](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理营销活动](/help/getting-started/managing-campaigns.md)
    + [了解用户档案和受众](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [创建和通过电子邮件发送](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [创建电子邮件](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [创建工作流](/help/managing-processes-and-data/create-workflow.md)
    + [报告简介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [移动营销和 Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [使用 Adobe Campaign 实现增长](/help/getting-started/growing-with-adobe-campaign.md)
 + 用户档案和受众 {#profiles-and-audiences}
-   + [创建用户档案和受众 - 概述](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [创建用户档案和受众-概述](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [创建用户档案](/help/profiles-and-audiences/creating-a-profile.md)
    + [创建测试用户档案](/help/profiles-and-audiences/test-profiles.md)
    + [使用工作流导入用户档案](/help/managing-processes-and-data/importing-profiles.md)
@@ -64,7 +64,6 @@ ht-degree: 93%
    + 手机 {#mobile}
       + 短信{#sms}
          + [创建短信投放](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + 推送通知 {#push}
          + [创建推送通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [创建多语言推送通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -138,3 +137,5 @@ ht-degree: 93%
    + [修改隐私请求的自定义资源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手动创建和跟踪隐私请求](/help/privacy/create-and-track-privacy-requests.md)
    + [执行隐私请求](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign交付能力最佳实践指南](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
