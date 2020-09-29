@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -23,6 +23,10 @@ ht-degree: 0%
 在Studio中打开 [!DNL Android] 项目。 删除MainApp中的整个代 **码，但第一行是包语句**。
 
 将以下代码粘贴到MainApp中
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import [!DNL android].app.Application;
