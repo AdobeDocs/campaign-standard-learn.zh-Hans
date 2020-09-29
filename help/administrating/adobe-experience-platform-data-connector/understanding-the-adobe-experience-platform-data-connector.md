@@ -1,5 +1,5 @@
 ---
-title: 了解Adobe Experience Platform数据连接器
+title: 了解 Adobe Experience Platform 数据连接器
 description: Adobe Experience Platform数据连接器通过将XTK数据(以活动摄取的数据)映射到Adobe Experience Platform的体验数据模型(XDM)数据，帮助现有客户在Adobe Experience Platform提供数据。
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 5%
+ht-degree: 10%
 
 ---
 
