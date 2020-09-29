@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -26,6 +26,10 @@ ht-degree: 0%
 * 右键单击包文件夹([!DNL com.example.acspushtutorial]), [!DNL New ->Java Class]
 * 命名此类 *[!DNL MyService]* 并确保它扩展 [!DNL FirebaseMessagingService]
 * 在此 *[!DNL sendNotification]* 类中创建方法。 在此方法中，您需要使用对象设置通知的内容和 [!DNL NotificationCompat.Builder] 渠道。 要显示通知，请调 [!DNL NotificationManagerCompat.notify()]用通知，为通知和结果传递唯一ID [!DNL NotificationCompat.Builder.build()]。
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 package com.example.pushmessaging;
@@ -91,6 +95,10 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 ## 修改 [!DNL AndroidManifest.xml]
 
 将已创建的服务添加到您 [!DNL AndroidManifest.xml]。 最终版 [!DNL AndroidManifest.xml] 本应如下所示：
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
