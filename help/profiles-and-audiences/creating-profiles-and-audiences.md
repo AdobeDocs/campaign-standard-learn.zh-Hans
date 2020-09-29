@@ -1,6 +1,6 @@
 ---
 title: 创建用户档案和受众-概述
-description: 此视频介绍如何导航到现有用户档案，以及如何在Adobe Campaign Standard(ACS)创建用户档案和受众。
+description: 了解如何导航到现有用户档案以及如何在Adobe Campaign Standard创建用户档案和受众。
 feature: Profiles and Audiences
 topics: null
 kt: 3899
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
