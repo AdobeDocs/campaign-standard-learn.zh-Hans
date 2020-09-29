@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
@@ -33,11 +33,11 @@ Adobe Campaign Standard [!UICONTROL Audiences] 的模块允许您使用位于实
 
 以下视频教程将指导您完成不同的步骤：
 
-1. [使用统一的区段生成器创建新受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+1. [使用统一区段构建器创建新受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [在营销工作流程中激活AEP受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [为平台定位维度更改投放的受众](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## 其他资源
 
-*了[解Adobe Experience Platform数据连接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[了解 Adobe Experience Platform 数据连接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 
