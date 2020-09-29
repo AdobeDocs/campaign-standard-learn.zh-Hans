@@ -1,6 +1,6 @@
 ---
 title: 更改定位维度
-description: 此视频介绍如何更改Adobe Campaign Standard主用户档案表外的平台受众的定位维度。
+description: 此视频介绍如何更改Adobe Campaign Standard主用户档案表外平台受众的定位维度。
 feature: Audience Destinations
 topics: ACOP
 kt: 3739
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 4%
+ht-degree: 15%
 
 ---
 
@@ -38,5 +38,5 @@ ht-degree: 4%
 
 视频资源：
 
-* [使用统一的区段生成器创建新受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [使用统一区段构建器创建新受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [在营销工作流程中激活Adobe Experience Platform受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
