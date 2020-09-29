@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -27,6 +27,10 @@ ht-degree: 0%
 
 * 展开文 [!DNL Gradle Scripts] 件夹。 多次单 [!DNL build.gradle] 击模块。 将以下依赖关系粘贴到文件的“依赖关系” [!DNL build.gradle] 部分。 您的 [!DNL build.gradle] 文件现在应当如下
 
+<!--
+Removed `{.line-numbers}` below
+-->
+
 ```java
 implementation 'com.adobe.marketing.mobile:campaign:1.+'
 implementation 'com.adobe.marketing.mobile:userprofile:1.+'
@@ -41,12 +45,20 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 打 *开AndroidManifest* .xml，在清单元素之后和应用程序元素之前粘贴以下2行。 这使您的应用程序能够与外部世界通信
 
+<!--
+Removed `{.line-numbers}` below
+-->
+
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
 复制应用程序元素中的以[!DNL android:name=".MainApp"]下行保 [!DNL AndroidManifest.xml]存 [!DNL AndroidManifest.xml] 应如下
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
