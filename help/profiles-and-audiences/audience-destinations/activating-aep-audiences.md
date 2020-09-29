@@ -1,5 +1,5 @@
 ---
-title: 在工作流中激活Adobe Experience Platform受众
+title: 在工作流中激活 Adobe Experience Platform 受众
 description: 此视频介绍如何使用“读取查询”受众在工作流中激活数据服务受众活动。
 feature: Audience Destinations
 topics: ACOP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
