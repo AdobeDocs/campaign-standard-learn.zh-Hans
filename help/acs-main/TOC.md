@@ -11,10 +11,10 @@ getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
+source-git-commit: b28cbfdbc4edd00bc0f8cf58e2ea7fb35016e83e
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 89%
+source-wordcount: '526'
+ht-degree: 91%
 
 ---
 
@@ -137,5 +137,4 @@ ht-degree: 89%
    + [修改隐私请求的自定义资源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手动创建和跟踪隐私请求](/help/privacy/create-and-track-privacy-requests.md)
    + [执行隐私请求](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign交付能力最佳实践指南](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
 
