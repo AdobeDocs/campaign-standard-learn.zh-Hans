@@ -11,10 +11,10 @@ getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: b28cbfdbc4edd00bc0f8cf58e2ea7fb35016e83e
+source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
 workflow-type: tm+mt
 source-wordcount: '526'
-ht-degree: 91%
+ht-degree: 98%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 91%
    + [探索层级和营销活动](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理营销活动](/help/getting-started/managing-campaigns.md)
    + [了解用户档案和受众](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [创建电子邮件](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [创建电子邮件](https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [创建工作流](/help/managing-processes-and-data/create-workflow.md)
    + [报告简介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [移动营销和 Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -53,14 +53,14 @@ ht-degree: 91%
       + [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B 测试](/help/communication-channels/email/a-b-testing.md)
       + [使用目标用户档案测试电子邮件](/help/communication-channels/email/profile-substitution.md)
-      + [向对照组添加投放](/help/communication-channels/email/control-groups.md)
+      + [向传递添加控制组](/help/communication-channels/email/control-groups.md)
       + [创建多语言电子邮件或短信投放](/help/communication-channels/create-multilingual-deliveries.md)
       + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [查看电子邮件投放和报告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [通过工作流创建和发送电子邮件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + AI支持的电子邮件 {#journey-ai}
+      + AI 提供技术支持的电子邮件 {#journey-ai}
          + [预测发送时间优化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
-         + [预测性参与评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
+         + [预测参与度评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 手机 {#mobile}
       + 短信{#sms}
          + [创建短信投放](/help/communication-channels/mobile/sms/sms-delivery.md)
@@ -84,7 +84,7 @@ ht-degree: 91%
 + 设计内容和使内容个性化 {#designing-content}
    + 电子邮件设计工具{#email-designer}
       + [概述](/help/designing-content/email-designer/email-designer-overview.md)
-      + [电子邮件设计人员入门](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Email Designer 入门](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [电子邮件内容模板简介](/help/designing-content/email-designer/email-content-templates.md)
       + [配置移动视图](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [预览电子邮件和防垃圾邮件分析](/help/designing-content/email-designer/preview-your-email.md)
@@ -137,4 +137,3 @@ ht-degree: 91%
    + [修改隐私请求的自定义资源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手动创建和跟踪隐私请求](/help/privacy/create-and-track-privacy-requests.md)
    + [执行隐私请求](/help/privacy/execute-privacy-requests.md)
-
