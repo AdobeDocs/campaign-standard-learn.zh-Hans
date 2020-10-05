@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Standard入门
-description: 此视频概述了Adobe Campaign Standard的用户界面以及主要特性和核心功能。
+description: 此视频概述 Adobe Campaign Standard 用户界面以及主要功能和核心功能。
 feature: User Interface
 topics: null
 kt: null
@@ -8,10 +8,10 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 2%
+source-wordcount: '191'
+ht-degree: 38%
 
 ---
 
@@ -24,16 +24,17 @@ Adobe Campaign Standard是一款功能强大的跨渠道活动管理工具，可
 
 有一组教程视频可帮助您开始学习Adobe Campaign Standard:
 
-* [Adobe Campaign Standard简介](/help/getting-started/adobe-campaign-standard-introduction.md)
-* [功能概述](/help/getting-started/functional-overview.md)
-* [UI入门](/help/getting-started/getting-started-with-the-ui.md)
+* [Adobe Campaign Standard 简介](/help/getting-started/adobe-campaign-standard-introduction.md)
+* [UI 入门](/help/getting-started/getting-started-with-the-ui.md)
 * [配置列表](/help/getting-started/configure-a-list.md)
-* [探索层次结构和营销活动](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
-* [管理活动](/help/getting-started/managing-campaigns.md)
+* [探索层级和营销活动](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
+* [管理营销活动](/help/getting-started/managing-campaigns.md)
 * [了解用户档案和受众](/help/getting-started/understanding-profiles-and-audiences.md)
+* [创建电子邮件](https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
 * [创建工作流](/help/managing-processes-and-data/create-workflow.md)
 * [报告简介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
-* [Adobe Campaign的移动营销](/help/getting-started/mobile-marketing-with-adobe-campaign.md)*[Adobe Campaign增长](/help/getting-started/growing-with-adobe-campaign.md)
+* [移动营销和 Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
+* [使用 Adobe Campaign 实现增长](/help/getting-started/growing-with-adobe-campaign.md)
 
 ## 其他资源
 
