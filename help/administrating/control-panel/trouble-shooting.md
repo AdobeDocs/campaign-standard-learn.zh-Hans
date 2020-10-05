@@ -7,16 +7,16 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '327'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# 无法拍摄 [!UICONTROL Control Panel]
+# [!UICONTROL Control Panel] 故障排除
 
 了解如何在使用控制面板时进行故障排除。
 
@@ -47,16 +47,16 @@ ht-degree: 99%
 
 ### 有用视频
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=chi_hans)
 *检查[!DNL IMS Org ID]（00:26 分钟）*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=chi_hans)
 *如何添加管理员到[!UICONTROL product profile]*[!DNL administrators]*以便使用[!UICONTROL Control Panel]（01:03 分钟）*
 
 ### 帮助文档
 
 * [了解 [!UICONTROL Control Panel]](https://helpx.adobe.com/cn/campaign/kb/control-panel-overview.html)
-* [管理 [!UICONTROL Control Panel]](https://helpx.adobe.com/cn/campaign/kb/control-panel-access.html) 的权限
+* [管理 [!UICONTROL Control Panel] 的权限](https://helpx.adobe.com/cn/campaign/kb/control-panel-access.html)
 
 ## 建立与 SFTP 服务器（客户端或 API）的连接
 
