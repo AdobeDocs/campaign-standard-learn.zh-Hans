@@ -2,11 +2,11 @@
 title: Adobe Campaign Standard 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 众多特性和功能的视频和教程。
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增内容
 
-* **[向对照组添加投放](/help/communication-channels/email/control-groups.md)**
+* **[向传递添加控制组](/help/communication-channels/email/control-groups.md)**
 
-   *了解如何在定[!UICONTROL control group]义投放目标时创建。*
+   *了解如何在定义传递目标时创建[!UICONTROL control group]。*
 
 * **[预测发送时间优化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *了解哪些工作流需要在Adobe Campaign和旅程AI模型之间同步数据。 了解如何视图在单个用户档案级别发送时间得分以及如何使用发送时间公式执行电子邮件投放。*
+   *了解哪些工作流需要在 Adobe Campaign 和 Journey AI 模型之间同步数据。了解如何在个人用户档案级别查看发送时间得分以及如何使用发送时间公式执行电子邮件传递。*
 
-* **[预测性参与评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+* **[预测参与度评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-   *了解如何在个人视图层用户档案参与得分，使用得分定位参与的用户并抑制疲劳的用户，以及如何创建类型规则来管理客户疲劳。*
+   *了解如何在个人用户档案级别查看参与度得分，使用得分确定目标参与用户并禁止疲劳用户，以及如何创建类型学规则来管理客户疲劳。*
 
 ## 员工挑选
 
@@ -56,7 +56,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     </a>
     </div>
     <p>
-    <em> 通过控制面板管理设置和跟踪实例的使用情况，提高管理员的效率。</em>
+    <em> 通过使用控制面板管理设置和跟踪实例的使用情况，提高管理员的效率。</em>
     <p>
   </td>
   <td>
