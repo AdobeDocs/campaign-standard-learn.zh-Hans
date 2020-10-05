@@ -7,9 +7,9 @@ kt: 2924
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c72943b6e3209156b6f17679bae4d303fa766224
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
 ht-degree: 100%
 
@@ -39,5 +39,5 @@ ht-degree: 100%
 
 此视频介绍如何使用您存储在控制面板中的密钥，使用客户端 SFTP 应用程序连接到 SFTP 服务器。
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12&captions=chi_hans)
 *连接到 SFTP 服务器（02:04 分钟）*
