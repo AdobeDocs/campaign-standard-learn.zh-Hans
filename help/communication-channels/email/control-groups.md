@@ -1,6 +1,6 @@
 ---
-title: 向对照组添加投放
-description: 了解如何为投放定义对照组，以及如何在发送投放后提取分配给对照组的用户档案。
+title: 向传递添加控制组
+description: 了解如何为您的传递定义控制组，以及如何在发送传递后提取分配给控制组的用户档案。
 feature: control groups
 topics: null
 kt: 5060
@@ -8,21 +8,21 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 添加 [!UICONTROL control group] 到 [!UICONTROL delivery]
+# 向 [!UICONTROL delivery] 添加 [!UICONTROL control group]
 
-使用 [!UICONTROL control groups] 可衡量影响， [!UICONTROL delivery ]并优化营销活动。
+通过使用 [!UICONTROL control groups]，可以衡量 [!UICONTROL delivery ] 所具有的影响，并能优化营销活动。
 
-[!DNL Adobe Campaign Standard] 允许您创建一个 [!UICONTROL control group]目标受众，该可以随机或基于特定条件排除。 然后，该行 [!UICONTROL control group] 为可以作为基准，与接收营销通信的目标群体的行为进行比较。
+[!DNL Adobe Campaign Standard] 使您能够创建可以随机或基于特定条件从目标受众中排除的 [!UICONTROL control group]。然后，[!UICONTROL control group] 的行为可以用作基准，与收到营销通信的目标群体的行为进行比较。
 
-了解如何为 [!UICONTROL control group] 您定 [!UICONTROL delivery] 义用户档案，以及如何提取发送后分配 [!UICONTROL control group] 给的 [!UICONTROL delivery] 。
+了解如何为您的 [!UICONTROL delivery] 定义 [!UICONTROL control group]，以及如何在发送 [!UICONTROL delivery] 后提取分配给 [!UICONTROL control group] 的用户档案。
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=chi_hans)
