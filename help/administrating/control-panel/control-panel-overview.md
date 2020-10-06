@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: a078367ce8ffece206d3b83bfeefc4df4f8078d6
+workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -45,16 +45,18 @@ ht-degree: 100%
 
 您需要知道您的 [!DNL IMS org ID]。以下视频介绍查看实例 [!DNL IMS org ID] 的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=chi_hans)
-*检查[!DNL IMS Org ID]（00:26 分钟）*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
+*查看[!DNL IMS Org ID]（00:26 分钟）*
 
 ### 管理员权限
 
 需要管理员权限才能访问 [!UICONTROL Control Panel]。
 以下视频介绍如何向 Campaign 实例添加管理员
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=chi_hans)
-*如何向产品用户档案“[!UICONTROL Administrators]”添加管理员以便能够使用[!UICONTROL Control Panel]（01:03 分钟）*
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
+*如何将管理员在产品用户档案中添加为“[!UICONTROL Administrators]”，以便能够使用[!UICONTROL Control Panel]（01:03 分钟）*
 
 ## 控制面板教程
 
