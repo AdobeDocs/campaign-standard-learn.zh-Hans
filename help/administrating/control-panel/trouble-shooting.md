@@ -7,9 +7,9 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
 
@@ -47,10 +47,12 @@ ht-degree: 100%
 
 ### 有用视频
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=chi_hans)
-*检查[!DNL IMS Org ID]（00:26 分钟）*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=chi_hans)
+*查看[!DNL IMS Org ID]（00:26 分钟）*
+
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *如何添加管理员到[!UICONTROL product profile]*[!DNL administrators]*以便使用[!UICONTROL Control Panel]（01:03 分钟）*
 
 ### 帮助文档
