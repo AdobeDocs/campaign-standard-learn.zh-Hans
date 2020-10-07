@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standa
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 9e1a79692d12189657e21ea728ace94ff0403840
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 83%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -34,8 +34,8 @@ ht-degree: 83%
    + [Google TXT 记录管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 实例设置 {#instance-settings}
    + GPG 密钥管理 {#gpg-key-management}
-      + [GPG 密钥管理 - 概述](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [生成和安装用于数据加密的 GPG 密钥](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [使用 GPG 密钥加密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [解密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+   + [GPG 密钥管理 - 概述](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+   + [生成和安装用于数据加密的 GPG 密钥](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   + [使用 GPG 密钥加密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   + [解密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [控制面板故障排除](/help/control-panel-tutorials/trouble-shooting.md)
