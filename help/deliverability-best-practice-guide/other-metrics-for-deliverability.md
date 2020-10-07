@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 7aa32d583ac2ea756945a17634fb477d7b94cb7f
+source-git-commit: 6e4824185b84715d514bf21aace9e57c602e970d
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 0%
@@ -46,7 +46,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >弹回是衡量信誉问题的关键指标，因为它们可以突出坏数据源（硬弹回）或ISP的信誉问题（软弹回）。
-软弹回通常作为发送电子邮件的一部分发生，在重试处理过程中应允许解决，然后将其描述为真正的可交付性问题。 如果您的软弹跳率高于单个ISP的30%，且在24小时内无法解决，最好向Adobe Campaign交付性顾问提出疑虑。
+>
+>软弹回通常作为发送电子邮件的一部分发生，在重试处理过程中应允许解决，然后将其描述为真正的可交付性问题。 如果您的软弹跳率高于单个ISP的30%，且在24小时内无法解决，最好向Adobe Campaign交付性顾问提出疑虑。
 
 ## 投诉
 
