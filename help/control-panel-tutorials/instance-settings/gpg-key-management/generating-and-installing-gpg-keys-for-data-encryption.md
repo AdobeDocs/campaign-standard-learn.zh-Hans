@@ -3,16 +3,17 @@ title: 生成和安装用于数据加密的 GPG 密钥
 description: 控制面板允许您加密从 Adobe Campaign 实例中传出的数据。了解如何在指定的 Campaign 实例上生成并安装公钥/私钥对，以加密出站数据。
 feature: Control Panel
 topics: null
+audience: administrator
 kt: 5188
 thumbnail: 33686.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
