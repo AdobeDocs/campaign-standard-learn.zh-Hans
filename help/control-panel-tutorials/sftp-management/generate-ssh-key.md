@@ -1,17 +1,18 @@
 ---
 title: 生成 SSH 密钥
-description: 您需要能够生成 SSH 密钥，才能将其添加到 Adobe Campaign 控制面板。以下视频介绍如何使用终端生成 SSH 密钥。
+description: 了解如何使用终端生成SSH密钥，以及如何在控制面板中存储该密钥的公共版本。
 feature: Control Panel
 topics: null
 kt: 2923
+thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 21e864e4becac6a88f28c73d7df483014199387b
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 67%
+source-wordcount: '110'
+ht-degree: 35%
 
 ---
 
@@ -31,6 +32,6 @@ To access the SFTP Management in [!UICONTROL Control Panel], go to:
 
 ## 如何生成 SSH 密钥
 
-以下视频介绍如何使用终端生成SSH密钥。
+了解如何使用终端生成SSH密钥，以及如何在控制面板中存储该密钥的公共版本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
