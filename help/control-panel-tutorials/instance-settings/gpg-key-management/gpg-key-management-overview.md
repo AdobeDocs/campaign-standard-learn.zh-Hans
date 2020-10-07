@@ -3,12 +3,13 @@ title: GPG 密钥管理 - 概述
 description: 以下视频介绍如何在指定的 Campaign 实例上生成和安装公钥/私钥对以加密出站数据，以及在 Campaign 实例上导入和安装公钥以解密入站数据。
 feature: Control Panel
 topics: GPG key Management
+audience: administrator
 team: TM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
