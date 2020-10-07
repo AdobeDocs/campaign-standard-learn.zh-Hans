@@ -7,7 +7,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
@@ -30,6 +30,7 @@ Adobe Campaign Standard 与 Adobe Dreamweaver 集成允许您直接在 Dreamweav
 此视频介绍启用 Dreamweaver 集成所需的功能以及如何使用 Dreamweaver 创建和编辑 Adobe Campaign Standard 的内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
+
 *如何在 Adobe Campaign 中使用 Dreamweaver 集成（02:37 分钟）*
 
 ## 其他资源
