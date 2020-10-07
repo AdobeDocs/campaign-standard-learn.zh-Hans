@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '120'
+ht-degree: 80%
 
 ---
 
@@ -38,6 +38,7 @@ Adobe Campaign [!UICONTROL Control Panel]允许您将子域完全委派给 Adobe
 以下视频演示如何委派子域。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+
 *子域委派（05:07 分钟）*
 
 ## 其他资源
