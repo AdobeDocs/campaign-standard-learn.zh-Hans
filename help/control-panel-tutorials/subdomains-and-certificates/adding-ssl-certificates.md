@@ -3,16 +3,17 @@ title: 添加 SSL 证书
 description: Adobe Campaign 控制面板允许您添加 SSL 证书以保护子域。
 feature: Control Panel
 topics: null
+audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 54%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
