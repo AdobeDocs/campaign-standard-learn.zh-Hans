@@ -8,7 +8,7 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 7%
@@ -27,6 +27,7 @@ ht-degree: 7%
 此视频介绍如何使用 [!UICONTROL Data Services Query Audience] 活动在工作流中激 [!UICONTROL Read Audience] 活。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
+
 *在工作流中激活Adobe Experience Platform受众（02:37分钟）*
 
 ## 其他资源
