@@ -3,17 +3,17 @@ title: 生成 SSH 密钥
 description: 了解如何使用终端生成SSH密钥，以及如何在控制面板中存储该密钥的公共版本。
 feature: Control Panel
 topics: null
-audience: administrator
 kt: 2923
 thumbnail: 27259.jpg
 doc-type: feature video
+audience: administrator
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 35%
 
 ---
 
