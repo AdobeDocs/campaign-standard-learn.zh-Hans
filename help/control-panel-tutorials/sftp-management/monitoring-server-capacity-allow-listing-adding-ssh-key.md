@@ -3,16 +3,16 @@ title: 监视服务器容量、将 IP 地址添加到允许列表和添加 SSH �
 description: 控制面板允许您按实例监视和管理 SFTP 存储并将 IP 地址添加到允许列表。
 feature: Control Panel
 topics: null
-audience: administrator
 kt: 3266
 doc-type: feature video
+audience: administrator
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '235'
+ht-degree: 100%
 
 ---
 
