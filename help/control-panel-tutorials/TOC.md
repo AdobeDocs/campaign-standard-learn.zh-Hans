@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign控制面板Tutorials
+user-guide-title: Adobe Campaign 控制面板教程
 user-guide-description: 控制面板允许Adobe Campaign管理员监视关键资产并执行管理任务，如按实例或允许列表IP地址管理SFTP存储。
 breadcrumb-title: 控制面板教程
 solution-title: 体验联盟
@@ -12,15 +12,15 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standa
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
+source-git-commit: d2f63c27e950cffa354c7b4722546afd7c96d05e
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 60%
+ht-degree: 73%
 
 ---
 
 
-# Adobe Campaign控制面板Tutorials {#control-panel}
+# Adobe Campaign 控制面板教程 {#control-panel}
 
 + [控制面板概述](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板入门](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
@@ -35,8 +35,8 @@ ht-degree: 60%
    + [Google TXT 记录管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 实例设置 {#instance-settings}
    + GPG 密钥管理 {#gpg-key-management}
-   + [GPG 密钥管理 - 概述](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-   + [生成和安装用于数据加密的 GPG 密钥](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-   + [使用 GPG 密钥加密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-   + [解密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [GPG 密钥管理 - 概述](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [生成和安装用于数据加密的 GPG 密钥](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [使用 GPG 密钥加密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + [解密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [控制面板故障排除](/help/control-panel-tutorials/trouble-shooting.md)
