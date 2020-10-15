@@ -1,6 +1,6 @@
 ---
 title: 创建用户档案和受众-概述
-description: 了解如何导航到现有用户档案以及如何在Adobe Campaign Standard创建用户档案和受众。
+description: 了解如何导航到现有配置文件以及如何在 Adobe Campaign Standard 中创建配置文件和受众。
 feature: Profiles and Audiences
 topics: null
 kt: 3899
@@ -10,8 +10,8 @@ team: WWFRE
 translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 25%
 
 ---
 
