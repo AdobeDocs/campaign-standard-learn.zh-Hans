@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '192'
+ht-degree: 54%
 
 ---
 
@@ -61,5 +61,5 @@ The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase 
 
 ## 其他资源
 
-* [委派子域](/help/administrating/control-panel/subdomain-delegation.md)
+* [委派子域](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
 * [子域和证书 - 文档](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
