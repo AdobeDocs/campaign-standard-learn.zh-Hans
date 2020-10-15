@@ -3,10 +3,10 @@ title: Adobe Campaign Standard 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 98%
+source-wordcount: '337'
+ht-degree: 94%
 
 ---
 
@@ -47,11 +47,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     <p>
   </td>
    <td>
-    <a href="./control-panel-tutorials/control-panel-overview.md">
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)">
       <img alt="控制面板（视频）" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./control-panel-tutorials/control-panel-overview.md">
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html">
     <strong>控制面板（视频）</strong>
     </a>
     </div>
