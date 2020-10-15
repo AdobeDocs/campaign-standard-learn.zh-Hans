@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -49,11 +49,11 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*查看[!DNL IMS Org ID]（00:26 分钟）*
+*查看 [!DNL IMS Org ID]（00:26 分钟）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*如何添加管理员到[!UICONTROL product profile]*[!DNL administrators]*以便使用[!UICONTROL Control Panel]（01:03 分钟）*
+*如何添加管理员到 [!UICONTROL product profile]*[!DNL administrators]*以便使用 [!UICONTROL Control Panel]（01:03 分钟）*
 
 ### 帮助文档
 
@@ -68,7 +68,7 @@ ht-degree: 100%
 * 需要向 Adobe Campaign 注册的私钥/公钥对
 * 如果直接连接到 SFTP 服务器，您还需要 SFTP 客户端软件
 
-### 帮助文档
+### 帮助文档 {#helpful-docs}
 
 * [登录 SFTP 服务器](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
