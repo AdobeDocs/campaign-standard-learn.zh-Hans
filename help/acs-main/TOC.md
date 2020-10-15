@@ -11,10 +11,10 @@ getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 370c10f0f3c696ce006c4af8d01c80bafa25b50c
+source-git-commit: 314fa481c3467ba305c242e6c338caad5a836315
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 94%
+source-wordcount: '492'
+ht-degree: 96%
 
 ---
 
@@ -106,20 +106,7 @@ ht-degree: 94%
       + [创建自定义资源](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 管理 {#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
-   + 控制面板 {#control-panel}
-      + [控制面板概述](/help/administrating/control-panel/control-panel-overview.md)
-      + [监视服务器容量、允许列表 IP 地址和添加 SSH 密钥](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [生成 SSH 密钥](/help/administrating/control-panel/generate-ssh-key.md)
-      + [连接到 SFTP 服务器](/help/administrating/control-panel/connect-to-sftp-server.md)
-      + [委派子域](/help/administrating/control-panel/subdomain-delegation.md)
-      + [添加 SSL 证书](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [Google TXT 记录管理](/help/administrating/control-panel/google-txt-record-management.md)
-      + GPG 密钥管理 {#gpg-key-management}
-         + [GPG 密钥管理 - 概述](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [生成和安装用于数据加密的 GPG 密钥](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [使用 GPG 密钥加密数据](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [解密数据](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
-      + [故障排除](/help/administrating/control-panel/trouble-shooting.md)
+   + [控制面板] (/help/control-panel-tutorials/control-panel-overview.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [了解 Adobe Experience Platform 数据连接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [映射自定义资源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -136,5 +123,3 @@ ht-degree: 94%
    + [修改隐私请求的自定义资源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手动创建和跟踪隐私请求](/help/privacy/create-and-track-privacy-requests.md)
    + [执行隐私请求](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign交付能力最佳实践指南](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-+ [控制面板](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
