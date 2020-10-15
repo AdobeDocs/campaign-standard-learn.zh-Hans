@@ -1,6 +1,6 @@
 ---
 title: 创建电子邮件投放
-description: '您可以从活动、Adobe Campaign主页或营销活动列表创建电子邮件。 您还可以从工作流创建单发送和重复发送的电子邮件。 此视频介绍如何从主页创建电子邮件投放。 '
+description: '您可以根据促销活动、Adobe Campaign 主页或营销活动列表创建电子邮件。您还可以根据工作流创建单一发送和重复发送的电子邮件。此视频介绍如何从主页创建电子邮件传送。 '
 feature: Email
 topics: null
 kt: 1807
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 8%
+ht-degree: 45%
 
 ---
 
