@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 18%
 
 ---
 
@@ -22,17 +22,9 @@ Adobe Campaign控制面板允许Adobe Campaign管理员监视关键资产并执�
 
 ## 新增内容
 
-* **[生成和安装用于数据加密的 GPG 密钥](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[使用CNAME委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *了解如何生成公共／私有GPG密钥对并将公共密钥安装到中，以[!UICONTROL Control Panel]便在从实例发送数据之前对其进行加密。*
-
-* **[使用 GPG 密钥加密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-
-   *了解如何使用安装在上的GPG密钥导出数据[!UICONTROL Control Panel]。*
-
-* **[解密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-   *了解如何创建公钥并将其导入和安装在[!UICONTROL Campaign]实例上，以解密入站数据。*
+   *了解如何使用控制面板中的CNAME设置和提交子域。*
 
 ## 员工挑选
 
