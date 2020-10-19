@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 96%
    + [移动营销和 Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [使用 Adobe Campaign 实现增长](/help/getting-started/growing-with-adobe-campaign.md)
 + 用户档案和受众 {#profiles-and-audiences}
-   + [创建用户档案和受众-概述](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [创建用户档案和受众 - 概述](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [创建用户档案](/help/profiles-and-audiences/creating-a-profile.md)
    + [创建测试用户档案](/help/profiles-and-audiences/test-profiles.md)
    + [使用工作流导入用户档案](/help/managing-processes-and-data/importing-profiles.md)
