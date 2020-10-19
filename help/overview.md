@@ -3,10 +3,10 @@ title: Adobe Campaign Standard 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 94%
+source-wordcount: '262'
+ht-degree: 85%
 
 ---
 
@@ -17,17 +17,9 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增内容
 
-* **[向传递添加控制组](/help/communication-channels/email/control-groups.md)**
+* **[使用CNAME委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *了解如何在定义传递目标时创建 [!UICONTROL control group]。*
-
-* **[预测发送时间优化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
-
-   *了解哪些工作流需要在 Adobe Campaign 和 Journey AI 模型之间同步数据。了解如何在个人用户档案级别查看发送时间得分以及如何使用发送时间公式执行电子邮件传递。*
-
-* **[预测参与度评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
-
-   *了解如何在个人用户档案级别查看参与度得分，使用得分确定目标参与用户并禁止疲劳用户，以及如何创建类型学规则来管理客户疲劳。*
+   *了解如何使用控制面板中的CNAME设置和提交子域。*
 
 ## 员工挑选
 
