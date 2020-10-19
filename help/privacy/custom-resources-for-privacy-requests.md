@@ -1,36 +1,36 @@
 ---
-title: 在为隐私请求设置Adobe Campaign Standard(ACS)时修改自定义资源
-description: 在设置Adobe Campaign Standard(ACS)以处理隐私请求时，您需要确保在删除用户档案时删除链接到该用户档案的任何自定义数据。 此视频介绍如何修改自定义资源以满足此要求。
+title: 在为隐私请求设置 Adobe Campaign Standard (ACS) 时修改自定义资源
+description: 在设置 Adobe Campaign Standard (ACS) 以处理隐私请求时，您需要确保在删除用户档案时删除链接到该用户档案的任何自定义数据。此视频说明如何修改自定义资源以满足此要求。
 feature: GDPR, CCPA
 topic: null
 kt: 1243
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '199'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
 # 修改隐私请求的自定义资源
 
-在设置Adobe Campaign Standard以处理隐私请求时，您需要确保在删除用户档案时删除链接到该用户档案的任何自定义数据。 此视频介绍如何修改自定义资源以满足此要求。
+在设置 Adobe Campaign Standard 以处理隐私请求时，您需要确保在删除用户档案时删除链接到该用户档案的任何自定义数据。此视频说明如何修改自定义资源以满足此要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=chi_hans)
 
 >[!NOTE]
 >
->**选择退出个人信息销售(CCPA)**
+>**选择退出个人信息销售 (CCPA)**
 >
->从19.4开始，在活动界面和API中提供了现成的CCPA退出字段。 对于19.3，要利用此信息，您需要在Adobe Campaign Standard创建此>字段。 有关详细信息， [请参阅](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) 详细的文档。
+>从 19.4 开始，在 Campaign 界面和 API 中提供现成的“CCPA 选择退出”字段。对于 19.3，要利用此信息，您需要在 Adobe Campaign Standard 创建此字段。有关详细信息，请参阅[详细文档](https://helpx.adobe.com/cn/campaign/kb/acs-privacy.html#ccpa)。
 >
-> 单击？ 图标，然后选择“关于”。
+> 可以通过单击界面右上方的 ? 图标，然后选择“关于”来检查版本。
 
 ## 其他资源
 
-* [活动的一般隐私准则](https://helpx.adobe.com/cn/campaign/kb/campaign-privacy-overview.html)
+* [Campaign 的一般隐私准则](https://helpx.adobe.com/cn/campaign/kb/campaign-privacy-overview.html)
 * [创建自定义资源](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
