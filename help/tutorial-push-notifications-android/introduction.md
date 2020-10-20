@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 33%
+ht-degree: 41%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 33%
 
 ## 教程步骤
 
-* [第1步——创建Android应用程序](/help/tutorial-push-notifications-android/create-android-app.md)
-* [第2步——集成Mobile SDK](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
+* [步骤 1 - 创建 Android 应用程序](/help/tutorial-push-notifications-android/create-android-app.md)
+* [步骤 2 - 集成 Mobile SDK](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
 * [步骤3 —— 使用移动应用程序注册扩展](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
-* [第4步——设置推送标识符](/help/tutorial-push-notifications-android/set-push-identifier.md)
-* [第5步——传播通知](/help/tutorial-push-notifications-android/propagate-notification.md)
+* [步骤 4 - 设置推送标识符](/help/tutorial-push-notifications-android/set-push-identifier.md)
+* [步骤 5 - 传播通知](/help/tutorial-push-notifications-android/propagate-notification.md)
 * [第6步——发送推送通知](/help/tutorial-push-notifications-android/send-push-notification.md)
