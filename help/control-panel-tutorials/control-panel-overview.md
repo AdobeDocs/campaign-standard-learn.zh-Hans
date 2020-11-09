@@ -8,11 +8,11 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
