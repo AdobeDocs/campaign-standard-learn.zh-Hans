@@ -9,11 +9,11 @@ tutorials-title: 教程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/tutorials/overview.html
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
-translation-type: ht
-source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
-workflow-type: ht
-source-wordcount: '497'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+workflow-type: tm+mt
+source-wordcount: '495'
+ht-degree: 98%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
    + [探索层级和营销活动](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理营销活动](/help/getting-started/managing-campaigns.md)
    + [了解用户档案和受众](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [创建电子邮件](https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [创建电子邮件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [创建工作流](/help/managing-processes-and-data/create-workflow.md)
    + [报告简介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [移动营销和 Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
