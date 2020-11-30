@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard-lea
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 98%
+source-wordcount: '502'
+ht-degree: 96%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 98%
 + 快速入门 {#getting-started}
    + [概述](/help/getting-started/getting-started-overview.md)
    + [Adobe Campaign Standard 简介](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [UI 入门](/help/getting-started/getting-started-with-the-ui.md)
+   + [UI快速入门](/help/getting-started/getting-started-with-the-ui.md)
    + [配置列表](/help/getting-started/configure-a-list.md)
    + [探索层级和营销活动](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理营销活动](/help/getting-started/managing-campaigns.md)
    + [了解用户档案和受众](/help/getting-started/understanding-profiles-and-audiences.md)
    + [创建电子邮件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [创建工作流](/help/managing-processes-and-data/create-workflow.md)
+   + [创建工作流](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [报告简介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [移动营销和 Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [使用 Adobe Campaign 实现增长](/help/getting-started/growing-with-adobe-campaign.md)
@@ -90,7 +90,7 @@ ht-degree: 98%
       + [使用 Adobe Dreamweaver 创建内容](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [在交易电子邮件中配置产品列表](/help/designing-content/product-listings-in-transactional-email.md)
 + 管理流程和数据 {#managing-processes-and-data}
-   + [创建工作流](/help/managing-processes-and-data/create-workflow.md)
+   + [创建工作流](/help/managing-processes-and-data/creating-a-workflow.md)
    + 执行活动 {#execution-activities}
       + [外部信号活动](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 数据管理活动 {#data-management-activities}
