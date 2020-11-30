@@ -8,7 +8,7 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 100%
@@ -31,7 +31,7 @@ Adobe Campaign Standard 是一款功能强大的跨渠道活动管理工具，�
 * [管理营销活动](/help/getting-started/managing-campaigns.md)
 * [了解用户档案和受众](/help/getting-started/understanding-profiles-and-audiences.md)
 * [创建电子邮件](https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-* [创建工作流](/help/managing-processes-and-data/create-workflow.md)
+* [创建工作流](/help/managing-processes-and-data/creating-a-workflow.md)
 * [报告简介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [移动营销和 Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
 * [使用 Adobe Campaign 实现增长](/help/getting-started/growing-with-adobe-campaign.md)
