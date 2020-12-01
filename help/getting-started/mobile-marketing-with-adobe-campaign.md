@@ -1,14 +1,15 @@
 ---
 title: Adobe Campaign 的移动营销
 description: 此视频介绍哪些 Adobe Campaign Standard 功能可支持您的移动营销战略。
-feature: Mobile
+feature: mobile
 topics: null
 kt: 3976
+thumbnail: 29468.jpg
 doc-type: value video
 activity: understand
 team: PMM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
