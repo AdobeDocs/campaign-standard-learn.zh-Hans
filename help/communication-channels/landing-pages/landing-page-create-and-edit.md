@@ -4,14 +4,15 @@ description: Adobe Campaign附带的登陆页是在线表单，可用于捕获�
 feature: Landing Pages
 topics: null
 kt: 1808
+thumbnail: 24093.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
