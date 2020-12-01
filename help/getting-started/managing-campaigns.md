@@ -1,17 +1,18 @@
 ---
 title: 管理活动
 description: Adobe Campaign允许您规划营销活动，在其中创建和管理不同类型的活动。 此视频将向您展示如何在Adobe Campaign中创建和管理活动。
-feature: managing campaigns
+feature: campaigns
 topics: Getting Started
 kt: 1816
+thumbnail: 24672.jpg
 doc-type: feature video
 activity: USE
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 14%
+source-wordcount: '99'
+ht-degree: 15%
 
 ---
 
@@ -24,4 +25,4 @@ Adobe Campaign allows you to plan marketing campaigns in which you can create an
 
 ## 其他资源
 
-* [项目和营销策划](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)
+* [计划和营销活动](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)
