@@ -4,14 +4,15 @@ description: 外部信号活动用于组织和编排不同的流程，这些流�
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
+thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
@@ -27,11 +28,13 @@ The [!UICONTROL External Signal activity] is used to organize and orchestrate di
 以下视频介绍了完成以下操作所需的配置步骤：
 
 1. **从外部系统** (如内容管理系统(CRM))接收外部参数：
+
    * 在外部信号活动中声明参数
    * 配置API调用以定义参数并触发工作流外部信号活动。 有关如何配置API调用的详细信息，请参 [阅触发信号活动](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity)。
 
 1. **使用外部参数(事件变量** )自定义工作流：
-触发工作流后，参数将被引入工作流的事件变量中，并可在工作流中使用。 请参阅 [可以](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) 使用活动变量自定义的所有事件的文档：
+
+   触发工作流后，参数将被引入工作流的事件变量中，并可在工作流中使用。 请参阅 [可以](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) 使用活动变量自定义的所有事件的文档：
 
    * 配置测试活动（19.2中新增）
    * 配置读取受众和电子邮件投放活动
@@ -42,4 +45,4 @@ The [!UICONTROL External Signal activity] is used to organize and orchestrate di
 
 ## 其他资源
 
-* [外部信号（文档）](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [外部信号（文档）](https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
