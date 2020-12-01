@@ -4,12 +4,13 @@ description: 在设置 Adobe Campaign Standard (ACS) 以处理隐私请求时，
 feature: GDPR, CCPA
 topic: null
 kt: 1243
+thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
@@ -20,7 +21,7 @@ ht-degree: 100%
 
 在设置 Adobe Campaign Standard 以处理隐私请求时，您需要确保在删除用户档案时删除链接到该用户档案的任何自定义数据。此视频说明如何修改自定义资源以满足此要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >
