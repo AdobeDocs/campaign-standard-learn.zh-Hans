@@ -1,5 +1,5 @@
 ---
-title: 创建自定义资源
+title: 创建自定义资源——简介
 description: Adobe Campaign Standard提供扩展资源或创建全新资源的能力。 此多部分教程将指导您完成创建和链接自定义资源所需的步骤。
 feature: Custom Resources
 topics: null
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 
-# 创建自定义资&#x200B;源
+# 创建自定义资&#x200B;源——简介
 
 [!DNL Adobe Campaign] 预定义的数据模型提供，其中数据通过不同的资源进行定义。 [!DNL Campaign] 提供扩展资源或创建全新资源的功能。
 
