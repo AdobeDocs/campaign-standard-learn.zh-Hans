@@ -4,11 +4,12 @@ description: Adobe Campaign Standard(ACS)可简化发送多语言活动的操作
 feature: Multi-lingual Deliveries
 topics: Mobile Channel, Email Channel
 kt: 1277
+thumbnail: 23252
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%
