@@ -1,22 +1,23 @@
 ---
-title: 创建SMS投放
+title: 创建短信投放
 description: 此视频介绍如何在Adobe Campaign Standard(ACS)创建SMS投放。
 feature: SMS
-topics: Mobile
+topics: null
 kt: 1819
+thumbnail: 25265.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
 
-# 创建SMS投放{#creating-a-sms-delivery}
+# 创建短信投放{#creating-a-sms-delivery}
 
 此视频介绍如何在Adobe Campaign Standard创建SMS投放。 您还可以使用SMS投放活动在工作流中配置SMS发送。
 
