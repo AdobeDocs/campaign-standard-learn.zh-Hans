@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 本教程将逐步说明如何：
 
-第1步——创 [建自定义](./creating-a-custom-resource)资源第2 [步——配置屏](./configuring-a-screen-definition-for-a-custom-resource.md)幕定义第3步——链 [接自定义资](./linking-custom-resources.md)源第4步——使 [用数据填充自定义资源](./populate-custom-resources-with-data.md)
+第1步——创 [建自定义](./creating-a-custom-resource.md)资源第2 [步——配置屏](./configuring-a-screen-definition-for-a-custom-resource.md)幕定义第3步——链 [接自定义资](./linking-custom-resources.md)源第4步——使 [用数据填充自定义资源](./populate-custom-resources-with-data.md)
 
 ## 开始教程
 
-[创建自定义资源](./create-a-custom-resource)
+[创建自定义资源](./create-a-custom-resourc.md)
 
 ## 其他资源
 
