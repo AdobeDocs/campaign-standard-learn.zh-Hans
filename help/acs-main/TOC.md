@@ -6,14 +6,14 @@ breadcrumb-title: Campaign Standard 教程
 solution-title: 体验联盟
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: 教程
-tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: 文档
-getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 96%
+source-wordcount: '497'
+ht-degree: 89%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
    + [UI快速入门](/help/getting-started/getting-started-with-the-ui.md)
    + [配置列表](/help/getting-started/configure-a-list.md)
    + [探索层级和营销活动](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
-   + [管理营销活动](/help/getting-started/managing-campaigns.md)
+   + [管理活动](/help/getting-started/managing-campaigns.md)
    + [了解用户档案和受众](/help/getting-started/understanding-profiles-and-audiences.md)
    + [创建电子邮件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [创建工作流](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
@@ -65,7 +65,7 @@ ht-degree: 96%
       + 推送通知 {#push}
          + [创建推送通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [创建多语言推送通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [教程：Android 推送通知入门](https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [教程：Android 推送通知入门](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
       + 应用程序内消息 {#in-app}
          + [应用程序内消息简介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [配置事件](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -100,12 +100,10 @@ ht-degree: 96%
    + [创建动态报告](/help/reporting/creating-a-dynamic-report.md)
    + [根据自定义用户档案属性创建报告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
-+ 开发 {#developing}
-   + 自定义资源 {#custom-resources-develop}
-      + [创建自定义资源](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 管理 {#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
-   + [控制面板](https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [控制面板](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hans)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [了解 Adobe Experience Platform 数据连接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [映射自定义资源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
