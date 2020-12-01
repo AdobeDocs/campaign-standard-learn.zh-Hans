@@ -4,14 +4,15 @@ description: GDPR或CCPA要求能够创建隐私访问和删除请求的先决�
 feature: GDPR, CCPA
 topic: null
 kt: 1460
+thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
@@ -26,4 +27,4 @@ GDPR或CCPA要求能够创建隐私访问和删除请求的先决条件是，命
 
 ## 其他资源
 
-* [活动的一般隐私准则](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
+* [活动的一般隐私准则](https://helpx.adobe.com/cn/campaign/kb/campaign-privacy-overview.html)
