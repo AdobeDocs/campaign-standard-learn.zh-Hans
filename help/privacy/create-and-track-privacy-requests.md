@@ -4,14 +4,15 @@ description: Adobe Campaign允许您根据GDPR和CCPA等隐私权法案创建PII
 feature: GDPR, CCPA
 topic: null
 kt: 1242
+thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 19%
 
 ---
 
@@ -26,5 +27,5 @@ Adobe Campaign允许您根据GDPR和CCPA等隐私权法案创建PII数据的访�
 
 ## 其他资源
 
-* [活动的一般隐私准则](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [CCPA for ACS](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Campaign 的一般隐私准则](https://helpx.adobe.com/cn/campaign/kb/campaign-privacy-overview.html)
+* [CCPA for ACS](https://helpx.adobe.com/cn/campaign/kb/acs-privacy.html#ccpa)
