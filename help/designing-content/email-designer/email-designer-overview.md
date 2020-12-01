@@ -3,13 +3,14 @@ title: Email Designer 概述
 description: 此视频介绍 Email Designer 的一般功能以及如何从头开始设计电子邮件。本页面列出了 Adobe Campaign Email Designer 的所有可用功能视频
 feature: Email Designer
 topics: Content Creation
-kt: null
+kt: 1402
+thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%
 
@@ -22,7 +23,7 @@ ht-degree: 100%
 
 此视频为您提供对于 Adobe Campaign Standard [!UICONTROL Email Designer] 的功能和用法的高级概述。
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
 ## 教程
 
