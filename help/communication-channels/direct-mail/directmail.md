@@ -4,11 +4,12 @@ description: 对于全球的营销人员来说，直邮仍是一个关键渠道�
 feature: direct mail
 topics: null
 kt: 1430
+thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 1%
