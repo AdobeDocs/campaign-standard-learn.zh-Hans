@@ -9,10 +9,10 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 87%
+source-wordcount: '77'
+ht-degree: 66%
 
 ---
 
@@ -25,5 +25,5 @@ ht-degree: 87%
 
 ## 其他资源
 
-* [关于界面](https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
-* [界面描述](https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
+* [关于界面](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [界面描述](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
