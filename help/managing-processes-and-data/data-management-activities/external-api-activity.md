@@ -4,11 +4,12 @@ description: 外部 API 活动是数据管理活动。它允许您调用外部 R
 feature: External API activity
 topics: null
 kt: 2764
+thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 100%
