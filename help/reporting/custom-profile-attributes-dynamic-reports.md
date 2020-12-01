@@ -3,14 +3,15 @@ title: 创建基于报表的自定义用户档案属性
 description: Adobe Campaign的动态报表设计为灵活的自由形式环境，您可以通过包含自定义用户档案属性来浏览数据。 它允许您通过无限制的细分和比较，将维度、指标和时间范围组合到任何组合中。 此视频介绍如何根据自定义用户档案属性创建报表。
 feature: Dynamic Reporting
 kt: 1444
+thumbnail: 28204.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 
