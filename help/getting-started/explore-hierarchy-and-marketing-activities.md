@@ -8,11 +8,11 @@ thumbnail: 18465.jpg
 doc-type: feature video
 activity: Understand
 team: WWFRE
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 89%
 
 此视频介绍项目和活动的层级，如何创建营销项目，以及如何在项目中创建营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12&captions=chi_hans)
 
 ## 其他资源
 
-* [计划和营销活动](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.htm)
+* [计划和营销活动](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=zh-Hans)
