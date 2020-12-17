@@ -4,16 +4,16 @@ user-guide-title: Adobe Campaign Standard 教程
 user-guide-description: 设计跨渠道客户体验并创建可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: Campaign Standard 教程
 solution-title: 体验联盟
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hans&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: 教程
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-translation-type: tm+mt
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans
+translation-type: ht
 source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 89%
 + 快速入门 {#getting-started}
    + [概述](/help/getting-started/getting-started-overview.md)
    + [Adobe Campaign Standard 简介](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [UI快速入门](/help/getting-started/getting-started-with-the-ui.md)
+   + [UI 入门](/help/getting-started/getting-started-with-the-ui.md)
    + [配置列表](/help/getting-started/configure-a-list.md)
    + [探索层级和营销活动](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理活动](/help/getting-started/managing-campaigns.md)
    + [了解用户档案和受众](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [创建电子邮件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [创建工作流](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
+   + [创建电子邮件](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=zh-Hans)
+   + [创建工作流](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=zh-Hans)
    + [报告简介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [移动营销和 Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [使用 Adobe Campaign 实现增长](/help/getting-started/growing-with-adobe-campaign.md)
@@ -65,7 +65,7 @@ ht-degree: 89%
       + 推送通知 {#push}
          + [创建推送通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [创建多语言推送通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [教程：Android 推送通知入门](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [教程：Android 推送通知入门](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hans)
       + 应用程序内消息 {#in-app}
          + [应用程序内消息简介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [配置事件](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -102,7 +102,7 @@ ht-degree: 89%
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
 + 管理 {#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
-   + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hans)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [了解 Adobe Experience Platform 数据连接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
