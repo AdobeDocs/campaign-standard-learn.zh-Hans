@@ -8,9 +8,9 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 了解如何在个人用户档案级别查看参与度得分，使用得分确定目标参与用户并禁止疲劳用户，以及如何创建类型学规则来管理客户疲劳。
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
 
 ## 其他资源
 
