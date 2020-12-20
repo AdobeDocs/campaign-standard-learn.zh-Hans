@@ -8,9 +8,9 @@ thumbnail: 29430.jpg
 doc-type: feature video
 activity: understand
 team: PMM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 此视频介绍 [!UICONTROL Adobe Campaign Standard] 并提供主要功能的高级概述。
 
->[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
