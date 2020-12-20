@@ -17,11 +17,11 @@ ht-degree: 4%
 ---
 
 
-# 在交易 [!UICONTROL product listings] 电子邮件中配置
+# 在事务性电子邮件中配置[!UICONTROL product listings]
 
 您可以配置具有产品列表（在设计电子邮件时未知）的重新定位电子邮件。 可以在运行时从有效负荷中添加这些产品。 例如，您可以自动发送购物车放弃电子邮件，其中列出用户放弃购物车前购物车中的所有产品，包括图像、价格和指向每个产品的链接。
 
-以下视频介绍了在中配置所需 [!UICONTROL product listings] 的步骤 [!UICONTROL transactional emails]。
+以下视频介绍在[!UICONTROL transactional emails]中配置[!UICONTROL product listings]所需的步骤。
 
 >[!NOTE]
 >
