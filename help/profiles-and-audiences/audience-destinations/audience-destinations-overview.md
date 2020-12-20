@@ -25,12 +25,12 @@ ht-degree: 10%
 >
 >此功能目前为测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
->如果您计划实 [!UICONTROL Adobe Customer Support] 施此功能，请联系。
+>如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
 
 本教程介绍如何将来自Adobe Experience Platform的集中化和整合的用户档案数据用于Adobe Campaign Standard的营销活动。
 
-Adobe Campaign Standard [!UICONTROL Audiences] 的模块允许您使用位于实时客户用户档案的 [Adobe Experience Platform数据](https://www.adobe.io/apis/experienceplatform/home/services.html) -数据服 [务创建细分](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)。
+Adobe Campaign Standard的[!UICONTROL Audiences]模块允许您使用[Adobe Experience Platform-数据服务](https://www.adobe.io/apis/experienceplatform/home/services.html)中的数据创建细分，该数据位于[实时客户用户档案](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)中。
 
 以下视频教程将指导您完成不同的步骤：
 
