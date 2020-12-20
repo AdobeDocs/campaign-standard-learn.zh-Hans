@@ -17,15 +17,15 @@ ht-degree: 7%
 ---
 
 
-# 在营销工作流中的工作流 [!UICONTROL Adobe Experience Platform Audiences] 中激活Adobe Experience Platform受众
+# 在营销工作流[!UICONTROL Adobe Experience Platform Audiences]的工作流中激活Adobe Experience Platform受众
 
 >[!NOTE]
 >
 >此功能目前为测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
->如果您计划实 [!UICONTROL Adobe Customer Support] 施此功能，请联系。
+>如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
-此视频介绍如何使用 [!UICONTROL Data Services Query Audience] 活动在工作流中激 [!UICONTROL Read Audience] 活。
+此视频介绍如何使用[!UICONTROL Read Audience]活动在工作流中激活[!UICONTROL Data Services Query Audience]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
