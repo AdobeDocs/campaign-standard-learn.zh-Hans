@@ -16,9 +16,9 @@ ht-degree: 10%
 
 ---
 
-# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# 关于[!UICONTROL In-App]投放{#in-app-message-reporting}的报告
 
-您可以通过添加 [!UICONTROL In-App] 特定指标，在投放摘要中查看与投放相关 [!UICONTROL In-App] 的数据。 或者，您也可以使用现成的应 [用程序内报告](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)。
+您可以通过添加[!UICONTROL In-App]特定度量在投放摘要中查看[!UICONTROL In-App]投放相关数据。 或者，也可以使用现成的[应用程序内报告](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
