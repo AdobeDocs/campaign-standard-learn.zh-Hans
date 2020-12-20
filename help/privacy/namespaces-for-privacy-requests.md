@@ -8,9 +8,9 @@ thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ GDPR 或 CCPA 要求能够创建隐私访问和删除请求的先决条件是，
 
 此视频介绍如何为隐私请求创建命名空间。
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
 
 ## 其他资源
 
