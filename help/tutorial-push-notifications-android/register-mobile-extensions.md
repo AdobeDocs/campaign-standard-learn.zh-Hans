@@ -18,9 +18,9 @@ ht-degree: 0%
 
 # 步骤3 —— 使用移动应用程序注册扩展
 
-在本部分中，我们将添加代码来注册用户用户档案、身份、生命周期和信号扩展。 这些扩展是的一部分 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)。 我们还需要注册Adobe Campaign Standard扩展，如下面的代码所示。
+在本部分中，我们将添加代码来注册用户用户档案、身份、生命周期和信号扩展。 这些扩展是[[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)的一部分。 我们还需要注册Adobe Campaign Standard扩展，如下面的代码所示。
 
-在Studio中打开 [!DNL Android] 项目。 删除MainApp中的整个代 **码，但第一行是包语句**。
+在[!DNL Android] studio中打开您的项目。 删除MainApp **中的整个代码，但第一行是您的包语句**。
 
 将以下代码粘贴到MainApp中
 
@@ -70,6 +70,6 @@ try{
 }
 ```
 
-第32行，您需要提供属性[!UICONTROL  Launch] 的环境文件id。 您可以从您的属 [!UICONTROL environment tab] 性访问 [!UICONTROL Launch] 此项。
+第32行需要提供[!UICONTROL  Launch]属性的环境文件id。 可从[!UICONTROL Launch]属性的[!UICONTROL environment tab]访问该属性。
 
 ![启动ID](assets/launch-id-property.PNG)
