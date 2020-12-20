@@ -26,7 +26,7 @@ ht-degree: 52%
 
 要在 [!UICONTROL Control Panel]中访问子域管理，请转到：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] >卡 **[!UICONTROL Control Panel]** >子 [!UICONTROL **域和证书卡**]
+* [Experience Cloud主页](https://experience.adobe.com/#/home) >  [!UICONTROL Solution picker]: [!DNL Campaign] >卡 **[!UICONTROL Control Panel]** >子域 [!UICONTROL **和证书**] 卡
 
    或者
 * 直接从 URL 访问：[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -35,11 +35,11 @@ ht-degree: 52%
 
 添加 SSL 证书需要三个步骤：
 
-### 第1步：生成 [!UICONTROL Certificate Signing Requests]
+### 第1步：生成[!UICONTROL Certificate Signing Requests]
 
-The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. 它需要为实例和您计划保护的子域生成。
+购买SSL证书需要[!UICONTROL Certificate Signing Request](CSR)。 它需要为实例和您计划保护的子域生成。
 
-以下视频介绍如何在中生 [!UICONTROL Certificate Signing Request] 成 [!UICONTROL Control Panel]。
+以下视频介绍如何在[!UICONTROL Control Panel]中生成[!UICONTROL Certificate Signing Request]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 
