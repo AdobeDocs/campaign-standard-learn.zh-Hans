@@ -17,17 +17,17 @@ ht-degree: 1%
 ---
 
 
-# 创建 [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# 创建[!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-该 [!UICONTROL Direct Mail] 渠道允许您提取要发送到机构或上传到SFTP服务器的收件人的分段列表。
+[!UICONTROL Direct Mail]渠道允许您提取要发送到机构或上传到SFTP服务器的收件人的分段列表。
 
-此视频介绍如何配 [!UICONTROL Direct Mail] 置投放以及为了能够向用户档案添加投放而需要哪些 [!UICONTROL Direct Mail] 设置。
+此视频介绍如何配置[!UICONTROL Direct Mail]投放，以及为了能够向[!UICONTROL Direct Mail]投放添加用户档案，需要哪些设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## 在工作 [!UICONTROL Direct Mail] 流中创建
+## 在工作流中创建[!UICONTROL Direct Mail]
 
-渠道可从主页和工作流视图中使用，以定义内聚的跨渠道营销战略。 以下示例工作流包括 [!UICONTROL Direct Mail activity]。
+渠道可从主页和工作流视图中使用，以定义内聚的跨渠道营销战略。 以下示例工作流包括[!UICONTROL Direct Mail activity]。
 
 ![工作流图像](/help/assets/direct_mail_examplewf.png)
 
