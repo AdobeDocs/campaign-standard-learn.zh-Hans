@@ -1,5 +1,5 @@
 ---
-title: 监控服务器容量
+title: 监视服务器容量
 description: 了解如何监控SFTP服务器的存储容量。
 feature: SFTP Management
 topics: Control Panel
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 1a108846158bfaf8f9efd1b7a78f652c0d3f3211
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 49%
+ht-degree: 56%
 
 ---
 
 
-# 监控服务器容量
+# 监视服务器容量
 
 该控制面板允许您按实例监控和管理SFTP存储。
 
