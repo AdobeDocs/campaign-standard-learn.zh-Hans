@@ -68,7 +68,7 @@ ht-degree: 100%
 * 需要向 Adobe Campaign 注册的私钥/公钥对
 * 如果直接连接到 SFTP 服务器，您还需要 SFTP 客户端软件
 
-### 帮助文档 {#helpful-docs}
+### 帮助文档  {#helpful-docs}
 
 * [登录 SFTP 服务器](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
