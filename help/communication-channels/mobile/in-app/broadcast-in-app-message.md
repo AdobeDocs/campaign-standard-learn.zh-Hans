@@ -19,7 +19,7 @@ ht-degree: 7%
 
 # 广播应用程序内消息
 
-您可以广播应用程序内消息，无论Adobe Campaign是否具有其用户档案信息，都可以针对移动应用程序的所有用户。 要广播消息，您需要在配置应 **[!UICONTROL Target all users of a mobile app template]** 用程序内消息时使用。
+您可以广播应用程序内消息，无论Adobe Campaign是否具有其用户档案信息，都可以针对移动应用程序的所有用户。 要广播消息，您需要在配置应用程序内消息时使用&#x200B;**[!UICONTROL Target all users of a mobile app template]**。
 
 本类别中的一些相关用例包括：
 
