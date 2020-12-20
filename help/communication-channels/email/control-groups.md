@@ -8,9 +8,9 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 了解如何为您的 [!UICONTROL delivery] 定义 [!UICONTROL control group]，以及如何在发送 [!UICONTROL delivery] 后提取分配给 [!UICONTROL control group] 的用户档案。
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
