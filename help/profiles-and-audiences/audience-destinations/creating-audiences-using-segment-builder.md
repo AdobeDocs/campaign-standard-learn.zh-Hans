@@ -23,13 +23,13 @@ ht-degree: 9%
 >
 >此功能目前为测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
->如果您计划实 [!UICONTROL Adobe Customer Support] 施此功能，请联系。
+>如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
-Adobe Campaign Standard允许您使用Adobe Experience Cloud实时客户 [用户档案的数据构建受众](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) ，使用Adobe Experience Platform [!UICONTROL Unified Segment Builder]。
+Adobe Campaign Standard允许您使用Adobe Experience Cloud[实时客户用户档案](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)中的数据，使用Adobe Experience Platform[!UICONTROL Unified Segment Builder]构建受众。
 
-您可以通过模 [!UICONTROL Unified Segment Builder] 块直接在Adobe Campaign Standard [!UICONTROL Audiences ] 访问。 这允许您直接在受众视图中管 [!UICONTROL Audiences] 理这些列表，在该中，您可以直接从Adobe Campaign界面编辑或创建新的Adobe Experience Platform受众
+您可以通过[!UICONTROL Audiences ]模块直接在Adobe Campaign Standard访问[!UICONTROL Unified Segment Builder]。 这允许您直接在[!UICONTROL Audiences]受众视图中管理这些列表，在该中，您可以直接从Adobe Campaign界面编辑或创建新的Adobe Experience Platform受众
 
-以下视频介绍如何使用Adobe Campaign Standard内部创建 [!UICONTROL Unified Segment Builder] 新受众。
+以下视频介绍如何使用Adobe Campaign Standard内的[!UICONTROL Unified Segment Builder]创建新受众。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
