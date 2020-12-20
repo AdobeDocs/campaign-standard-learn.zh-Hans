@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 为此，我们将通过扩展现成的资源并添加我们自己的自定义表，扩充 [!DNL Campaign] 数据模型。我们将添加客户和订单表。
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 本教程将逐步说明下列操作步骤：
 
