@@ -23,7 +23,7 @@ ht-degree: 7%
 >
 >此功能目前为测试版，如有频繁更新和修改，恕不另行通知。
 >
->如果您计划实 [!UICONTROL Adobe Customer Support] 施此功能，请联系。
+>如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
 了解如何检查状态和修改数据映射。
 
