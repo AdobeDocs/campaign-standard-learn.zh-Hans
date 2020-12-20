@@ -8,9 +8,9 @@ thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 了解哪些工作流需要在 Adobe Campaign 和 Journey AI 模型之间同步数据。了解如何在个人用户档案级别查看发送时间得分以及如何使用发送时间公式执行电子邮件传递。
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
 
 ## 其他资源
 
