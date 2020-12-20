@@ -8,9 +8,9 @@ thumbnail: 29468.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 此视频介绍哪些 Adobe Campaign Standard 功能可支持您的移动营销战略。
 
->[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
 
 ## 其他资源
 
