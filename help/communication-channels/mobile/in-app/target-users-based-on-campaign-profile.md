@@ -17,9 +17,9 @@ ht-degree: 6%
 ---
 
 
-# Target users based on their [!DNL Campaign] profile
+# 目标用户基于其[!DNL Campaign]用户档案
 
-您可以目标已知的移动应用程序用户（那些已通过PII登录应用程序的用户），并提供在Adobe Campaign Standard市提供的具有CRM用户档案属性的个性化消息。 此模板对于支持跨渠道业务流程使用案例最为有用，在这些案例中，您已经针对其他渠道（如电子邮件或推送）的用户，并根据其响应，您希望通过消息与他们互 [!UICONTROL In-App] 动。
+您可以目标已知的移动应用程序用户（那些已通过PII登录应用程序的用户），并提供在Adobe Campaign Standard市提供的具有CRM用户档案属性的个性化消息。 此模板对于支持跨渠道业务流程使用案例最为有用，在这些案例中，您已经针对其他渠道（如“电子邮件”或“推送”）的用户，并根据其响应，您希望用[!UICONTROL In-App]消息与他们互动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
