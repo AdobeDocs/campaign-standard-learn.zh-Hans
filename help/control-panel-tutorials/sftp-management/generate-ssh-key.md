@@ -20,11 +20,11 @@ ht-degree: 35%
 
 # 生成 SSH 密钥
 
-您需要生成SSH密钥，以便将其添加到 [!UICONTROL Control Panel]。
+您需要生成SSH密钥，以便将其添加到[!UICONTROL Control Panel]。
 
 ## 访问 [!UICONTROL Control Panel] SFTP 管理
 
-To access the SFTP Management in [!UICONTROL Control Panel], go to:
+要访问[!UICONTROL Control Panel]中的SFTP管理，请转至：
 
 * [Experience Cloud 主页](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]：[!UICONTROL Campaign] > **[!UICONTROL Control Panel]** 信息卡 > SFTP **信息卡**
 
