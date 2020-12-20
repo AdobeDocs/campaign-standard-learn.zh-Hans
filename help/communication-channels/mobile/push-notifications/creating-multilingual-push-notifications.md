@@ -19,7 +19,7 @@ ht-degree: 34%
 
 # 创建多语言推送通知 [!UICONTROL push notification]
 
-了解如何在Adobe Campaign Standard创建多 [!UICONTROL push notifications] 语种。
+了解如何在Adobe Campaign Standard创建多语言[!UICONTROL push notifications]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
