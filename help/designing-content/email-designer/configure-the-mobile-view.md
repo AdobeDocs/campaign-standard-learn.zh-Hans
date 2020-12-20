@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# 在Adobe Cloud中配置移动视图 [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# 在[!UICONTROL Email Designer] {#configure-the-mobile-view}中配置移动视图
 
 此视频介绍如何通过单独编辑移动显示的所有样式选项来微调电子邮件的响应式设计。
 
