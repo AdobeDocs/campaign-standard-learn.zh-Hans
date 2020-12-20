@@ -16,8 +16,8 @@ ht-degree: 35%
 
 ---
 
-# 配置 [!UICONTROL landing page template]
+# 配置[!UICONTROL landing page template]
 
-此视频介绍如何配置 [!UICONTROL landing page] 模板。
+此视频介绍如何配置[!UICONTROL landing page]模板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)
