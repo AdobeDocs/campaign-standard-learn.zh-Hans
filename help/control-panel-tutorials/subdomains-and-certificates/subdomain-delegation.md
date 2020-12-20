@@ -24,7 +24,7 @@ Adobe Campaign [!UICONTROL Control Panel]允许您将子域完全委派给 Adobe
 
 >[!NOTE]
 >
->将在1月底之 [!UICONTROL Control Panel] 前推出测试版的子域委派，如有频繁更新和修改，恕不另行通知。
+>[!UICONTROL Control Panel]的子域委派将在1月底之前在测试版中可用，并且如有频繁更新和修改，恕不另行通知。
 
 ## 访问 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
