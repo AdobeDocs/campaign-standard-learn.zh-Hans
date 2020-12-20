@@ -21,7 +21,7 @@ ht-degree: 10%
 
 您可以从文件收集数据以处理它和／或将它导入Adobe Campaign库。
 
-此视频介绍如何在工作流 [!UICONTROL Data Management] 中使用活动导入用户档案数据。
+此视频介绍如何在工作流中使用[!UICONTROL Data Management]活动导入用户档案数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 
