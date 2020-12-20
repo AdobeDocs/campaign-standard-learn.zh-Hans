@@ -30,4 +30,4 @@ ht-degree: 47%
 
 * [通过工作流创建和发送电子邮件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [创建电子邮件（文档）](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [投放最佳实践](https://docs.campaign.adobe.com/doc/standard/getting_started/cn/ACS_DeliveryBestPractices.html)
+* [投放最佳实践](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_DeliveryBestPractices.html)
