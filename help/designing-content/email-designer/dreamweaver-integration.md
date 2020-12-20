@@ -37,5 +37,5 @@ Adobe Campaign Standard 与 Adobe Dreamweaver 集成允许您直接在 Dreamweav
 ## 其他资源
 
 * [Adobe Campaign Dreamweaver 安装故障排除](https://helpx.adobe.com/cn/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Adobe Dreamweaver 文档](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Adobe Dreamweaver 文档](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [安装 Adobe 应用程序的插件和扩展](https://helpx.adobe.com/cn/creative-cloud/kb/installingextensionsandaddons.html)
