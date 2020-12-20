@@ -4,7 +4,7 @@ description: 此视频介绍如何使用用户档案替换功能测试电子邮�
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 ## 其他资源
 
-* [使用目标用户档案测试电子邮件（文档）](https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [使用目标用户档案测试电子邮件（文档）](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [设计 A/B 测试电子邮件](/help/communication-channels/email/a-b-testing.md)
 * [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
