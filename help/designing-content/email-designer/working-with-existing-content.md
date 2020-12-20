@@ -25,7 +25,7 @@ ht-degree: 7%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
-## 使现有HTML内容兼容 {#making-existing-html-content-compatible}
+## 使现有HTML内容兼容{#making-existing-html-content-compatible}
 
 电子邮件设计器需要特定的标签，这需要应用以使上传到Adobe Campaign的标准HTML内容完全兼容并且可编辑。
 
