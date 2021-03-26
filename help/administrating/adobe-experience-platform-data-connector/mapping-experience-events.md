@@ -1,6 +1,6 @@
 ---
 title: 映射体验事件
-description: 了解如何绘制Adobe Experience Platform(AEP)的体验事件地图
+description: 了解如何在Adobe Experience Platform(AEP)中映射体验事件
 feature: Adobe Experience Platform Data Connector
 topics: null
 kt: 2832
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 469bb62991b768929e75b360d93d1cef9a9f3d9a
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 11%
+source-wordcount: '79'
+ht-degree: 17%
 
 ---
 
@@ -21,16 +21,16 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->此功能目前为测试版，如有频繁更新和修改，恕不另行通知。
+>此功能目前处于测试阶段，如有频繁更新和修改，恕不另行通知。
 >
 >如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
-了解如何在Adobe Experience Platform(AEP)映射[!UICONTROL Experience Events]。
+了解如何在Adobe Experience Platform(AEP)中映射[!UICONTROL Experience Events]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
 ## 其他资源
 
-* [映射定义](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-* [映射激活](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
+* [映射定义](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+* [映射激活](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
 
