@@ -9,11 +9,11 @@ tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46b8e3391e78ac333bad28b5cacceea3969cbb28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '507'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 98%
       + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [查看电子邮件投放和报告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [通过工作流创建和发送电子邮件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + [可交付性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+      + [投放最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
       + AI 提供技术支持的电子邮件 {#journey-ai}
          + [预测发送时间优化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [预测参与度评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
