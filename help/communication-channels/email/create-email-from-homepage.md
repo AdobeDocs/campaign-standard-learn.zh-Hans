@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 52%
+ht-degree: 57%
 
 ---
 
 
-# 创建电子邮件投放{#create-an-email-delivery}
+# 创建电子邮件投放 {#create-an-email-delivery}
 
 您可以从活动、Adobe Campaign主页或[!UICONTROL Marketing Activity]列表创建独立的电子邮件投放。 您还可以从工作流中创建和发送单发和重复的电子邮件。
 
