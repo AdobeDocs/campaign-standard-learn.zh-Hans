@@ -9,11 +9,11 @@ tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans
-translation-type: ht
-source-git-commit: 46b8e3391e78ac333bad28b5cacceea3969cbb28
-workflow-type: ht
-source-wordcount: '507'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: d83ef6bcf615f9dc10af800bd6f0ef2aa58a7a45
+workflow-type: tm+mt
+source-wordcount: '517'
+ht-degree: 98%
 
 ---
 
@@ -101,6 +101,8 @@ ht-degree: 100%
    + [创建动态报告](/help/reporting/creating-a-dynamic-report.md)
    + [根据自定义用户档案属性创建报告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
++ 集成
+   + [跟踪投放在Adobe Analytics的成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
 + 管理 {#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
