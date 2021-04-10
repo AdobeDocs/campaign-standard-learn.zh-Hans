@@ -2,11 +2,11 @@
 title: Adobe Campaign Standard 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 products: SG_CAMPAIGN/STANDARD
-translation-type: ht
-source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: ht
-source-wordcount: '274'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: f3db7ac2882d7c87e1e785e7fc1d80b21a9e6a2a
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 86%
 
 ---
 
@@ -17,13 +17,9 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增内容
 
-* **[监视数据库](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[跟踪投放在Adobe Analytics的成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
-   *了解如何监视实例的数据库使用情况。*
-
-* **[使用 CNAME 委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *了解如何使用控制面板中的 CNAME 设置和提交子域。*
+   *了解如何配置Campaign Standard和Analytics集成。了解如何使用从Campaign Standard接收的数据以及哪些KPI可用在Analytics中生成报表。*
 
 ## 员工挑选
 
@@ -60,7 +56,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
       <img alt="教程：Android 推送通知入门" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>教程：Android 推送通知入门</strong>
     </a>
     </div>
