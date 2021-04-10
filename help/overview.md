@@ -3,7 +3,7 @@ title: Adobe Campaign Standard 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: 10fe2451d77a0366ef7885da0426551b1843a1cb
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 82%
@@ -21,7 +21,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
    *了解如何配置Campaign Standard和Analytics集成。了解如何使用从Campaign Standard接收的数据以及哪些KPI可用在Analytics中生成报表。*
 
-* ** [使用事务性消息](/help/integrations/using-triggers-for-transactional-messaging-overview.md)的触发器**
+* **[将触发器用于事务性消息](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
    *了解如何配置和使用触发器进行事务消息传递。*
 
