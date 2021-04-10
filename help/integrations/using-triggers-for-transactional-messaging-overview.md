@@ -9,10 +9,10 @@ role: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f1805428e57e778853ded71ba286ce2aefb9ec8c
+source-git-commit: f8fceeaaf26439b8fc11fe5039ce6bb3474f43dc
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 
@@ -23,8 +23,9 @@ ht-degree: 2%
 
 在事务性消息中使用触发器之前，您需要：
 
-1. [在Experience Cloud中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
-2. [在Campaign Standard中创建触发器事件](/help/integrations/create-a-trigger-event.md)
+1. 为触发器配置启动
+2. [在Experience Cloud中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
+3. [在Campaign Standard中创建触发器事件](/help/integrations/create-a-trigger-event.md)
 
 配置触发器后，它允许您使用实时事务性消息数据](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)配置事件。[
 
