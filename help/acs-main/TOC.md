@@ -9,10 +9,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 文档
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans
 translation-type: tm+mt
-source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
+source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 98%
+source-wordcount: '546'
+ht-degree: 93%
 
 ---
 
@@ -100,8 +100,13 @@ ht-degree: 98%
    + [创建动态报告](/help/reporting/creating-a-dynamic-report.md)
    + [根据自定义用户档案属性创建报告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
-+ 集成{#integrations}
++ 与其他解决方案集成{#integrations}
    + [跟踪投放在Adobe Analytics的成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
+   + 对事务性消息{#triggers}使用触发器
+      + [概述](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [在Experience Cloud中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [在Campaign Standard中创建触发器事件](/help/integrations/create-a-trigger-event.md)
+      + [使用实时事务性消息事件数据配置](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + 管理 {#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
