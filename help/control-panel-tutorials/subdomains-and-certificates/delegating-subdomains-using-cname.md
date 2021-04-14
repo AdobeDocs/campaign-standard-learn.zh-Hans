@@ -1,18 +1,18 @@
 ---
 title: 使用 CNAME 委派子域
 description: 了解如何将子域完全委派给 Adobe Campaign。
-feature: Subdomain Delegation
+feature: 子域委派
 topics: Control Panel
 kt: 6014
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
-workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 47%
+workflow-type: ht
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 47%
 
 >[!IMPORTANT]
 >
-> 子域委派的CNAME使用为测试版，如有频繁更新和修改，恕不另行通知。
+> 使用 CNAME 进行子域委派还处于测试阶段，可能会频繁更新和修改，恕不另行通知。
 
-要能够开始发送电子邮件或发布登陆页与Adobe Campaign，您需要设置一个新子域。
+要使用 Adobe Campaign 开始发送电子邮件或发布登陆页面，您需要设置一个新子域。
 
 了解如何使用控制面板中的 CNAME 设置和提交子域。
 
