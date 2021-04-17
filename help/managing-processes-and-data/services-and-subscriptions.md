@@ -1,21 +1,23 @@
 ---
 title: 管理服务和订阅
-description: Adobe Campaign允许您通过一组服务创建和管理新闻稿和跨渠道通信。 此视频将向您展示如何在Adobe Campaign Standard(ACS)创建服务和管理其订阅。
-feature: Subscriptions and Services
+description: 了解如何创建服务和管理订阅。
+feature: 订阅
 topics: null
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 31%
+source-wordcount: '155'
+ht-degree: 36%
 
 ---
-
 
 # 管理服务和订阅{#managing-services-and-subscriptions}
 
@@ -26,7 +28,7 @@ Adobe Campaign允许您通过一组服务创建和管理新闻稿和跨渠道通
 每项服务都提供了：
 
 * 订阅（选择加入）和取消订阅（选择退出）机制。
-* 订阅和／或取消订阅确认机制。
+* 订阅和/或取消订阅确认机制。
 * 订阅历史。
 
 此视频将向您展示如何创建服务和管理其订阅。
