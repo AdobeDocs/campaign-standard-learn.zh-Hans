@@ -1,18 +1,22 @@
 ---
 title: 配置登陆页模板
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
-feature: Landing Pages
+feature: 登陆页面
 topics: null
 kt: 1817
 thumbnail: 25200.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 717e9c30-939e-4560-b358-96f144009105
+description: 了解如何配置登陆页模板
+role: Administrator, Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 35%
+source-wordcount: '24'
+ht-degree: 29%
 
 ---
 
