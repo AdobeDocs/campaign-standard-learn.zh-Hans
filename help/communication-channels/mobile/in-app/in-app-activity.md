@@ -1,29 +1,31 @@
 ---
 title: 在工作流中创建应用程序内投放
-seo-title: 在工作流中创建N个应用程序内投放
-description: 应用程序内投放活动通常用于自动将应用程序内消息发送到在同一工作流中计算的目标受众。
+seo-title: 在工作流中创建应用程序内投放
+description: “了解如何使用应用程序内投放活动自动将应用程序内消息发送到在工作流中计算的目标受众。”
 seo-description: 应用程序内投放活动通常用于自动将应用程序内消息发送到在同一工作流中计算的目标受众。
-feature: In-App
+feature: 应用程序内
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 18%
+source-wordcount: '206'
+ht-degree: 17%
 
 ---
-
 
 # 在工作流中创建[!UICONTROL In-App]投放
 
 应用程序内投放活动通常用于自动将[!UICONTROL In-App]消息发送到在同一工作流中计算的目标受众。
 
-收件人是在同一工作流中通过活动、交叉点等定位活动在查询上游定义的。
+这些收件人通过查询、交叉点等定位活动在同一工作流中定义在活动的上游。
 
 根据工作流执行参数，触发消息准备。在消息仪表板中，您可以选择请求手动确认以发送消息（默认情况下为必需）。 您可以手动启动工作流，或在工作流中放置调度程序活动以自动执行。
 
