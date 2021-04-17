@@ -1,6 +1,6 @@
 ---
 title: 创建电子邮件投放
-description: '您可以根据促销活动、Adobe Campaign 主页或营销活动列表创建电子邮件。您还可以根据工作流创建单一发送和重复发送的电子邮件。此视频介绍如何从主页创建电子邮件传送。 '
+description: '了解如何从主页创建电子邮件投放。 '
 landing-page-description: 此视频介绍如何从主页创建电子邮件传送。
 feature: 电子邮件
 topics: null
@@ -9,14 +9,16 @@ thumbnail: 23721.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 57%
+source-wordcount: '114'
+ht-degree: 36%
 
 ---
-
 
 # 创建电子邮件投放 {#create-an-email-delivery}
 
