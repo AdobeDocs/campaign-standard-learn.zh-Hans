@@ -1,27 +1,29 @@
 ---
 title: 在工作流中激活 Adobe Experience Platform 受众
 description: 此视频介绍如何使用“读取查询”受众在工作流中激活数据服务受众活动。
-feature: Audience Destinations
+feature: People核心服务集成
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: 955d063f-4709-4f56-8f39-f1b838354300
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '151'
 ht-degree: 7%
 
 ---
-
 
 # 在营销工作流[!UICONTROL Adobe Experience Platform Audiences]的工作流中激活Adobe Experience Platform受众
 
 >[!NOTE]
 >
->此功能目前为测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
+>此功能目前处于测试阶段，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
 >如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
@@ -35,10 +37,9 @@ ht-degree: 7%
 
 文档：
 
-* [在活动中激活Experience Platform受众-文档](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [在活动中激活Experience Platform受众 — 文档](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 
 视频资源：
 
-* [在Adobe Campaign Standard使用统一细分构建器创建新受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [为平台定位维度更改投放的受众](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
+* [在Adobe Campaign Standard中使用统一区段生成器创建新受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [更改平台投放的定位维度受众](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
