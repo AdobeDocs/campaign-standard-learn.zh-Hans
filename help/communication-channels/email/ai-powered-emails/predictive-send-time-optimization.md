@@ -1,21 +1,23 @@
 ---
 title: 预测发送时间优化
 description: 了解哪些工作流需要在 Adobe Campaign 和 Journey AI 模型之间同步数据。了解如何在个人用户档案级别查看发送时间得分以及如何使用发送时间公式执行电子邮件传递。
-feature: predictive send time
+feature: 发送时间优化
 topics: null
 kt: 6274
 thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
 team: ACS
+exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
+role: Business Practitoner, Developer, Administrator
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 98%
 
 ---
-
 
 # 预测发送时间优化
 
