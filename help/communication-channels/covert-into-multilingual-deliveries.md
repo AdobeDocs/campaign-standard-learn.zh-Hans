@@ -1,25 +1,27 @@
 ---
 title: 将现有电子邮件、短信投放或模板转换为多语言
-description: 此视频演示如何轻松将现有电子邮件、SMS投放或投放模板转换为多语言。
-feature: Multi-lingual Deliveries
+description: “了解如何将现有电子邮件、短信投放或投放模板转换为多语言。”
+feature: 电子邮件、短信
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 30%
+source-wordcount: '70'
+ht-degree: 31%
 
 ---
 
-
 # 将现有电子邮件、短信投放或模板转换为多语言
 
-此视频演示如何轻松将现有电子邮件、SMS投放或投放模板转换为多语言。
+此视频演示了如何将现有电子邮件、SMS投放或投放模板轻松转换为多语言。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12)
 
