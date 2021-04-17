@@ -1,39 +1,41 @@
 ---
 title: 使用统一区段构建器创建新受众
-description: null
-feature: Audience Destinations
+feature: People核心服务集成
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: ce52a988-5072-401b-9a8b-112e42504022
+description: 了解如何使用统一区段生成器创建新受众。
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 9%
+source-wordcount: '241'
+ht-degree: 8%
 
 ---
-
 
 # 使用统一区段构建器创建新受众
 
 >[!NOTE]
 >
->此功能目前为测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
+>此功能目前处于测试阶段，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
 >如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
-Adobe Campaign Standard允许您使用Adobe Experience Cloud[实时客户用户档案](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)中的数据，使用Adobe Experience Platform[!UICONTROL Unified Segment Builder]构建受众。
+Adobe Campaign Standard允许您使用Adobe Experience Cloud [实时客户用户档案](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)中的数据，使用Adobe Experience Platform [!UICONTROL Unified Segment Builder]构建受众。
 
-您可以通过[!UICONTROL Audiences ]模块直接在Adobe Campaign Standard访问[!UICONTROL Unified Segment Builder]。 这允许您直接在[!UICONTROL Audiences]受众视图中管理这些列表，在该中，您可以直接从Adobe Campaign界面编辑或创建新的Adobe Experience Platform受众
+您可以通过[!UICONTROL Audiences ]模块直接在Adobe Campaign Standard中访问[!UICONTROL Unified Segment Builder]。 这允许您直接在[!UICONTROL Audiences]列表视图中管理这些受众，在该中，您可以直接从Adobe Campaign界面编辑或创建新的Adobe Experience Platform受众
 
-以下视频介绍如何使用Adobe Campaign Standard内的[!UICONTROL Unified Segment Builder]创建新受众。
+以下视频介绍如何在Adobe Campaign Standard中使用[!UICONTROL Unified Segment Builder]创建新受众。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
-*如何使用统一区段生成器在Adobe Campaign Standard创建新受众（最低02:47）*
+*如何使用统一区段生成器在Adobe Campaign Standard中创建新受众（最低02:47）*
 
 ## 其他资源
 
@@ -45,4 +47,4 @@ Adobe Campaign Standard允许您使用Adobe Experience Cloud[实时客户用户�
 视频资源：
 
 * [在工作流中激活AEP受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [为平台定位维度更改投放的受众](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [更改平台投放的定位维度受众](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
