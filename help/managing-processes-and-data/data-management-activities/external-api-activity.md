@@ -1,21 +1,23 @@
 ---
 title: 使用外部 API 活动配置和运行工作流
-description: 外部 API 活动是数据管理活动。它允许您调用外部 REST API 端点。此活动的目的是将个性化数据从第三方系统传入您的营销活动。
-feature: External API activity
+description: 了解如何调用外部REST API端点，将个性化数据从第三方系统拉入您的活动。
+feature: 数据管理活动
 topics: null
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 87%
 
 ---
-
 
 # 使用 [!UICONTROL External API activity]配置和运行工作流
 
@@ -41,4 +43,3 @@ ht-degree: 100%
 ## 其他资源
 
 * [外部 API（文档）](https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
-
