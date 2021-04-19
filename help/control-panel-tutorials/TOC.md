@@ -1,19 +1,12 @@
 ---
-product: adobe campaign standard
 user-guide-title: Adobe Campaign 控制面板教程
 user-guide-description: 了解如何在控制面板中监测您的 Adobe Campaign 实例的关键资源和执行管理任务。
 breadcrumb-title: 控制面板教程
-solution-title: 体验联盟
-solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hans&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: 教程
-tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/tutorials/overview.html
-getting-started-title: 文档
-getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: ht
-source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
-workflow-type: ht
-source-wordcount: '142'
+translation-type: tm+mt
+source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
