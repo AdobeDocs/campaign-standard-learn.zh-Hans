@@ -1,7 +1,7 @@
 ---
 title: 更改定位维度
 description: 此视频介绍如何在Adobe Campaign Standard的主用户档案表之外更改平台受众的定位维度的投放。
-feature: People核心服务集成
+feature: People Core Service Integration
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg

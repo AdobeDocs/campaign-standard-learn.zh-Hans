@@ -1,7 +1,7 @@
 ---
 title: '创建用户档案 '
 description: 了解如何创建用户档案以及如何将其添加到受众。
-feature: 用户档案、受众
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

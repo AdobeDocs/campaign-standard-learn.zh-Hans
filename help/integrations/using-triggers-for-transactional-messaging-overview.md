@@ -1,7 +1,7 @@
 ---
 title: 将触发器用于事务消息传递 — 概述
 description: 了解如何配置和使用触发器进行事务消息传递。
-feature: 触发器
+feature: Triggers
 topics: Integrations
 kt: 6525
 doc-type: article

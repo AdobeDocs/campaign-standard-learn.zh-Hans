@@ -1,7 +1,7 @@
 ---
 title: 在工作流中激活 Adobe Experience Platform 受众
 description: 此视频介绍如何使用“读取查询”受众在工作流中激活数据服务受众活动。
-feature: People核心服务集成
+feature: People Core Service Integration
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg

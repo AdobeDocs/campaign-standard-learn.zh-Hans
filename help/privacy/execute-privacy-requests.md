@@ -1,7 +1,7 @@
 ---
 title: 执行隐私请求
 description: 在 Adobe Campaign 中，隐私请求由工作流执行。此视频描述哪些工作流访问和删除请求，以及执行这些请求时发生的情况。
-feature: GDPR、CCPA
+feature: GDPR, CCPA
 kt: 1525
 thumbnail: 22770.jpg
 doc-type: feature video

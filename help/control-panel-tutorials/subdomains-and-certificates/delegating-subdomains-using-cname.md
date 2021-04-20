@@ -1,7 +1,7 @@
 ---
 title: 使用 CNAME 委派子域
 description: 了解如何将子域完全委派给 Adobe Campaign。
-feature: 子域委派
+feature: Subdomain Delegation
 topics: Control Panel
 kt: 6014
 thumbnail: 326612.jpg

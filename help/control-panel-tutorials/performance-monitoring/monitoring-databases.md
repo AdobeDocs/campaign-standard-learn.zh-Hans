@@ -1,7 +1,7 @@
 ---
 title: 监测数据库
 description: 了解如何监测实例的数据库使用情况。
-feature: 数据库监测
+feature: Database Monitoring
 topics: Control Panel
 kt: 6433
 thumbnail: 327175.jpg

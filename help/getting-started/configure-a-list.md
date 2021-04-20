@@ -1,7 +1,7 @@
 ---
 title: 配置列表
 description: “了解如何在Adobe Campaign Standard中更改显示的列、顺序和列表视图的排序顺序。  ”
-feature: 概述
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

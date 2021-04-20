@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign 的移动营销
 description: 了解哪些Adobe Campaign Standard功能可以支持您的移动营销战略。
-feature: SMS、推送、应用程序内
+feature: SMS, Push, In-App
 topics: null
 kt: 3976
 thumbnail: 29468.jpg

@@ -1,7 +1,7 @@
 ---
 title: 浏览报告
 description: 了解针对电子邮件投放的现成可用的不同报表。
-feature: 报告
+feature: Reporting
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg

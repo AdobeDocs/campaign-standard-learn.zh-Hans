@@ -1,7 +1,7 @@
 ---
 title: 创建多语言电子邮件或SMS投放
 description: '了解如何简化发送多语言活动的操作复杂性。 '
-feature: 电子邮件、短信
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252

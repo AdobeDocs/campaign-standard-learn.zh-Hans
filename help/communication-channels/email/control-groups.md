@@ -1,7 +1,7 @@
 ---
 title: 向传递添加控制组
 description: 了解如何为您的传递定义控制组，以及如何在发送传递后提取分配给控制组的用户档案。
-feature: 对照组
+feature: Control Groups
 topics: null
 kt: 5060
 thumbnail: 40684.jpg

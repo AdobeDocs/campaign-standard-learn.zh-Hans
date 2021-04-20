@@ -1,7 +1,7 @@
 ---
 title: 在交易电子邮件中配置产品列表
 description: 了解在交易电子邮件中配置产品列表所需的步骤。
-feature: 交易消息、电子邮件
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915

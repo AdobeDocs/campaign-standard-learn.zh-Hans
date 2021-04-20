@@ -1,7 +1,7 @@
 ---
 title: 创建短信投放
 description: 了解如何创建SMS投放。
-feature: 短信
+feature: SMS
 topics: null
 kt: 1819
 thumbnail: 25265.jpg

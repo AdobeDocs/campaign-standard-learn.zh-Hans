@@ -1,7 +1,7 @@
 ---
 title: 创建动态报告
 description: 了解如何创建报告。
-feature: 报告
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video

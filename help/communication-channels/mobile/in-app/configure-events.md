@@ -1,7 +1,7 @@
 ---
 title: 配置事件
 description: “了解事件如何定义用户启动的操作将触发要显示的应用程序内消息。 ”
-feature: 应用程序内
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg

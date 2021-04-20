@@ -1,7 +1,7 @@
 ---
 title: 创建基于报表的自定义用户档案属性
 description: 了解如何根据自定义用户档案属性创建报表。
-feature: 报告
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video

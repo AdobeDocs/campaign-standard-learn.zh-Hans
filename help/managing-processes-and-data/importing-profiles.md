@@ -1,7 +1,7 @@
 ---
 title: 使用工作流导入用户档案
 description: 了解如何使用工作流导入用户档案数据。
-feature: 数据管理
+feature: Data Management
 topics: null
 kt: 1818
 thumbnail: 24993.jpg

@@ -1,7 +1,7 @@
 ---
 title: 根据工作流区段创建报告
 description: 报告工作流区段提供在动态报告中添加工作流段代码的功能。
-feature: 报告
+feature: Reporting
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg

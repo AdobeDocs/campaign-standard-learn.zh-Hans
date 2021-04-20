@@ -1,7 +1,7 @@
 ---
 title: 了解Adobe Campaign Standard中的用户档案和受众
 description: 了解用户档案和受众的概念，了解如何创建用户档案和受众。
-feature: 用户档案、受众
+feature: Profiles, Audiences
 topics: null
 kt: 3893
 thumbnail: 18464.jpg

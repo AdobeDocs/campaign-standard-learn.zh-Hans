@@ -1,7 +1,7 @@
 ---
 title: Email Designer 入门
 description: 了解电子邮件设计器的一般功能以及如何从头开始设计电子邮件。
-feature: 电子邮件设计
+feature: Email Design
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg

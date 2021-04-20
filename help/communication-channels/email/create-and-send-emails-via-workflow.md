@@ -1,7 +1,7 @@
 ---
 title: 通过工作流创建和发送电子邮件
 description: '了解如何从主页创建一次性电子邮件投放。 '
-feature: 电子邮件
+feature: Email
 topics: null
 kt: 4319
 thumbnail: 31465.jpg

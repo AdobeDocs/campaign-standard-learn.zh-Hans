@@ -1,7 +1,7 @@
 ---
 title: 在Campaign Standard中创建触发器
 description: 了解如何在Campaign Standard中创建触发事件。
-feature: 触发器
+feature: Triggers
 topics: Integrations
 kt: 7470
 thumbnail: 332625.jpg

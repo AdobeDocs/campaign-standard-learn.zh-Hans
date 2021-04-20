@@ -1,7 +1,7 @@
 ---
 title: 创建测试用户档案
 description: 了解如何目标不符合定义定位标准的收件人，以检测收件人数据库的任何欺骗性使用，或确保电子邮件送达收件箱中。
-feature: 测试用户档案
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video

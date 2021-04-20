@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Standard 入门
 description: 此视频概述 Adobe Campaign Standard 用户界面以及主要功能和核心功能。
-feature: 概述
+feature: Overview
 topics: null
 kt: null
 doc-type: null

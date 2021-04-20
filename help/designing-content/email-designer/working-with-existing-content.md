@@ -1,7 +1,7 @@
 ---
 title: 使用现有内容
 description: 此视频介绍如何快速从网站检索您的创意内容并将其加载到电子邮件设计器中。
-feature: 电子邮件设计
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg

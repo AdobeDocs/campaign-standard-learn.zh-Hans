@@ -1,7 +1,7 @@
 ---
 title: 创建多语言推送通知
 description: '了解如何创建多语言推送通知。 '
-feature: 推送
+feature: Push
 topics: Mobile
 kt: 1375
 thumbnail: 23304.jpg

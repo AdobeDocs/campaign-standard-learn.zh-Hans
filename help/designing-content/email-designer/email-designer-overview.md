@@ -1,7 +1,7 @@
 ---
 title: Email Designer 概述
 description: 了解电子邮件设计器的一般功能以及如何从头开始设计电子邮件。
-feature: 电子邮件设计
+feature: Email Design
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg

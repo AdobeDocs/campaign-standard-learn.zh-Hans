@@ -1,7 +1,7 @@
 ---
 title: 基于 Campaign 用户档案的目标用户
 description: 了解如何向已知的移动App用户目标个性化的CRM用户档案属性信息。
-feature: 应用程序内
+feature: In App
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg

@@ -1,7 +1,7 @@
 ---
 title: 使用实时事务性消息事件数据配置
 description: '了解如何使用来自触发器的实时事件数据配置事务性消息。 '
-feature: 触发器
+feature: Triggers
 topics: Integrations
 kt: 7471
 thumbnail: 332602.jpg

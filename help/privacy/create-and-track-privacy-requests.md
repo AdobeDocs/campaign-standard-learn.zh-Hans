@@ -1,7 +1,7 @@
 ---
 title: 通过 Adobe Campaign 用户界面手动创建和跟踪隐私请求
 description: 通过 Adobe Campaign，您可以根据 GDPR 和 CCPA 等隐私权法案创建 PII 数据的访问和删除请求。此视频演示如何在 Adobe Campaign Standard 用户界面中手动创建隐私请求并跟踪其演变。
-feature: GDPR、CCPA
+feature: GDPR, CCPA
 kt: 1242
 thumbnail: 29235.jpg
 doc-type: feature video

@@ -1,7 +1,7 @@
 ---
 title: 应用程序内消息简介
 description: “了解如何向用户展示与上下文相关的应用程序内消息，以响应客户在移动应用程序中的实时行为。”
-feature: 应用程序内
+feature: In App
 topics: Mobile
 kt: 1911
 doc-type: feature video

@@ -1,7 +1,7 @@
 ---
 title: 创建直邮
 description: 了解如何创建直邮。
-feature: 直邮
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg

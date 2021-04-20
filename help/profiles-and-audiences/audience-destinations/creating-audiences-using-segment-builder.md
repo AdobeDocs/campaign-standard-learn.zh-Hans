@@ -1,6 +1,6 @@
 ---
 title: 使用统一区段构建器创建新受众
-feature: People核心服务集成
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

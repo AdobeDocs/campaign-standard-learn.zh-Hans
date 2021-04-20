@@ -1,7 +1,7 @@
 ---
 title: 管理营销活动
 description: 了解如何创建和管理活动。
-feature: '营销活动 '
+feature: Campaigns 
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg

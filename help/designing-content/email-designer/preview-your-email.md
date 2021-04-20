@@ -1,7 +1,7 @@
 ---
 title: 预览电子邮件和防垃圾邮件分析
 description: “了解如何预览电子邮件和防垃圾邮件分析。”
-feature: 电子邮件设计
+feature: Email Design
 topics: null
 kt: 2393
 thumbnail: 25921.jpg

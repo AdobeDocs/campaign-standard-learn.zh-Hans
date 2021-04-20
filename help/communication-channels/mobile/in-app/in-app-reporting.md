@@ -1,7 +1,7 @@
 ---
 title: 报告应用程序内投放
 description: “了解如何向用户展示上下文相关的应用程序内消息，以响应客户在移动应用程序中的实时行为。”
-feature: 应用程序内
+feature: In App
 topics: Mobile
 kt: 2558
 thumbnail: 26412.jpg

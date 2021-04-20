@@ -2,7 +2,7 @@
 title: 创建电子邮件投放
 description: '了解如何从主页创建电子邮件投放。 '
 landing-page-description: 此视频介绍如何从主页创建电子邮件传送。
-feature: 电子邮件
+feature: Email
 topics: null
 kt: 1807
 thumbnail: 23721.jpg

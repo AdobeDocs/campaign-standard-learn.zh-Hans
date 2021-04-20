@@ -1,7 +1,7 @@
 ---
 title: '"广播应用程序内消息 "'
 description: 了解广播模板如何允许您目标移动应用程序的所有用户。
-feature: 应用程序内
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

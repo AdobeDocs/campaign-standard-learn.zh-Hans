@@ -1,7 +1,7 @@
 ---
 title: 电子邮件内容模板简介
 description: 了解如何创建电子邮件内容模板。
-feature: 电子邮件设计
+feature: Email Design
 topics: null
 kt: 1442
 thumbnail: 23106.jpg

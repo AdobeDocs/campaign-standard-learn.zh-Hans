@@ -1,7 +1,7 @@
 ---
 title: 报告简介
 description: 了解Adobe Campaign Standard的报告功能
-feature: 报告
+feature: Reporting
 topics: null
 kt: 3974
 thumbnail: 29461.jpg

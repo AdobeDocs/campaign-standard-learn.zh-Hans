@@ -1,7 +1,7 @@
 ---
 title: 发送测试、准备和发送电子邮件
 description: “了解如何发送测试电子邮件、准备然后发送电子邮件投放。 ”
-feature: '电子邮件  '
+feature: Email  
 topics: null
 kt: 1812
 thumbnail: 24013.jpg

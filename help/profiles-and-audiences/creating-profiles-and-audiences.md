@@ -1,7 +1,7 @@
 ---
 title: 创建用户档案和受众 - 概述
 description: 了解如何导航到现有用户档案以及如何创建用户档案和受众。
-feature: 用户档案、受众
+feature: Profiles, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg

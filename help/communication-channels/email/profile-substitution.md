@@ -1,7 +1,7 @@
 ---
 title: 用户档案替换 - 使用目标用户档案测试电子邮件
 description: 了解如何使用用户档案替换功能测试电子邮件。
-feature: '电子邮件  '
+feature: Email  
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg

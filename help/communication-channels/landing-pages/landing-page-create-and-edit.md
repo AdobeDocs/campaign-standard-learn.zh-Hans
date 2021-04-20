@@ -1,7 +1,7 @@
 ---
 title: 创建和编辑登陆页
 description: “了解如何在Adobe Campaign Standard中创建、编辑和测试登陆页。”
-feature: 登陆页面
+feature: Landing Pages
 topics: null
 kt: 1808
 thumbnail: 24093.jpg

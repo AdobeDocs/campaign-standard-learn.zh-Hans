@@ -1,7 +1,7 @@
 ---
 title: 探索层次结构和营销活动
 description: “了解项目和活动的层次结构，如何创建营销项目，以及如何在项目中创建营销活动。”
-feature: 活动、项目
+feature: Campaigns, Programs
 topics: null
 kt: 3892
 thumbnail: 18465.jpg

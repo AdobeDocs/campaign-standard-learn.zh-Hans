@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Standard 简介
 description: 此视频为您详细介绍 Adobe Campaign Standard。
-feature: 概述
+feature: Overview
 topics: null
 kt: 3971
 thumbnail: 29430.jpg

@@ -1,7 +1,7 @@
 ---
 title: 查看电子邮件投放和报告
 description: 了解如何查看个性化的电子邮件投放并浏览Adobe Campaign Standard中提供的不同报告。
-feature: 报告
+feature: Reporting
 topics: null
 kt: 3904
 thumbnail: 21389.jpg

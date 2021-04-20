@@ -1,7 +1,7 @@
 ---
 title: 测试和发布登陆页
 description: 了解如何测试在Adobe Campaign Standard中构建的登陆页以及如何发布它。
-feature: 登陆页面
+feature: Landing Pages
 topics: null
 kt: 1813
 thumbnail: 24992.jpg

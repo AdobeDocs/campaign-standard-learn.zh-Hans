@@ -1,7 +1,7 @@
 ---
 title: 在电子邮件设计器中配置移动视图
 description: “了解如何通过单独编辑移动显示的所有样式选项来优化电子邮件的响应式设计。”
-feature: 电子邮件设计
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

@@ -1,7 +1,7 @@
 ---
 title: 使用 Adobe Experience Platform SDK 配置移动应用程序
 description: 了解如何在Adobe Experience Platform Launch中设置移动应用程序以及如何在Adobe Campaign中配置它。
-feature: 应用程序内、推送、渠道配置、移动SDK集成
+feature: In App, Push, Channel Configuration, Mobile SDK Integration
 topics: null
 kt: 2501
 thumbnail: 26224.jpg

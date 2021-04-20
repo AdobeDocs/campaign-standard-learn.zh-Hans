@@ -2,7 +2,7 @@
 title: 跟踪投放在Adobe Analytics的成功
 description: 了解如何配置Campaign Standard和Analytics集成。 了解如何使用从Campaign Standard接收的数据以及哪些KPI可用，在Analytics中构建报表。
 product: adobe analytics, campaign
-feature: 应用程序设置
+feature: Application Settings
 topics: Integrations
 role: Administrator
 level: Intermediate

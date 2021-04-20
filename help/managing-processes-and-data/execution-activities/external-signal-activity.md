@@ -1,7 +1,7 @@
 ---
 title: 外部信号活动 — 使用参数调用工作流
 description: “了解如何将一个工作流与另一个工作流开始，以支持更复杂的客户旅程，同时能够更好地监控和对问题做出响应。”
-feature: 执行活动
+feature: Execution Activity
 topics: Workflows
 kt: 2750
 thumbnail: 27249

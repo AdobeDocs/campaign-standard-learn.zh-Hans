@@ -1,8 +1,8 @@
 ---
 title: 在 Adobe Campaign Standard (ACS) 中处理隐私请求 - 概述
 description: 本教程介绍如何通过 Adobe Campaign Standard (ACS) 界面创建隐私请求。
-feature: GDPR、CCAP
-topic: 隐私
+feature: GDPR, CCAP
+topic: Privacy
 kt: 1480
 doc-type: feature video
 activity: use

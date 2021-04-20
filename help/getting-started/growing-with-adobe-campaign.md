@@ -1,7 +1,7 @@
 ---
 title: 使用 Adobe Campaign 实现增长
 description: 了解真正跨渠道编排的潜在后续步骤。
-feature: 跨渠道安排
+feature: Cross Channel Orchestration
 topics: null
 kt: 3973
 thumbnail: 29460.jpg

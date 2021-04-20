@@ -1,7 +1,7 @@
 ---
 title: 创建推送通知
 description: '了解如何创建推送通知。 '
-feature: 推送
+feature: Push
 topics: Mobile
 kt: 1401
 thumbnail: 31499.jpg

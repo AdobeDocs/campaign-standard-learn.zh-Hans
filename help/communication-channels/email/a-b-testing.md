@@ -1,7 +1,7 @@
 ---
 title: A/B 测试
 description: “了解如何配置和发送测试主题行的A/B测试。 ”
-feature: 'A/B 测试  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg
