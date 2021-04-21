@@ -3,8 +3,7 @@ title: 在工作流中创建应用程序内投放
 seo-title: 在工作流中创建应用程序内投放
 description: “了解如何使用应用程序内投放活动自动将应用程序内消息发送到在工作流中计算的目标受众。”
 seo-description: 应用程序内投放活动通常用于自动将应用程序内消息发送到在同一工作流中计算的目标受众。
-feature: In App
-topics: Mobile
+feature: 应用程序内
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
@@ -14,7 +13,7 @@ exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 17%
