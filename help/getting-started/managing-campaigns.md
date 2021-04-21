@@ -1,8 +1,7 @@
 ---
 title: 管理营销活动
 description: 了解如何创建和管理活动。
-feature: Campaigns 
-topics: Getting Started
+feature: 营销活动
 kt: 1816
 thumbnail: 24672.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 61b64e5d-2751-47f9-a2b7-08835a28f763
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 90%
