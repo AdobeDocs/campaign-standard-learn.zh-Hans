@@ -1,25 +1,24 @@
 ---
 title: 使用数据填充自定义资源
-description: 了解如何使用工作流在CSV文件中用数据填充自定义资源。
-feature: custom resources
-topics: null
+description: 了解如何使用工作流在CSV文件中使用数据填充自定义资源。
+feature: 自定义资源
 kt: 3003
 thumbnail: 27714.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: afd173f9-4e60-4e78-8f08-5d3894f78949
 translation-type: tm+mt
-source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-
 # 使用数据填充自定义资源
 
-了解如何使用工作流向[!DNL CSV]文件中的数据填充自定义资源。
+了解如何使用工作流使用[!DNL CSV]文件中的数据填充自定义资源。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
