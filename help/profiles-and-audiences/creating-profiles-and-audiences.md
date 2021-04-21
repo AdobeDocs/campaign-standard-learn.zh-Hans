@@ -1,8 +1,7 @@
 ---
 title: 创建用户档案和受众 - 概述
 description: 了解如何导航到现有用户档案以及如何创建用户档案和受众。
-feature: Profiles, Audiences
-topics: null
+feature: 用户档案、受众
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 16%
