@@ -1,8 +1,7 @@
 ---
 title: 应用程序内消息简介
-description: “了解如何向用户展示与上下文相关的应用程序内消息，以响应客户在移动应用程序中的实时行为。”
-feature: In App
-topics: Mobile
+description: 了解如何根据客户在移动应用程序中的实时行为向用户呈现上下文相关的应用程序内消息。
+feature: 应用程序内
 kt: 1911
 doc-type: feature video
 activity: use
@@ -11,7 +10,7 @@ exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 12%
