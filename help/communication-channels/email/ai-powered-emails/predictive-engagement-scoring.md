@@ -1,8 +1,7 @@
 ---
 title: 预测参与度评分
 description: 了解如何在个人用户档案级别查看参与度得分，使用得分确定目标参与用户并禁止疲劳用户，以及如何创建类型学规则来管理客户疲劳。
-feature: Predictive Engagement Scoring
-topics: null
+feature: 预测互动评分
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: Business Practitoner, Developer, Administrator
 level: Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 98%
