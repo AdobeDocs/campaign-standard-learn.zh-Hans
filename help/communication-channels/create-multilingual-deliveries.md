@@ -1,8 +1,7 @@
 ---
 title: 创建多语言电子邮件或SMS投放
 description: '了解如何简化发送多语言活动的操作复杂性。 '
-feature: Email, SMS
-topics: Mobile Channel, Email Channel
+feature: 电子邮件、短信
 kt: 1277
 thumbnail: 23252
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 role: Business Practitioner
 level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 1%
