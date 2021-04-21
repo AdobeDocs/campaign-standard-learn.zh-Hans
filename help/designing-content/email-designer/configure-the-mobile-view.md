@@ -1,8 +1,7 @@
 ---
 title: 在电子邮件设计器中配置移动视图
 description: “了解如何通过单独编辑移动显示的所有样式选项来优化电子邮件的响应式设计。”
-feature: Email Design
-topics: null
+feature: 电子邮件设计
 kt: 2423
 thumbnail: 25919.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 6b1f8b62-fff0-4ef4-8537-a88658e28ab2
 role: Business Practitioner, Developer
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
