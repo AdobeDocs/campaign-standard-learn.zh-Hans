@@ -1,8 +1,7 @@
 ---
 title: 基于 Campaign 用户档案的目标用户
 description: 了解如何向已知的移动App用户目标个性化的CRM用户档案属性信息。
-feature: In App
-topics: Channels
+feature: 应用程序内
 kt: 1796
 thumbnail: 26200.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 6%
