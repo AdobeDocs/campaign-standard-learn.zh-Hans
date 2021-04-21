@@ -1,21 +1,20 @@
 ---
 title: 创建自定义资源 - 简介
 description: Adobe Campaign Standard 提供扩展资源或创建全新资源的功能。此多部分教程将指导您完成创建和链接自定义资源所需的步骤。
-feature: Custom Resources
-topics: null
+feature: '自定义资源 '
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 100%
 
 ---
-
 
 # 创建自定义资&#x200B;源 - 简介
 
