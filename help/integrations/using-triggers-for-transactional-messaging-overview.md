@@ -1,21 +1,21 @@
 ---
 title: 将触发器用于事务消息传递 — 概述
 description: 了解如何配置和使用触发器进行事务消息传递。
-feature: Triggers
-topics: Integrations
+feature: 触发器
+topic: 集成
 kt: 6525
 doc-type: article
 role: Administrator
 level: Experienced
 team: TM
+exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 translation-type: tm+mt
-source-git-commit: ff12895a1249472434aba794d71ba6f944076f22
+source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '105'
 ht-degree: 1%
 
 ---
-
 
 # 将触发器用于事务消息传递 — 概述
 
