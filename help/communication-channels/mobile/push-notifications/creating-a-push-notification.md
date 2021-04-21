@@ -1,8 +1,7 @@
 ---
 title: 创建推送通知
 description: '了解如何创建推送通知。 '
-feature: Push
-topics: Mobile
+feature: 推送
 kt: 1401
 thumbnail: 31499.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 12%
