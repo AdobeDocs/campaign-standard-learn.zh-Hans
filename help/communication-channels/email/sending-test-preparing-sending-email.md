@@ -1,8 +1,7 @@
 ---
 title: 发送测试、准备和发送电子邮件
 description: “了解如何发送测试电子邮件、准备然后发送电子邮件投放。 ”
-feature: Email  
-topics: null
+feature: '电子邮件  '
 kt: 1812
 thumbnail: 24013.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 2cb70be4-cd27-4da3-828a-be4c07d4c951
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 20%
