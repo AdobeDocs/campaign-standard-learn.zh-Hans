@@ -1,8 +1,7 @@
 ---
 title: 受众目标 — 概述
 description: 了解如何在Adobe Campaign Standard(ACS)中利用Adobe Experience Platform(AEP)受众
-feature: People Core Service Integration
-topics: ACOP
+feature: People核心服务集成
 kt: 2755
 thumbnail: null
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: Business Practitioner, Developer
 level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 9%
