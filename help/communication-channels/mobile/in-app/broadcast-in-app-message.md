@@ -1,8 +1,7 @@
 ---
 title: '"广播应用程序内消息 "'
 description: 了解广播模板如何允许您目标移动应用程序的所有用户。
-feature: In App
-topics: Mobile
+feature: 应用程序内
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 7%
