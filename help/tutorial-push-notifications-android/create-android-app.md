@@ -1,28 +1,27 @@
 ---
-title: 第1步——创建Android应用程序并配置为使用Firebase Cloud消息传递
+title: 步骤1 — 创建Android应用程序并配置为使用Firebase Cloud Messaging
 description: 在此部分，我们将创建从Adobe Campaign Standard发送的 [!DNL Android] App to receive [!UICONTROL Push notifications] 。 要接收推送通知，需要向Google [!DNL Firebase Cloud Service]注册应用程序。
-feature: Push
-topics: Mobile
+feature: 推送
 kt: 4825
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
 translation-type: tm+mt
-source-git-commit: cdd78e97f2769503d3d4f26933ccc7f35e9b20b9
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 2%
+source-wordcount: '317'
+ht-degree: 3%
 
 ---
 
+# 步骤1 — 创建[!DNL Android]应用程序并配置为使用[!DNL Firebase Cloud Messaging]
 
-# 步骤1 —— 创建[!DNL Android]应用程序并配置为使用[!DNL Firebase Cloud Messaging]
-
-在此部分，您将创建[!DNL Android]应用程序以接收从Adobe Campaign Standard发送的[!UICONTROL Push notifications]。 要接收推送通知，需要向Google的[!DNL Firebase Cloud Service]注册应用程序。
+在本部分中，您将创建[!DNL Android]应用程序以接收从Adobe Campaign Standard发送的[!UICONTROL Push notifications]。 要接收推送通知，应用程序需要向Google的[!DNL Firebase Cloud Service]注册。
 
 1. 登录您的[!DNL Firebase]帐户。
 
-   [!DNL Firebase] 是Google的移动平台，可帮助您快速开发高质量应用。如果您没有[!DNL Firebase]帐户，请从此处创建一个[。](https://firebase.google.com)
+   [!DNL Firebase] 是Google的移动平台，可帮助您快速开发高质量应用程序。如果您没有[!DNL Firebase]帐户，请从此处](https://firebase.google.com)创建一个[。
 
 2. 启动[!DNL Android Studio]
 3. 单击&#x200B;**[!UICONTROL File]** > **[!UICONTROL New]** > **[!UICONTROL New Project]。**
@@ -32,11 +31,11 @@ ht-degree: 2%
 
 5. 为项目提供有意义的名称。
 
-   为了演示，我们已将项目命名为&#x200B;*[!DNL ACSPushTutorial]*
+   为便于演示，我们已将项目命名为&#x200B;*[!DNL ACSPushTutorial]*
 
    ![android-project-configuration](assets/android-project-configuration.PNG)
 
-6. 接受默认包名称，然后单击&#x200B;**[!DNL Finish]**&#x200B;以创建项目。
+6. 接受默认包名称，然后单击&#x200B;**[!DNL Finish]**&#x200B;创建项目。
 7. 您的项目结构应类似于下面的屏幕快照
 
    ![android-project-structure](assets/android-project-structure.PNG)
@@ -68,19 +67,19 @@ ht-degree: 2%
 
    ![项目设置](assets/firebase-project-settings.PNG)
 
-4. Tab键，指向&#x200B;**[!UICONTROL Cloud Messaging]**&#x200B;选项卡。
+4. **[!UICONTROL Cloud Messaging]**&#x200B;选项卡。
 5. 复制服务器密钥
 
    ![服务器密钥](assets/firebase-server-key.PNG)
 
-6. 登录您的Adobe Campaign Standard实例
+6. 登录Adobe Campaign Standard实例
 7. 单击&#x200B;**[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Channels]** > **[!UICONTROL Mobile App]。**
 8. 选择相应的&#x200B;**[!UICONTROL Mobile Application Property]。**
 9. 单击&#x200B;**[!UICONTROL Push Channel settings]**&#x200B;部分中的&#x200B;**[!DNL Android]图标**。
 10. 将服务器密钥粘贴到服务器密钥字段中。
 
-如果一切顺利，您应看到一条SUCCESS消息。
+如果一切顺利，您应看到SUCCESS消息。
 
 ![推送渠道设置](assets/push-channel-settings.PNG)
 
-总之，我们创建了[!DNL Android App]并将[!DNL Android App]与[!DNL Firebase]连接。 然后，我们将[!DNL Android]应用程序的服务器密钥粘贴到Adobe Campaign Standard的移动应用程序中，将&lt;a1/>应用程序与[!DNL Android App]Adobe Campaign连接。
+总而言之，我们创建了一个[!DNL Android App]并将[!DNL Android App]与[!DNL Firebase]连接。 然后，我们将[!DNL Android]应用程序的服务器密钥粘贴到Adobe Campaign Standard中的移动应用程序，从而将移动应用程序与[!DNL Android App]Adobe Campaign连接。
