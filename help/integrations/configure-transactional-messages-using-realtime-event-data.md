@@ -1,8 +1,7 @@
 ---
 title: 使用实时事务性消息事件数据配置
-description: '了解如何使用来自触发器的实时事件数据配置事务性消息。 '
-feature: Triggers
-topics: Integrations
+description: 了解如何使用来自触发器的实时事件数据配置事务性消息。
+feature: 触发器
 kt: 7471
 thumbnail: 332602.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ role: Administrator
 level: Experienced
 activity: use
 team: TM
+exl-id: 748d6cb3-86f0-4763-9d71-1f1e30dfeb93
 translation-type: tm+mt
-source-git-commit: 1623e2d147e61ede906f11ac9f5a147485d9ddfe
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
 
 ---
-
 
 # 使用实时事务性消息事件数据配置
 
