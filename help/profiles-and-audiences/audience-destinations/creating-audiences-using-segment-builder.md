@@ -1,18 +1,17 @@
 ---
 title: 使用统一区段构建器创建新受众
-feature: People Core Service Integration
-topics: ACOP
+description: 了解如何使用统一区段生成器创建新受众
+feature: People核心服务集成
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
-description: 了解如何使用统一区段生成器创建新受众。
 role: Business Practitioner, Developer
 level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 8%
