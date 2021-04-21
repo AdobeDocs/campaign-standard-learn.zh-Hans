@@ -1,22 +1,21 @@
 ---
 title: 控制面板入门
-description: 本文介绍如何访问控制面板以及使用控制面板的先决条件。
-feature: Control Panel
-topics: Control Panel
+description: 本文说明如何访问控制面板，以及使用控制面板所需的先决条件。
+feature: 控制面板
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
 translation-type: tm+mt
-source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '217'
 ht-degree: 65%
 
 ---
-
 
 # [!UICONTROL Control Panel] {#control-panel}入门
 
@@ -24,9 +23,9 @@ ht-degree: 65%
 >
 >术语“[!UICONTROL whitelist]”和“[!UICONTROL blacklist]”已在 Adobe Campaign 文档中替换为“[!UICONTROL allowlist]”和“[!UICONTROL denylist]”。产品 UI、选项名称、内部代码以及教程视频中可能仍然存在这些术语。在即将发布的控制面板版中将替换它们。
 
-[!UICONTROL Control Panel]允许Adobe Campaign管理员监视关键资产并执行管理任务，如按实例管理[!DNL SFTP]存储、管理[!DNL GPG]键或[!UICONTROL subdomains]和[!UICONTROL certificates]。
+[!UICONTROL Control Panel]允许Adobe Campaign管理员监视关键资产并执行管理任务，例如按实例管理[!DNL SFTP]存储、管理[!DNL GPG]键或[!UICONTROL subdomains]和[!UICONTROL certificates]。
 
-本文介绍如何访问控制面板以及使用控制面板的先决条件。
+本文说明如何访问控制面板，以及使用控制面板所需的先决条件。
 
 ## 访问 [!UICONTROL Control Panel]
 
@@ -61,4 +60,3 @@ ht-degree: 65%
 ## 其他资源
 
 * [控制面板帮助中心](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/control-panel-home.html)
-
