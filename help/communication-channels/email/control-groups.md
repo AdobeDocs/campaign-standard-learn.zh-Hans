@@ -1,8 +1,7 @@
 ---
 title: 向传递添加控制组
 description: 了解如何为您的传递定义控制组，以及如何在发送传递后提取分配给控制组的用户档案。
-feature: Control Groups
-topics: null
+feature: 对照组
 kt: 5060
 thumbnail: 40684.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: Business Practitioner
 level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
