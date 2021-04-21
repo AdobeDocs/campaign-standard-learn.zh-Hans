@@ -1,8 +1,7 @@
 ---
 title: 根据工作流区段创建报告
 description: 报告工作流区段提供在动态报告中添加工作流段代码的功能。
-feature: Reporting
-topics: Reporting
+feature: 报告
 kt: 3252
 thumbnail: 28262.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 16%
