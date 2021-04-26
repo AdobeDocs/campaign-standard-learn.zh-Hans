@@ -1,6 +1,6 @@
 ---
 title: 创建电子邮件投放
-description: '了解如何从主页创建电子邮件投放。 '
+description: '了解如何从主页创建电子邮件传送。 '
 landing-page-description: 此视频介绍如何从主页创建电子邮件传送。
 feature: '电子邮件 '
 kt: 1807
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 36%
+ht-degree: 45%
 
 ---
 
