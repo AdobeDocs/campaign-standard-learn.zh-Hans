@@ -11,10 +11,10 @@ exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 8ebdd2701fccaa06faf838288ce72630b5f3330e
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 13%
+source-wordcount: '104'
+ht-degree: 25%
 
 ---
 
@@ -28,5 +28,8 @@ ht-degree: 13%
 
 ## 其他资源
 
-* [逐步导入数据教程](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
-* [Adobe Campaign Standard — 管理流程和数据](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+**产品文档:**
+* [传输文件](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/transfer-file.html)
+* [加载文件](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/load-file.html)
+* [更新数据](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/update-data.html)
+* [流程和数据管理入门](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html)
