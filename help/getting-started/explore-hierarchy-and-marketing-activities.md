@@ -1,7 +1,7 @@
 ---
-title: 探索层次结构和营销活动
-description: “了解项目和活动的层次结构，如何创建营销项目，以及如何在项目中创建营销活动。”
-feature: 活动、项目
+title: 探索层级和营销活动
+description: “了解计划和活动的层级，如何创建营销计划，以及如何在计划中创建营销活动。”
+feature: 活动、计划
 kt: 3892
 thumbnail: 18465.jpg
 doc-type: feature video
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
