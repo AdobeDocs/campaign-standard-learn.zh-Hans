@@ -1,9 +1,8 @@
 ---
 user-guide-title: Adobe Campaign Standard - 创建自定义资源教程
 user-guide-description: '此多部分教程将指导您完成创建和链接自定义资源所需的步骤。 '
-translation-type: tm+mt
 source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
