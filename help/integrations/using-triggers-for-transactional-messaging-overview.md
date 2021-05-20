@@ -1,6 +1,6 @@
 ---
-title: 将触发器用于事务消息传递 — 概述
-description: 了解如何配置和使用触发器进行事务消息传递。
+title: 将触发器用于事务性消息 - 概述
+description: 了解如何为事务性消息配置和使用触发器。
 feature: 触发器
 topic: 集成
 kt: 6525
@@ -9,26 +9,25 @@ role: Administrator
 level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
-translation-type: tm+mt
 source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 将触发器用于事务消息传递 — 概述
+# 将触发器用于事务性消息 - 概述
 
-在以下教程中，您将学习如何配置和使用触发器进行事务消息传递。
+在以下教程中，您将学习如何为事务性消息配置和使用触发器。
 
 在事务性消息中使用触发器之前，您需要：
 
-1. [为触发器配置启动](/help/integrations/configure-launch-for-triggers.md)
-2. [在Experience Cloud中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
-3. [在Campaign Standard中创建触发器事件](/help/integrations/create-a-trigger-event.md)
+1. [针对触发器配置 Launch](/help/integrations/configure-launch-for-triggers.md)
+2. [在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
+3. [在 Campaign Standard 中创建触发器事件](/help/integrations/create-a-trigger-event.md)
 
-配置触发器后，它允许您使用实时事务性消息数据](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)配置事件。[
+触发器配置完成后，它允许您[使用实时事件数据配置事务性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)。
 
 ## 其他资源
 
-* [关于Adobe Experience Cloud Trigger](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=en#integrating-with-adobe-cloud)
+* [关于 Adobe Experience Cloud 触发器](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=zh-Hans#integrating-with-adobe-cloud)
