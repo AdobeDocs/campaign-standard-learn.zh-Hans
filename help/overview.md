@@ -3,14 +3,13 @@ title: Adobe Campaign Standard 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 众多特性和功能的视频和教程。
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Overview
+feature: 概述
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -20,13 +19,13 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增内容
 
-* **[跟踪投放在Adobe Analytics的成功](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[在 Adobe Analytics 中跟踪投放的成功情况](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
-   *了解如何配置Campaign Standard和Analytics集成。了解如何使用从Campaign Standard接收的数据以及哪些KPI可用在Analytics中生成报表。*
+   *了解如何配置 Campaign Standard 和 Analytics 集成。了解如何使用从 Campaign Standard 接收的数据在 Analytics 中生成报表，以及有哪些 KPI 可用。*
 
 * **[将触发器用于事务性消息](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
-   *了解如何配置和使用触发器进行事务消息传递。*
+   *了解如何为事务性消息配置和使用触发器。*
 
 ## 员工挑选
 
@@ -63,7 +62,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
       <img alt="教程：Android 推送通知入门" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/zh-Hans/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>教程：Android 推送通知入门</strong>
     </a>
     </div>
