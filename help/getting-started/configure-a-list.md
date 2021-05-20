@@ -1,6 +1,6 @@
 ---
 title: 配置列表
-description: 了解如何在Adobe Campaign Standard中更改显示的列、顺序和列表视图的排序顺序。
+description: 了解如何更改 Adobe Campaign Standard 中列表视图显示的列、顺序和排序顺序。
 feature: 受众
 kt: 1821
 thumbnail: 25288.jpg
@@ -10,11 +10,10 @@ team: DOC
 exl-id: c5490a49-f4e4-4fe0-8132-1893252a9a4d
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
