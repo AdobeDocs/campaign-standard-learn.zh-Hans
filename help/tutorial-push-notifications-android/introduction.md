@@ -7,9 +7,8 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -34,7 +33,7 @@ ht-degree: 100%
 ## 教程步骤
 
 * [步骤 1 - 创建 Android 应用程序](/help/tutorial-push-notifications-android/create-android-app.md)
-* [步骤 2 - 集成 Mobile SDK](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
+* [步骤 2 - 集成移动 SDK](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
 * [步骤 3 - 使用移动应用程序注册扩展](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
 * [步骤 4 - 设置推送标识符](/help/tutorial-push-notifications-android/set-push-identifier.md)
 * [步骤 5 - 传播通知](/help/tutorial-push-notifications-android/propagate-notification.md)
