@@ -8,10 +8,10 @@ tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans
-source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: ht
-source-wordcount: '549'
-ht-degree: 100%
+source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+workflow-type: tm+mt
+source-wordcount: '558'
+ht-degree: 98%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 100%
       + [在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中创建触发器事件](/help/integrations/create-a-trigger-event.md)
       + [使用实时事件数据配置事务性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+   + [配置Microsoft® Dynamics 365以与Campaign Standard集成](/help/integrations/configure-dynamics-365.md)
 + 管理 {#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
