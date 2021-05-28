@@ -8,10 +8,10 @@ tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans
-source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
 workflow-type: tm+mt
 source-wordcount: '558'
-ht-degree: 98%
+ht-degree: 94%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 # Adobe Campaign Standard 教程 {#tutorials}
 
 + [概述](/help/overview.md)
-+ 快速入门 {#getting-started}
++ 入门 {#getting-started}
    + [Adobe Campaign Standard 简介](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [UI 快速入门](/help/getting-started/getting-started-with-the-ui.md)
    + [配置列表](/help/getting-started/configure-a-list.md)
@@ -77,7 +77,7 @@ ht-degree: 98%
       + [创建和编辑登陆页面](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [测试和发布登陆页面](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [配置登陆页面模板](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ 设计内容和使内容个性化 {#designing-content}
++ 设计和个性化内容{#designing-content}
    + 电子邮件设计工具{#email-designer}
       + [概述](/help/designing-content/email-designer/email-designer-overview.md)
       + [Email Designer 快速入门](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -87,7 +87,7 @@ ht-degree: 98%
       + [使用现有内容](/help/designing-content/email-designer/working-with-existing-content.md)
       + [使用 Adobe Dreamweaver 创建内容](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [在事务性电子邮件中配置产品列表](/help/designing-content/product-listings-in-transactional-email.md)
-+ 管理流程和数据 {#managing-processes-and-data}
++ 流程和数据管理{#managing-processes-and-data}
    + [创建工作流](/help/managing-processes-and-data/creating-a-workflow.md)
    + 执行活动 {#execution-activities}
       + [外部信号活动](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
@@ -100,14 +100,14 @@ ht-degree: 98%
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
 + 与其他解决方案集成{#integrations}
    + [在 Adobe Analytics 中跟踪投放的成功情况](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + 将触发器用于事务性消息{#triggers}
+   + 对事务型消息{#triggers}使用触发器
       + [概述](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [针对触发器配置 Launch](/help/integrations/configure-launch-for-triggers.md)
       + [在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中创建触发器事件](/help/integrations/create-a-trigger-event.md)
       + [使用实时事件数据配置事务性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [配置Microsoft® Dynamics 365以与Campaign Standard集成](/help/integrations/configure-dynamics-365.md)
-+ 管理 {#administrating}
++ 管理{#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hans)
