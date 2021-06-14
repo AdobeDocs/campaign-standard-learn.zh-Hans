@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 文档
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans
 source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '558'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 94%
 # Adobe Campaign Standard 教程 {#tutorials}
 
 + [概述](/help/overview.md)
-+ 入门 {#getting-started}
++ 快速入门{#getting-started}
    + [Adobe Campaign Standard 简介](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [UI 快速入门](/help/getting-started/getting-started-with-the-ui.md)
    + [配置列表](/help/getting-started/configure-a-list.md)
@@ -100,13 +100,13 @@ ht-degree: 94%
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
 + 与其他解决方案集成{#integrations}
    + [在 Adobe Analytics 中跟踪投放的成功情况](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + 对事务型消息{#triggers}使用触发器
+   + 将触发器用于事务性消息{#triggers}
       + [概述](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [针对触发器配置 Launch](/help/integrations/configure-launch-for-triggers.md)
       + [在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中创建触发器事件](/help/integrations/create-a-trigger-event.md)
       + [使用实时事件数据配置事务性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [配置Microsoft® Dynamics 365以与Campaign Standard集成](/help/integrations/configure-dynamics-365.md)
+   + [配置 Microsoft® Dynamics 365 以便与 Campaign Standard 集成](/help/integrations/configure-dynamics-365.md)
 + 管理{#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
