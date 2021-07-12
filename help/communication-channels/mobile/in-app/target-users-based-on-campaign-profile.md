@@ -1,6 +1,6 @@
 ---
-title: 基于 Campaign 用户档案的目标用户
-description: 了解如何向已知的移动App用户目标个性化的CRM用户档案属性信息。
+title: 基于其 Campaign 用户档案的目标用户
+description: 了解如何使用使用CRM配置文件属性个性化的消息来定位已知的移动设备应用程序用户。
 feature: 应用程序内
 kt: 1796
 thumbnail: 26200.jpg
@@ -8,19 +8,18 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 6%
 
 ---
 
-# 目标用户基于其[!DNL Campaign]用户档案
+# 根据[!DNL Campaign]配置文件定位用户
 
-您可以向已知移动应用程序用户（通过PII登录应用程序的用户）目标Adobe Campaign Standard中提供的具有CRM用户档案属性的个性化消息。 此模板对于支持跨渠道业务流程使用案例最有用，在这些案例中，您已经将用户定向到其他渠道（如“电子邮件”或“推送”），并且根据用户的响应，您希望通过[!UICONTROL In-App]消息与他们互动。
+您可以使用Adobe Campaign Standard中提供的使用CRM配置文件属性进行个性化的消息，来定位已知的移动设备应用程序用户（那些已通过PII登录应用程序的用户）。 此模板对于支持跨渠道编排用例非常有用，在这些用例中，您已经定向了其他渠道（如电子邮件或推送）上的用户，并且根据他们的响应，您希望让他们收到[!UICONTROL In-App]消息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
