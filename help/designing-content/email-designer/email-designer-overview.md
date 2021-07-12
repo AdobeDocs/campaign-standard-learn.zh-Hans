@@ -1,6 +1,6 @@
 ---
 title: Email Designer 概述
-description: 了解电子邮件设计器的一般功能以及如何从头开始设计电子邮件。
+description: 了解Email Designer的一般功能以及如何从头开始设计电子邮件。
 feature: 电子邮件设计
 kt: 1402
 thumbnail: 22771.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 85%
@@ -30,7 +29,7 @@ ht-degree: 85%
 
 提供以下详细教程：
 
-* [Email Designer 入门](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+* [Email Designer 快速入门](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [内容模板](/help/designing-content/email-designer/email-content-templates.md)
 * [配置移动视图](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [预览电子邮件](/help/designing-content/email-designer/preview-your-email.md)
