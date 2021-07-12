@@ -1,17 +1,16 @@
 ---
 title: 预测参与度评分
 description: 了解如何在个人用户档案级别查看参与度得分，使用得分确定目标参与用户并禁止疲劳用户，以及如何创建类型学规则来管理客户疲劳。
-feature: 预测互动评分
+feature: 预测参与度评分
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
-role: Business Practitoner, Developer, Administrator
+role: Business Practitoner, Developer, Admin
 level: Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 98%
