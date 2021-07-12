@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 92%
@@ -36,4 +35,4 @@ ht-degree: 92%
 
 * [使用目标用户档案测试电子邮件（文档）](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [设计 A/B 测试电子邮件](/help/communication-channels/email/a-b-testing.md)
-* [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [发送测试，准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
