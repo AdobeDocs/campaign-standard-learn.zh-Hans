@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 12%
@@ -24,11 +23,11 @@ ht-degree: 12%
 
 Adobe Campaign允许您将个性化的分段[!UICONTROL push notifications]发送到iOS和Android移动设备。 您有两个选项：
 
-* **[!UICONTROL Send push notification to Campaign profiles]**:允许您目标已订阅您的移动应用程序并已选择接收的Adobe Campaign CRM用户档案  [!UICONTROL push notifications]。可将个性化字段插入[!UICONTROL push notification]，如收件人的名。
+* **[!UICONTROL Send push notification to Campaign profiles]**:允许您定位已订阅您的移动应用程序并选择接收的Adobe Campaign CRM用户档 [!UICONTROL push notifications]案。您可以将个性化字段插入[!UICONTROL push notification]，如收件人的名字。
 
-* **[!UICONTROL Send push notification to app subscribers]**:允许您向所有已 [!UICONTROL push notification] 知和匿名的移动应用程序用户发送一个，这些用户已选择接收来自您的应用程序的通知。您可以使用从移动应用程序收集的数据个性化这些信息。
+* **[!UICONTROL Send push notification to app subscribers]**:允许您向选择从您的 [!UICONTROL push notification] 应用程序接收通知的所有已知和匿名移动应用程序用户发送。您可以使用从移动应用程序收集的数据对这些消息进行个性化设置。
 
-视频介绍如何发送[!DNL push notification to app subscribers]。
+此视频介绍如何发送[!DNL push notification to app subscribers]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
 
