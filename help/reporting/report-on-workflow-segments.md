@@ -1,6 +1,6 @@
 ---
 title: 根据工作流区段创建报告
-description: 报告工作流区段提供在动态报告中添加工作流段代码的功能。
+description: “工作流区段报告”功能可在动态报告中添加工作流区段代码。
 feature: 报告
 kt: 3252
 thumbnail: 28262.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 16%
@@ -20,9 +19,9 @@ ht-degree: 16%
 
 # 根据工作流区段创建报告
 
-在创建工作流并将人口筛选为不同的目标受众后，您可以根据在此定位工作流中定义的细分来衡量营销活动的效率。
+在创建工作流并将群体过滤到不同的目标受众后，您可以根据此定位工作流中定义的区段来衡量营销活动的效率。
 
-以下视频介绍了在报表中目标这些区段所需的三个步骤：
+以下视频介绍在报表中定位这些区段所需执行的三个步骤：
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
