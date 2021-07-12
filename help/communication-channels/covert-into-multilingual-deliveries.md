@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 31%
@@ -20,7 +19,7 @@ ht-degree: 31%
 
 # 将现有电子邮件、短信投放或模板转换为多语言
 
-此视频演示了如何将现有电子邮件、SMS投放或投放模板轻松转换为多语言。
+此视频演示如何轻松将现有电子邮件、短信投放或投放模板转换为多语言。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12)
 
