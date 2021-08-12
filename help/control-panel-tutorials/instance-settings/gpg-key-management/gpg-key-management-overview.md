@@ -25,4 +25,4 @@ GPG (GnuPG) 使用非对称的单个密钥对加密消息。要利用 Campaign �
 
 ## 其他资源
 
-* [GPG 密钥管理（文档）](shttps://docs.adobe.com/content/help/zh-Hans/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG 密钥管理（文档）](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/instances-settings/gpg-keys-management.html)
