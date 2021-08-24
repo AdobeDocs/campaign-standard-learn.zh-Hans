@@ -1,18 +1,16 @@
 ---
-title: 映射体验事件
+title: 映射 Experience 事件
 description: 了解如何在Adobe Experience Platform(AEP)中映射体验事件
-feature: Adobe Experience Platform Data Connector
 kt: 2832
 thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 17%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 
@@ -20,7 +18,7 @@ ht-degree: 17%
 
 >[!NOTE]
 >
->此功能目前处于测试阶段，如有频繁更新和修改，恕不另行通知。
+>此功能目前处于测试阶段，可能会频繁更新和修改，恕不另行通知。
 >
 >如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
