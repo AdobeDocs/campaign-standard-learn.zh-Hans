@@ -7,29 +7,28 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 第6部分 — 发送[!UICONTROL Push Notification]以测试您的工作
 
-现在，我们需要使用Adobe Campaign创建并发送[!UICONTROL Push Notification]。. 要创建用于测试目的的简单推送通知，请执行以下步骤。
+现在，我们需要使用Adobe Campaign创建并发送[!UICONTROL Push Notification]。 要创建用于测试的简单推送通知，请执行以下步骤。
 
-* 登录Adobe Campaign Standard实例
+* 登录到Adobe Campaign Standard实例
 * 单击 **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * 选择&#x200B;**[!UICONTROL Send push to app subscribers(mobileApp)]**&#x200B;并单击“下一步”
-* 从&#x200B;**[!UICONTROL Associate a Mobile App to a delivery]**&#x200B;下拉列表中选择相应的移动应用程序，然后单击&#x200B;**[!UICONTROL Next]**
+* 从&#x200B;**[!UICONTROL Associate a Mobile App to a delivery]**&#x200B;下拉列表中选择相应的移动设备应用程序，然后单击&#x200B;**[!UICONTROL Next]**
 * 单击计数标签，它应返回大于0的值。 单击 **[!UICONTROL Next]**
 * 提供有意义的[!UICONTROL Message title]和[!UICONTROL Message body]并单击&#x200B;**[!UICONTROL Create]**。
-* 单击 **[!UICONTROL Prepare]**。准备完毕后，单击&#x200B;**[!UICONTROL Confirm]**&#x200B;发送消息。
+* 单击 **[!UICONTROL Prepare]**。准备完成后，单击&#x200B;**[!UICONTROL Confirm]**&#x200B;以发送消息。
 
-如果一切顺利，您应会在模拟器中运行Android应用程序
+如果一切正常，您应会在模拟器中运行的Android™应用程序中看到通知
 
 ## 其他资源
 
-* [推送通知的详细文档](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [有关推送通知的详细文档](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
 * [创建推送通知（视频）](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
