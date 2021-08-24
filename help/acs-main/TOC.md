@@ -8,10 +8,10 @@ tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans
-source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 + [概述](/help/overview.md)
 + 快速入门{#getting-started}
    + [Adobe Campaign Standard 简介](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [UI 快速入门](/help/getting-started/getting-started-with-the-ui.md)
+   + [UI 入门](/help/getting-started/getting-started-with-the-ui.md)
    + [配置列表](/help/getting-started/configure-a-list.md)
    + [探索层级和营销活动](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [管理活动](/help/getting-started/managing-campaigns.md)
@@ -35,7 +35,7 @@ ht-degree: 100%
    + [创建用户档案和受众 - 概述](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [创建用户档案](/help/profiles-and-audiences/creating-a-profile.md)
    + [创建测试用户档案](/help/profiles-and-audiences/test-profiles.md)
-   + [使用工作流导入用户档案](/help/managing-processes-and-data/importing-profiles.md)
+   + [用工作流导入用户档案](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服务和订阅](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 受众目标（测试版）{#audience-destinations}
       + [概述](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -48,7 +48,7 @@ ht-degree: 100%
       + [发送测试，准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B 测试](/help/communication-channels/email/a-b-testing.md)
       + [使用目标用户档案测试电子邮件消息](/help/communication-channels/email/profile-substitution.md)
-      + [向投放添加对照组](/help/communication-channels/email/control-groups.md)
+      + [向传递添加控制组](/help/communication-channels/email/control-groups.md)
       + [创建多语言电子邮件或短信投放](/help/communication-channels/create-multilingual-deliveries.md)
       + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [查看电子邮件投放和报告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -85,7 +85,7 @@ ht-degree: 100%
       + [配置移动视图](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [预览电子邮件和防垃圾邮件分析](/help/designing-content/email-designer/preview-your-email.md)
       + [使用现有内容](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [使用 Adobe Dreamweaver 创建内容](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [使用Adobe Dreamweaver创建内容](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [在事务性电子邮件中配置产品列表](/help/designing-content/product-listings-in-transactional-email.md)
 + 流程和数据管理{#managing-processes-and-data}
    + [创建工作流](/help/managing-processes-and-data/creating-a-workflow.md)
@@ -96,7 +96,7 @@ ht-degree: 100%
 + 报告{#reporting}
    + [浏览报告](/help/getting-started/exploring-reports.md)
    + [创建动态报告](/help/reporting/creating-a-dynamic-report.md)
-   + [根据自定义用户档案属性创建报告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+   + [根据自定义用户档案属性创建报表](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
 + 与其他解决方案集成{#integrations}
    + [在 Adobe Analytics 中跟踪投放的成功情况](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
@@ -114,7 +114,7 @@ ht-degree: 100%
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [了解 Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [映射自定义资源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [映射 Experience 事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [映射体验事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [映射种子表数据](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [修改数据映射](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [检查数据摄取作业的状态](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
