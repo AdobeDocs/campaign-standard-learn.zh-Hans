@@ -1,18 +1,16 @@
 ---
 title: 映射种子表数据
 description: 了解如何映射种子数据以及如何使用Adobe Experience Platform(AEP)测试用户档案
-feature: Adobe Experience Platform Data Connector
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 19%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +18,7 @@ ht-degree: 19%
 
 >[!NOTE]
 >
->此功能目前处于测试阶段，如有频繁更新和修改，恕不另行通知。
+>此功能目前处于测试阶段，可能会频繁更新和修改，恕不另行通知。
 >
 >如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
