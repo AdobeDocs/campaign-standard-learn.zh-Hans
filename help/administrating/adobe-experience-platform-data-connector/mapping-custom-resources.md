@@ -1,13 +1,14 @@
 ---
 title: 映射自定义资源
 description: 了解如何在Adobe Campaign Standard(ACS)和Adobe Experience Platform(AEP)之间映射不同的数据类型
+feature: People核心服务集成
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -28,4 +29,4 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [映射定义](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
+* [映射定义](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
