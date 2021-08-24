@@ -1,25 +1,26 @@
 ---
 title: 创建自定义资源 - 简介
-description: Adobe Campaign Standard 提供扩展资源或创建全新资源的功能。此多部分教程将指导您完成创建和链接自定义资源所需的步骤。
-feature: '自定义资源 '
+description: 本多部分教程将指导您完成创建和链接自定义资源所需的步骤。
+feature: '数据模型 '
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
-source-wordcount: '235'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 创建自定义资&#x200B;源 - 简介
 
-[!DNL Adobe Campaign] 随附预定义数据模型，其中数据通过不同资源进行定义。[!DNL Campaign] 提供扩展资源或创建全新资源的功能。
+[!DNL Adobe Campaign] 随附预定义数据模型，其中数据通过不同资源进行定义。[!DNL Campaign] 允许用户扩展现有资源或创建新资源。
 
-此多部分教程将指导您完成创建和链接自定义资源所需的步骤。在本教程结束时，您将学会如何：
+本多部分教程将指导您完成创建和链接自定义资源所需的步骤。
+了解如何：
 
 * 创建自定义资源
 * 向自定义资源添加字段
@@ -28,17 +29,15 @@ ht-degree: 100%
 
 ## 先决条件
 
-为了能够创建自定义资源，您需要具有管理用户权限。
+要能够创建自定义资源，您必须具有管理用户权限。
 
 ## 教程概述
 
-我们希望能够使用关于客户所订购内容的其他信息，以便该信息可用于营销和再营销。
-
-为此，我们将通过扩展现成的资源并添加我们自己的自定义表，扩充 [!DNL Campaign] 数据模型。我们将添加客户和订单表。
+要使用有关客户所订购内容的其他信息以便用于营销和再营销，[!DNL Campaign]数据模型必须通过添加自定义表进行扩展。 对于此用例，必须创建客户和订单表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
-本教程将逐步说明下列操作步骤：
+本教程介绍如何：
 
 步骤 1 - [创建自定义资源](./creating-a-custom-resource.md)
 步骤 2 - [配置屏幕定义](./configuring-a-screen-definition-for-a-custom-resource.md)
