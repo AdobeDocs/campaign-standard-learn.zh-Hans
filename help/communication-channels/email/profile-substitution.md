@@ -1,5 +1,5 @@
 ---
-title: 用户档案替换 - 使用目标用户档案测试电子邮件
+title: 用户档案替换 — 使用目标用户档案测试电子邮件
 description: 了解如何使用用户档案替换功能测试电子邮件。
 feature: '电子邮件  '
 kt: 4667
@@ -10,14 +10,14 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 92%
+ht-degree: 72%
 
 ---
 
-# [!UICONTROL Profile Substitution] - 使用目标用户档案测试电子邮件
+# [!UICONTROL Profile Substitution] - 使用目标用户档案测试电子邮件消息
 
 此视频介绍如何使用[!UICONTROL Profile Substitution]测试电子邮件。它涵盖以下用例：
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-有关详细信息，请参阅详细的[产品文档](https://docs.adobe.com/content/help/zh-Hans/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)。
+有关详细信息，请参阅详细的[产品文档](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)。
 
 >[!IMPORTANT]
 >
@@ -33,6 +33,6 @@ ht-degree: 92%
 
 ## 其他资源
 
-* [使用目标用户档案测试电子邮件（文档）](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [使用目标用户档案测试电子邮件（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [设计 A/B 测试电子邮件](/help/communication-channels/email/a-b-testing.md)
-* [发送测试，准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
