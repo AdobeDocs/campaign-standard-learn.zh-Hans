@@ -1,6 +1,6 @@
 ---
 title: 完全子域委派
-description: Adobe Campaign 控制面板允许您将子域完全委派给 Adobe Campaign。为此，请执行以下步骤：
+description: '了解如何将子域委派给Adobe Campaign。 '
 feature: 子域和证书
 kt: 4115
 thumbnail: 31390.jpg
@@ -8,11 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 78%
+source-wordcount: '89'
+ht-degree: 64%
 
 ---
 
@@ -20,11 +19,7 @@ ht-degree: 78%
 
 Adobe Campaign [!UICONTROL Control Panel]允许您将子域完全委派给 Adobe Campaign。
 
->[!NOTE]
->
->来自[!UICONTROL Control Panel]的子域委派将在1月底之前在测试版中可用，并且如有频繁更新和修改，恕不另行通知。
-
-## 访问 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
+## 访问[!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
 要在 [!UICONTROL Control Panel] 中访问 [!UICONTROL Subdomain Management]，请转到：
 
@@ -35,11 +30,11 @@ Adobe Campaign [!UICONTROL Control Panel]允许您将子域完全委派给 Adobe
 
 ## 如何委派子域
 
-以下视频演示如何委派子域。
+了解如何将子域委派给Adobe Campaign。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
 ## 其他资源
 
 * [添加 SSL 证书](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [子域和证书](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [子域和证书](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)
