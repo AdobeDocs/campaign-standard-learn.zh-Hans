@@ -1,5 +1,5 @@
 ---
-title: 了解 Adobe Experience Platform Data Connector
+title: 了解Adobe Experience Platform Data Connector
 description: Adobe Experience Platform Data Connector通过将XTK数据（在Campaign中摄取的数据）映射到Adobe Experience Platform上的Experience Data Model(XDM)数据，帮助现有客户在Adobe Experience Platform上提供其数据。
 feature: People核心服务集成
 kt: 2826
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此功能目前处于测试阶段，可能会频繁更新和修改，恕不另行通知。
+>此功能属于测试版，如有频繁更新和修改，恕不另行通知。
 >
 >如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 Adobe Experience Platform [!UICONTROL Data Connector]通过将XTK数据(在Adobe Campaign中摄取的数据)映射到Adobe Experience Platform上的[!DNL Experience Data Model](XDM)数据，可帮助现有客户在Adobe Experience Platform上使其数据可用。
 
-请注意，连接器是单向的，会将数据从Adobe Campaign Standard发送到Adobe Experience Platform。 数据从不会从Adobe Experience Platform发送到Adobe Campaign Standard。
+连接器是单向的，会将数据从Adobe Campaign Standard发送到Adobe Experience Platform。 数据从不会从Adobe Experience Platform发送到Adobe Campaign Standard。
 
 Adobe Experience Platform [!UICONTROL Data Connector]面向了解Adobe Campaign Standard [!UICONTROL custom resources]并了解客户整体数据架构如何在Adobe Experience Platform内部的数据工程师。
 
@@ -53,8 +53,5 @@ Adobe Experience Platform [!UICONTROL Data Connector]面向了解Adobe Campaign 
 
 ## 其他资源
 
-* [关于 Adobe Experience Platform Data Connector](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
-* [体验数据模型概述](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
-* [映射定义](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [映射激活](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-* [通过 API 触发数据摄取](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)
+* [关于 Adobe Experience Platform Data Connector](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-about-data-connector.html)
+
