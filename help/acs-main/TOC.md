@@ -8,10 +8,10 @@ tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '557'
+ht-degree: 83%
 
 ---
 
@@ -39,18 +39,18 @@ ht-degree: 0%
    + [管理服务和订阅](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 受众目标（测试版）{#audience-destinations}
       + [概述](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [使用统一区段构建器创建新受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [使用统一区段生成器创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [在工作流中启动 Adobe Experience Platform 受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [更改定位维度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通信渠道 {#communication-channels}
    + 电子邮件 {#email}
       + [创建电子邮件](/help/communication-channels/email/create-email-from-homepage.md)
-      + [发送测试，准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B 测试](/help/communication-channels/email/a-b-testing.md)
       + [使用目标用户档案测试电子邮件消息](/help/communication-channels/email/profile-substitution.md)
       + [向传递添加控制组](/help/communication-channels/email/control-groups.md)
       + [创建多语言电子邮件或短信投放](/help/communication-channels/create-multilingual-deliveries.md)
-      + [将现有电子邮件、短信投放或模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [将现有电子邮件、短信投放或投放模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [查看电子邮件投放和报告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [通过工作流创建和发送电子邮件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [投放最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
@@ -59,11 +59,11 @@ ht-degree: 0%
          + [预测参与度评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 手机 {#mobile}
       + 短信{#sms}
-         + [创建短信投放](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [创建短信投放。](/help/communication-channels/mobile/sms/sms-delivery.md)
       + 推送通知 {#push}
          + [创建推送通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [创建多语言推送通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [教程：Android 推送通知入门](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hans)
+         + [教程：Android 推送通知入门™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hans)
       + 应用程序内消息 {#in-app}
          + [应用程序内消息简介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [配置事件](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -105,7 +105,7 @@ ht-degree: 0%
       + [针对触发器配置 Launch](/help/integrations/configure-launch-for-triggers.md)
       + [在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中创建触发器事件](/help/integrations/create-a-trigger-event.md)
-      + [使用实时事件数据配置事务性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [使用实时事件数据配置事务型消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [配置 Microsoft® Dynamics 365 以便与 Campaign Standard 集成](/help/integrations/configure-dynamics-365.md)
 + 管理{#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
