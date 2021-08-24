@@ -10,8 +10,8 @@ team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 11%
 
 ---
 
