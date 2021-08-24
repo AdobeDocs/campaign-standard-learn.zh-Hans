@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Campaign Standard 与 Adobe Dreamweaver 集成允许您直接在 Dreamweav
 
 >[!NOTE]
 >
->此功能需要称为  **[!UICONTROL Adobe Campaign Integration]** 的 Dreamweaver 扩展。您可以从 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) 下载扩展。有关安装的详细信息，请参阅 [Campaign 的 Dreamweaver 扩展](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html)。
+>此功能需要称为  **[!UICONTROL Adobe Campaign Integration]** 的 Dreamweaver 扩展。您可以从 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) 下载扩展。有关安装的更多信息，请参阅[Campaign的Dreamweaver扩展](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html)。
 
 此视频介绍启用 Dreamweaver 集成所需的功能以及如何使用 Dreamweaver 创建和编辑 Adobe Campaign Standard 的内容。
 
