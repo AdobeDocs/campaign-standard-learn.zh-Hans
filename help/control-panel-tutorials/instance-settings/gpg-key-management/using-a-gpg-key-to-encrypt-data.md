@@ -1,5 +1,5 @@
 ---
-title: 使用 GPG 密钥加密数据
+title: 使用GPG密钥加密数据
 description: 了解如何使用安装在控制面板上的 GPG 密钥导出数据。
 feature: 控制面板
 audience: administrator
@@ -9,15 +9,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 849f2da2-aced-45ff-8b4b-554add5a5474
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 100%
+ht-degree: 62%
 
 ---
 
-# 使用 GPG 密钥加密数据
+# 使用GPG密钥加密数据
 
 了解如何使用安装在控制面板上的 GPG 密钥导出数据。
 
@@ -26,4 +25,4 @@ ht-degree: 100%
 ## 其他资源
 
 * [GPG 密钥管理（视频）](./gpg-key-management-overview.md)
-* [GPG 密钥管理（文档）](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG 密钥管理（文档）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)
