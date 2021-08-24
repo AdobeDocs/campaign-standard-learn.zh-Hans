@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->此功能目前处于测试阶段，可能会频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
+>此功能属于测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
 >如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
@@ -35,9 +35,9 @@ ht-degree: 7%
 
 文档：
 
-* [在Campaign中激活Experience Platform受众 — 文档](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [将 Adobe Experience Platform 受众引入 Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
 
 视频资源：
 
-* [在Adobe Campaign Standard中使用统一区段生成器创建新受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [使用统一区段生成器在Adobe Campaign Standard中创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [更改Platform Audience投放的定向维度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
