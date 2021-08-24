@@ -10,16 +10,16 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 10%
 
 ---
 
 # 报告[!UICONTROL In-App]投放 {#in-app-message-reporting}
 
-您可以通过添加特定于[!UICONTROL应用程序内的量度，在投放摘要中查看[!UICONTROL In-App]投放相关数据。 或者，您也可以使用开箱即用的[应用程序内报表](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)。
+您可以通过添加特定于[!UICONTROL In-App]的量度，在投放摘要中查看与[!UICONTROL In-App]投放相关的数据。 或者，您也可以使用开箱即用的[应用程序内报表](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
