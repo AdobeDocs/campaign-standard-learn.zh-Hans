@@ -1,6 +1,6 @@
 ---
 title: 广播应用程序内消息
-description: 了解如何配置和使用广播模板来定位移动设备应用程序的所有用户。
+description: 了解如何配置和使用广播模板来定位移动应用程序的所有用户。
 feature: 应用程序内
 kt: 2497
 thumbnail: 26199.jpg
@@ -10,7 +10,7 @@ team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 7%
@@ -23,16 +23,16 @@ ht-degree: 7%
 
 此类别中的一些相关用例包括：
 
-* 向首次使用应用程序启动器或
+* 将移动设备应用程序教程发送到首次应用程序启动器或
 * 新增功能发布的公告
 
-了解如何配置和使用广播模板来定位移动设备应用程序的所有用户。
+了解如何配置和使用广播模板来定位移动应用程序的所有用户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*使用[!UICONTROL SDKV5 Mobile property]*
+*使用SDKV5移动属性创建应用程序内广播消息]*
 
 ## 其他资源
 
-* [准备和发送应用程序内消息（文档）](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
-* [自定义应用程序内消息（文档）](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
+* [准备和发送应用程序内消息（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
+* [自定义应用程序内消息（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
