@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 98%
 通过由 [!UICONTROL Journey AI] 提供技术支持，[!DNL Adobe Campaign] 可以根据历史参与指标分析和预测开放率、最佳发送时间和可能的客户流失。
 
 >[!CAUTION]
->此功能并非作为产品的一部分现成可用。实施需要咨询 Adobe。请联系您的 Adobe 代表以了解更多信息。
+>此功能并非作为产品的一部分现成可用。实施需要咨询 Adobe。要了解更多信息，请联系您的Adobe代表。
 
 [!UICONTROL Predictive send time optimization] 针对电子邮件打开数或单击数预测每个收件人用户档案的最佳发送时间。对于每个收件人用户档案，分数表示每个工作日的最佳发送时间以及用于获取最佳结果的最佳发送工作日。
 
@@ -38,4 +38,4 @@ ht-degree: 98%
 
 文档：
 
-* [利用 AI 提供技术支持的电子邮件优化设计和传递](https://docs.adobe.com/help/zh-Hans/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [利用 AI 提供技术支持的电子邮件优化设计和传递](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
