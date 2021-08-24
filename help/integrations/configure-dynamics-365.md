@@ -1,17 +1,17 @@
 ---
 title: 配置 Microsoft® Dynamics 365 以便与 Campaign Standard 集成
 description: 了解如何配置 Microsoft® Dynamics 365，以便用于 Dynamics 和 Campaign Standard 的集成。
-feature: Microsoft Dynamics 365 连接器
+feature: Microsoft CRM 集成
 kt: 2927
 doc-type: feature video
 role: Admin
 level: Experienced
 activity: setup
 team: PM
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
