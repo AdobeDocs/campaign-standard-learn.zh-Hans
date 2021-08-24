@@ -10,16 +10,16 @@ team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: User
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 49%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 创建测试用户档案 {#creating-a-test-profile}
 
-利用测试用户档案可定向不符合所规定定向标准的其他收件人。可以将测试用户档案添加到消息的受众，以检测收件人数据库是否用于任何欺诈行为，或确保电子邮件送达收件箱中。
+利用测试用户档案可定向不符合所规定定向标准的其他收件人。消息的受众中会添加这些参数，以检测收件人数据库是否用于任何欺诈行为，或确保电子邮件送达收件箱中。
 
 此视频介绍如何创建测试用户档案
 
