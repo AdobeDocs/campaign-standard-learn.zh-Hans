@@ -1,7 +1,7 @@
 ---
 title: 探索层级和营销活动
-description: “了解计划和活动的层级，如何创建营销计划，以及如何在计划中创建营销活动。”
-feature: 活动、计划
+description: 了解项目和营销策划的层级结构，如何创建营销项目，以及如何在项目中创建营销活动。
+feature: Campaigns, Programs
 kt: 3892
 thumbnail: 18465.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: WWFRE
 exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: d63bb82ec0043f09e480f3edd395083943035eea
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 ## 其他资源
 
-* [计划和营销活动](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=zh-Hans)
+* [营销活动](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activities.html?lang=en)
