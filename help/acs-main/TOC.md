@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 80%
    + [管理服务和订阅](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 受众目标（测试版）{#audience-destinations}
       + [概述](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [使用统一区段生成器创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [使用统一区段构建器创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [在工作流中启动 Adobe Experience Platform 受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [更改定位维度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通信渠道 {#communication-channels}
@@ -48,7 +48,7 @@ ht-degree: 80%
       + [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B 测试](/help/communication-channels/email/a-b-testing.md)
       + [使用目标用户档案测试电子邮件消息](/help/communication-channels/email/profile-substitution.md)
-      + [向传递添加控制组](/help/communication-channels/email/control-groups.md)
+      + [向投放添加对照组](/help/communication-channels/email/control-groups.md)
       + [创建多语言电子邮件或短信投放](/help/communication-channels/create-multilingual-deliveries.md)
       + [将现有电子邮件、短信投放或投放模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [查看电子邮件投放和报告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -59,11 +59,11 @@ ht-degree: 80%
          + [预测参与度评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 手机 {#mobile}
       + 短信{#sms}
-         + [创建短信投放。](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [创建短信投放](/help/communication-channels/mobile/sms/sms-delivery.md)
       + 推送通知 {#push}
          + [创建推送通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [创建多语言推送通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [教程：Android 推送通知入门™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hans)
+         + [教程：Android™ 推送通知入门](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hans)
       + 应用程序内消息 {#in-app}
          + [应用程序内消息简介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [配置事件](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -80,12 +80,12 @@ ht-degree: 80%
 + 设计和个性化内容{#designing-content}
    + 电子邮件设计工具{#email-designer}
       + [概述](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Email Designer 快速入门](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Email Designer 入门](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [电子邮件内容模板简介](/help/designing-content/email-designer/email-content-templates.md)
       + [配置移动视图](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [预览电子邮件和防垃圾邮件分析](/help/designing-content/email-designer/preview-your-email.md)
       + [使用现有内容](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [使用Adobe Dreamweaver创建内容](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [使用 Adobe Dreamweaver 创建内容](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [在事务性电子邮件中配置产品列表](/help/designing-content/product-listings-in-transactional-email.md)
 + 流程和数据管理{#managing-processes-and-data}
    + [创建工作流](/help/managing-processes-and-data/creating-a-workflow.md)
@@ -96,7 +96,7 @@ ht-degree: 80%
 + 报告{#reporting}
    + [浏览报告](/help/getting-started/exploring-reports.md)
    + [创建动态报告](/help/reporting/creating-a-dynamic-report.md)
-   + [根据自定义用户档案属性创建报表](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+   + [根据自定义用户档案属性创建报告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
 + 与其他解决方案集成{#integrations}
    + [在 Adobe Analytics 中跟踪投放的成功情况](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
@@ -105,16 +105,16 @@ ht-degree: 80%
       + [针对触发器配置 Launch](/help/integrations/configure-launch-for-triggers.md)
       + [在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中创建触发器事件](/help/integrations/create-a-trigger-event.md)
-      + [使用实时事件数据配置事务型消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [使用实时事件数据配置事务性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [配置 Microsoft® Dynamics 365 以便与 Campaign Standard 集成](/help/integrations/configure-dynamics-365.md)
 + 管理{#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=zh-Hans)
-   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
-      + [了解 Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+   + Adobe Experience Platform 数据连接器 {#adobe-experience-platform-data-connector}
+      + [了解 Adobe Experience Platform 数据连接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [映射自定义资源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [映射体验事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [映射 Experience 事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [映射种子表数据](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [修改数据映射](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [检查数据摄取作业的状态](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
@@ -127,4 +127,4 @@ ht-degree: 80%
    + [修改隐私请求的自定义资源](/help/privacy/custom-resources-for-privacy-requests.md)
    + [手动创建和跟踪隐私请求](/help/privacy/create-and-track-privacy-requests.md)
    + [执行隐私请求](/help/privacy/execute-privacy-requests.md)
-+ [故障诊断Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Campaign Standard 故障排除](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hans)
