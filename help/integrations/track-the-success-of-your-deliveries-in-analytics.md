@@ -1,8 +1,8 @@
 ---
 title: 在 Adobe Analytics 中跟踪投放的成功情况
 description: 了解如何配置 Campaign Standard 和 Analytics 集成。了解如何使用从 Campaign Standard 接收的数据在 Analytics 中构建报表，以及有哪些 KPI 可用。
-feature: 应用程序设置
-topic: 集成
+feature: Application Settings
+topic: Integrations
 role: Admin
 level: Intermediate
 kt: 6526
@@ -11,9 +11,9 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '94'
+ht-degree: 100%
 
 ---
 
