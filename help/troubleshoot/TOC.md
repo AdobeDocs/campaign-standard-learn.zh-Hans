@@ -1,7 +1,7 @@
 ---
-user-guide-title: Adobe Campaign Standard故障诊断
-user-guide-description: 查找有关如何对Adobe Campaign Standard问题进行故障诊断的帮助。
-breadcrumb-title: Adobe Campaign Standard故障诊断
+user-guide-title: Adobe Campaign Standard 故障排除
+user-guide-description: 查找有关如何对 Adobe Campaign Standard 问题进行故障排除的帮助。
+breadcrumb-title: Adobe Campaign Standard 故障排除
 breadcrumb-url: /docs/campaign-standard-learn/troubleshoot-adobe-campaign/overview.html
 index: true
 feature: Overview
@@ -9,13 +9,13 @@ role: Admin
 level: Experienced
 source-git-commit: 9eecc356e0ef4595874894294a71f797f3d105ac
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Adobe Campaign Standard故障诊断 {#troubleshooting}
+# Adobe Campaign Standard 故障排除 {#troubleshooting}
 
 + [概述](/help/troubleshoot/overview.md)
 + [查看用户档案时出现技术错误](/help/troubleshoot/technical-error-while-viewing-profile.md)

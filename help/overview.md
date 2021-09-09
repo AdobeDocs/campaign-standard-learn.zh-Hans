@@ -8,8 +8,8 @@ role: User, Admin, Developer
 level: Beginner
 source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 64%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     </a>
     </div>
     <p>
-    <em>了解如何发送验证以供审阅，其中包含用户档案收到的消息的确切呈现形式。</em>
+    <em>了解如何发送验证以供审阅，其中包含用户档案将收到的消息的确切呈现形式。</em>
     <p>
   </td>
    <td>
@@ -59,11 +59,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
-    <strong>教程：Android 推送通知入门™</strong>
+    <strong>教程：Android™ 推送通知入门</strong>
     </a>
     </div>
     <p>
-    <em>本教程将指导您完成从Adobe Campaign发送推送通知以及在Android™应用程序中接收这些通知所涉及的步骤。  </em>
+    <em>本教程将指导您完成从 Adobe Campaign 发送推送通知以及在 Android™ 应用程序中接收这些通知所涉及的步骤。 </em>
     <p>
   </td>
 </tr>
@@ -71,4 +71,4 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 其他资源
 
-* [文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+* [文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans)
