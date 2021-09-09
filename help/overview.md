@@ -6,10 +6,10 @@ exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
+source-git-commit: aeb30af96ea10240f3e51a7b30ae0dbcf74b5c5a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '258'
+ht-degree: 93%
 
 ---
 
@@ -21,7 +21,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 * **[故障诊断](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
 
-   *查找有关对Adobe Campaign Standard已知问题进行故障诊断的帮助。*
+*查找有关对Adobe Campaign Standard已知问题进行故障诊断的帮助。*
 
 ## 员工挑选
 
