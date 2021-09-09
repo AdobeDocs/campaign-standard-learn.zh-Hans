@@ -1,7 +1,7 @@
 ---
 title: 管理活动
 description: 了解如何创建和管理活动。
-feature: 活动
+feature: Campaigns
 kt: 1816
 thumbnail: 24672.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ exl-id: 61b64e5d-2751-47f9-a2b7-08835a28f763
 role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '74'
+workflow-type: ht
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
