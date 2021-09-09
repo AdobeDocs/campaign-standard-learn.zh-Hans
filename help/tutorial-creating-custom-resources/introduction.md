@@ -1,7 +1,7 @@
 ---
 title: 创建自定义资源 - 简介
-description: 本多部分教程将指导您完成创建和链接自定义资源所需的步骤。
-feature: '数据模型 '
+description: 此多部分教程将指导您完成创建和链接自定义资源所需的步骤。
+feature: Data Model
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '187'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 [!DNL Adobe Campaign] 随附预定义数据模型，其中数据通过不同资源进行定义。[!DNL Campaign] 允许用户扩展现有资源或创建新资源。
 
-本多部分教程将指导您完成创建和链接自定义资源所需的步骤。
+此多部分教程将指导您完成创建和链接自定义资源所需的步骤。
 了解如何：
 
 * 创建自定义资源
@@ -29,15 +29,15 @@ ht-degree: 0%
 
 ## 先决条件
 
-要能够创建自定义资源，您必须具有管理用户权限。
+为了能够创建自定义资源，您必须具有管理员用户权限。
 
 ## 教程概述
 
-要使用有关客户所订购内容的其他信息以便用于营销和再营销，[!DNL Campaign]数据模型必须通过添加自定义表进行扩展。 对于此用例，必须创建客户和订单表。
+要将客户所订购内容的其他信息用于营销和再营销，[!DNL Campaign]必须通过添加自定义表扩展数据模型。对于此用例，必须创建客户和订单表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
-本教程介绍如何：
+本教程将介绍如何：
 
 步骤 1 - [创建自定义资源](./creating-a-custom-resource.md)
 步骤 2 - [配置屏幕定义](./configuring-a-screen-definition-for-a-custom-resource.md)
