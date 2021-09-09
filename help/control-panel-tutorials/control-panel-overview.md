@@ -1,8 +1,8 @@
 ---
 title: 控制面板 - 概述
-description: Adobe Campaign 控制面板允许 Adobe Campaign 管理员监视关键资产并执行管理任务，例如按实例管理 SFTP 存储，管理 GPG 密钥或子域和证书。
+description: 通过 Adobe Campaign 控制面板，Adobe Campaign 管理员可监视关键资产并执行管理任务，例如按实例管理 SFTP 存储，管理 GPG 密钥或子域和证书。
 landing-page-description: 控制面板允许 Campaign 管理员执行管理任务，如管理 SFTP 存储、GPG 密钥或子域和证书。
-feature: 控制面板
+feature: Control Panel
 audience: administrator
 kt: 4696
 doc-type: feature video
@@ -10,9 +10,9 @@ activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '230'
+ht-degree: 100%
 
 ---
 
@@ -36,11 +36,11 @@ Adobe Campaign 控制面板允许 Adobe Campaign 管理员监视关键资产并�
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="将子域委派到Adobe Campaign（视频）" src="./assets/31390.jpg"/>
+      <img alt="将子域委派到 Adobe Campaign（视频）" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>将子域委派到Adobe Campaign（视频）</strong>
+    <strong>将子域委派到 Adobe Campaign（视频）</strong>
     </a>
     </div>
     <p>
