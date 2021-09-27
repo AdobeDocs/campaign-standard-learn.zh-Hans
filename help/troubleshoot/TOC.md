@@ -2,15 +2,14 @@
 user-guide-title: Adobe Campaign Standard 故障排除
 user-guide-description: 查找有关如何对 Adobe Campaign Standard 问题进行故障排除的帮助。
 breadcrumb-title: Adobe Campaign Standard 故障排除
-breadcrumb-url: /docs/campaign-standard-learn/troubleshoot-adobe-campaign/overview.html
 index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 9eecc356e0ef4595874894294a71f797f3d105ac
+source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 47%
 
 ---
 
