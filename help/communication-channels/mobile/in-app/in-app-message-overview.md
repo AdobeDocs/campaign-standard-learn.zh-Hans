@@ -1,7 +1,7 @@
 ---
 title: 应用程序内消息简介
 description: 了解如何向用户展示与上下文相关的应用程序内消息，以响应客户在移动应用程序中的实时行为。
-feature: 应用程序内
+feature: In App
 kt: 1911
 doc-type: feature video
 activity: use
@@ -11,47 +11,47 @@ role: User
 level: Beginner
 source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '728'
 ht-degree: 11%
 
 ---
 
-# [!UICONTROL In-App]消息简介 {#introduction}
+# 简介 [!UICONTROL In-App] 消息 {#introduction}
 
-[!UICONTROL In-App Messaging]渠道允许您在用户在移动应用程序中处于活动状态时显示消息。 此渠道要求将移动应用程序与[!UICONTROL Adobe Experience Platform SDK]集成。
+的 [!UICONTROL In-App Messaging] 渠道允许您在用户在移动应用程序中处于活动状态时显示消息。 此渠道要求将移动应用程序与集成 [!UICONTROL Adobe Experience Platform SDK].
 
-本教程介绍了设置移动属性、 [!UICONTROL In-App Messaging]渠道的[!UICONTROL Launch]扩展以及如何在Adobe Campaign Standard中准备、自定义和发送[!UICONTROL In-App]消息所需的步骤。 这些链接指向了每个突出显示主题的视频教程。
+本教程将介绍设置移动属性所需的步骤，即 [!UICONTROL Launch] 扩展 [!UICONTROL In-App Messaging] 渠道，以及如何准备、自定义和发送 [!UICONTROL In-App] 邮件Adobe Campaign Standard。 这些链接指向了每个突出显示主题的视频教程。
 
 ## 先决条件 {#prerequisites}
 
-1. 确保可以访问&#x200B;**[!UICONTROL In-App]**&#x200B;通道。 如果您无法访问这些渠道，请与帐户管理团队联系。
-1. 验证您的&#x200B;**用户**&#x200B;是否在Adobe Campaign Standard和[!UICONTROL Launch]中具有必要的&#x200B;**权限**。
+1. 确保可以访问 **[!UICONTROL In-App]** 渠道。 如果您无法访问这些渠道，请与帐户管理团队联系。
+1. 验证您的 **用户** 有必要 **权限** 在Adobe Campaign Standard和 [!UICONTROL Launch].
 
-   1. 在Adobe Campaign Standard中，确保IMS用户是[!UICONTROL Standard User]和[!UICONTROL Administrator]组的一部分。
+   1. 在Adobe Campaign Standard中，确保IMS用户是 [!UICONTROL Standard User] 和 [!UICONTROL Administrator] 群组。
 
-      此步骤允许用户登录Adobe Campaign Standard，导航到Experience PlatformSDK移动设备应用程序页面，并查看您在[!UICONTROL Launch]中创建的移动设备应用程序属性。
+      此步骤允许用户登录Adobe Campaign Standard，导航到Experience PlatformSDK移动设备应用程序页面，然后查看您在中创建的移动设备应用程序属性 [!UICONTROL Launch].
 
-   1. 在[!UICONTROL Launch]中，确保您的IMS用户是[!UICONTROL Launch]产品配置文件的一部分。 此步骤允许用户登录到[!UICONTROL Launch]以创建和查看属性。 在产品配置文件中，不应对公司或资产设置任何权限，但用户仍应能够登录。
+   1. 在 [!UICONTROL Launch]，请确保您的IMS用户是 [!UICONTROL Launch] 产品配置文件。 此步骤允许用户登录到 [!UICONTROL Launch] 创建和查看属性。 在产品配置文件中，不应对公司或资产设置任何权限，但用户仍应能够登录。
 
 1. 在Adobe Experience Platform Launch:
 
-   1. 通过创建移动资产创建移动应用程序，并使用Experience PlatformSDK来设计移动应用程序。
-   1. 为移动应用程序安装&#x200B;**Adobe Campaign Standard**&#x200B;扩展。
+   1. 通过创建移动资产创建移动应用程序，并使用Experience PlatformSDK设计移动应用程序。
+   1. 安装 **Adobe Campaign Standard** 扩展。
 
-有关扩展的更多信息，请参阅文档中的[在AdobeLaunch中配置Campaign Standard扩展](Https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) 。
+有关扩展的更多信息，请参阅 [在Launch中配置Campaign Standard扩展Adobe](Https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) 中。
 
-## 设置[!UICONTROL In-App]消息的步骤 {#steps-to-set-up}
+## 设置步骤 [!UICONTROL In-App] 消息 {#steps-to-set-up}
 
 1. [使用 Adobe Experience Platform SDK 配置移动应用程序](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
-1. [配置事件](/help/communication-channels/mobile/in-app/configure-events.md)。
+1. [配置事件](/help/communication-channels/mobile/in-app/configure-events.md).
 
-## 创建、管理和发布[!UICONTROL In-App]投放 {#create-manage-publish}
+## 创建、管理和发布 [!UICONTROL In-App] 投放 {#create-manage-publish}
 
-您可以通过单击主页中的&#x200B;**[!UICONTROL Create an In-App Message]**&#x200B;卡（从[!UICONTROL Marketing Activities]）创建一次应用程序内投放，也可以通过在工作流中](/help/communication-channels/mobile/in-app/in-app-activity.md)创建应用程序内投放。[
+您可以通过单击 **[!UICONTROL Create an In-App Message]** 卡，从主页 [!UICONTROL Marketing Activities]，或者您可以 [在工作流中创建应用程序内投放](/help/communication-channels/mobile/in-app/in-app-activity.md).
 
 在设置投放时，您可以通过从不同的投放模板进行选择来定位用户，这三个选项包括：
 
-1. [**广播应用程序内消**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) 息以定位移动应用程序的所有用户。
+1. [**广播应用程序内消息**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) 来定位移动应用程序的所有用户。
 
    利用此消息类型，可向移动应用程序的所有用户（当前或未来）发送消息，即使他们当前在Adobe Campaign中没有用户档案。 因此，在自定义消息时不可能进行个性化，因为用户配置文件不一定存在于Adobe Campaign中。
 
@@ -67,7 +67,7 @@ ht-degree: 11%
 
 ## 报告应用程序内投放 {#report}
 
-发布投放后，您可以[报告应用程序内投放](/help/communication-channels/mobile/in-app/in-app-reporting.md)。
+投放发布后，您可以 [应用程序内投放报告](/help/communication-channels/mobile/in-app/in-app-reporting.md).
 
 ## 其他资源
 

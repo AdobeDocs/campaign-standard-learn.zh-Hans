@@ -1,7 +1,7 @@
 ---
 title: 创建短信投放。
 description: 了解如何创建短信投放。
-feature: 短信
+feature: SMS
 kt: 1819
 thumbnail: 25265.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 20%
+source-wordcount: '87'
+ht-degree: 19%
 
 ---
 
-# 创建短信投放。{#creating-a-sms-delivery}
+# 创建短信投放{#creating-a-sms-delivery}
 
 了解如何在Adobe Campaign Standard中创建短信投放。 您还可以使用短信投放活动在工作流中配置短信发送。
 

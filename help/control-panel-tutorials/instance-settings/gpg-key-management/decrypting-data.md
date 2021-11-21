@@ -1,7 +1,7 @@
 ---
 title: 解密数据
 description: 了解如何创建公钥并将其导入和安装在Campaign实例上以解密数据。
-feature: 控制面板
+feature: Control Panel
 audience: administrator
 kt: 5545
 thumbnail: 35753.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
 source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 70%
+source-wordcount: '84'
+ht-degree: 75%
 
 ---
 

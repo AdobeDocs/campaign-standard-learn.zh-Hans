@@ -1,7 +1,7 @@
 ---
 title: Google TXT 记录管理
-description: 您可以将 Google TXT 网站验证记录添加到所有子域，这些子域用于通过 Campaign 控制面板向 Gmail 地址发送电子邮件。
-feature: 控制面板
+description: 您可将 Google TXT 网站验证记录添加到所有子域，这些子域用于通过 Campaign 控制面板向 GMAIL 地址发送电子邮件。
+feature: Control Panel
 audience: administrator
 kt: 4744
 doc-type: feature video
@@ -10,7 +10,7 @@ team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 92%
 
 ---

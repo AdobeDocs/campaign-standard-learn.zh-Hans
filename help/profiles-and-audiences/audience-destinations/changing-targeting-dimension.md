@@ -1,7 +1,7 @@
 ---
 title: 更改定位维度
 description: 此视频介绍如何在Adobe Campaign Standard的主用户档案表之外更改Platform Audience投放的定向维度。
-feature: People核心服务集成
+feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '162'
+ht-degree: 11%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >此功能属于测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
->如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
+>请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能，请执行以下操作：
 
-此视频介绍如何在Adobe Campaign Standard的主用户档案表外更改[!UICONTROL Platform Audience]投放的定向维度。
+以下视频介绍如何更改投放的定向维度 [!UICONTROL Platform Audience] 在Adobe Campaign Standard中的主配置文件表之外。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
@@ -39,5 +39,5 @@ ht-degree: 0%
 
 视频资源：
 
-* [使用统一区段生成器创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [使用统一区段构建器创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [在营销工作流中激活Adobe Experience Platform受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

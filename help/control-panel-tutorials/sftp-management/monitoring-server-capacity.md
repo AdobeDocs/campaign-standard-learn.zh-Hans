@@ -1,7 +1,7 @@
 ---
-title: 监视服务器容量
-description: 了解如何监控SFTP服务器的存储容量。
-feature: 控制面板
+title: 监测服务器容量
+description: 了解如何监测 SFTP 服务器的存储容量。
+feature: Control Panel
 audience: administrator
 kt: 6239
 thumbnail: 27270.jpg
@@ -9,17 +9,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 432a1af6-22de-41ff-b733-e086ee14ab7a
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 57%
+source-wordcount: '83'
+ht-degree: 100%
 
 ---
 
-# 监视服务器容量
+# 监测服务器容量
 
-该控制面板允许您按实例监控和管理SFTP存储。
+该控制面板使您可按实例监测和管理 SFTP 存储。
 
 ## 访问[!UICONTROL Control Panel]子域管理
 
@@ -32,6 +31,6 @@ ht-degree: 57%
 
 ## 监测服务器容量、 [!UICONTROL allow list]IP 地址和添加 SSH 密钥
 
-了解如何监控SFTP服务器的存储容量。
+了解如何监测 SFTP 服务器的存储容量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)

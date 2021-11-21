@@ -1,7 +1,7 @@
 ---
 title: 创建工作流
 description: 了解如何创建和编辑工作流。
-feature: 工作流
+feature: Workflows
 kt: 1809
 thumbnail: 23937.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 34%
 
 ---

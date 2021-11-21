@@ -1,7 +1,7 @@
 ---
 title: 检查数据摄取作业的状态
 description: 了解如何检查状态并修改数据映射。
-feature: People核心服务集成
+feature: People Core Service Integration
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 23%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 9%
 >
 >此功能属于测试版，如有频繁更新和修改，恕不另行通知。
 >
->如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
+>请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能，请执行以下操作：
 
 了解如何检查数据摄取作业的状态，以及数据是否已从Adobe Campaign Standard摄取到Adobe Experience Platform。
 

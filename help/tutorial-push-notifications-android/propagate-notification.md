@@ -1,30 +1,30 @@
 ---
 title: 步骤 5 - 传播通知
-description: 在本部分中，我们将使用Android Notification Manager.Firebase传播从Adobe Campaign接收的消息
-feature: 推送
+description: 在本部分中，我们将使用Android Notification Manager.Firebase传播从Adobe Campaign收到的消息
+feature: Push
 kt: 4829
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 2%
+source-wordcount: '154'
+ht-degree: 1%
 
 ---
 
 # 添加服务以发送通知
 
-在本部分中，我们将使用[!DNL Android Notification Manager]传播从Adobe Campaign接收的消息。 [!DNL Notification manager] 用于通知用户发生事件。这就是您如何告诉用户在后台发生了什么：
+在本部分中，我们将使用 [!DNL Android Notification Manager]. [!DNL Notification manager] 用于通知用户发生的事件。
+下面是您如何告知用户后台发生了某些情况：
 
-* 启动[!DNL Android Studio]
-* 打开&#x200B;*[!DNL ACSPushTutorial]*&#x200B;项目
+* Launch [!DNL Android Studio]
+* 打开 *[!DNL ACSPushTutorial]* 项目
 * 展开项目结构
-* 右键单击包文件夹([!DNL com.example.acspushtutorial])和[!DNL New ->Java Class]
-* 将此类命名为&#x200B;*[!DNL MyService]*，并确保它扩展[!DNL FirebaseMessagingService]
-* 在此类中创建&#x200B;*[!DNL sendNotification]*&#x200B;方法。 在此方法中，您需要使用[!DNL NotificationCompat.Builder]对象设置通知的内容和渠道。 要显示通知，请调用[!DNL NotificationManagerCompat.notify()]，为通知及[!DNL NotificationCompat.Builder.build()]的结果传递唯一的ID。
+* 右键单击包文件夹([!DNL com.example.acspushtutorial])和 [!DNL New ->Java Class]
+* 将此类命名为 *[!DNL MyService]* 确保它能够延长 [!DNL FirebaseMessagingService]
+* 创建 *[!DNL sendNotification]* 方法。 在此方法中，您需要使用 [!DNL NotificationCompat.Builder] 对象。 要显示通知，请调用 [!DNL NotificationManagerCompat.notify()]，为其传递通知和结果的唯一ID [!DNL NotificationCompat.Builder.build()].
 
 <!--
 Removed `{.line-numbers}` below
@@ -91,9 +91,9 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 }
 ```
 
-## 修改[!DNL AndroidManifest.xml]
+## 修改 [!DNL AndroidManifest.xml]
 
-将已创建的服务添加到您的[!DNL AndroidManifest.xml]。 最终[!DNL AndroidManifest.xml]应如下所示：
+将创建的服务添加到 [!DNL AndroidManifest.xml]. 最后 [!DNL AndroidManifest.xml] 应如下所示：
 
 <!--
 Removed `{.line-numbers}` below
@@ -137,4 +137,4 @@ Removed `{.line-numbers}` below
 
 ## 运行应用程序
 
-通过单击工具栏上的&#x200B;**绿色箭头**&#x200B;或从[!DNL Run]菜单运行应用程序。
+通过单击 **绿色箭头** 或 [!DNL Run] 菜单。

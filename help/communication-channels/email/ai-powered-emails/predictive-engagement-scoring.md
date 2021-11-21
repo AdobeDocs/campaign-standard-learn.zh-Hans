@@ -1,7 +1,7 @@
 ---
 title: 预测参与度评分
 description: 了解如何在个人用户档案级别查看参与度得分，使用得分确定目标参与用户并禁止疲劳用户，以及如何创建类型学规则来管理客户疲劳。
-feature: 预测参与度评分
+feature: Predictive Engagement Scoring
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Experienced
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 65%
+source-wordcount: '213'
+ht-degree: 66%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 65%
 >[!CAUTION]
 >此功能并非作为产品的一部分现成可用。实施需要咨询 Adobe。要了解更多信息，请联系您的Adobe代表。
 
-[!UICONTROL Predictive engagement scoring] 预测收件人与消息互动的概率，以及在下次发送电子邮件后七天内选择退出（取消订阅）的概率。根据具体风险（脱离接触、中度或低度），这些概率进一步划分到相应的存储区中。该模型还为客户提供了风险百分等级，以便了解某个客户相对于其他客户的等级。
+[!UICONTROL Predictive engagement scoring] 预测收件人与消息互动的概率，以及在下次发送电子邮件后七天内选择退出（取消订阅）的概率。 根据具体风险（脱离接触、中度或低度），这些概率进一步划分到相应的存储区中。该模型还为客户提供了风险百分等级，以便了解某个客户相对于其他客户的等级。
 
 了解如何在个人用户档案级别查看参与度得分，使用得分确定目标参与用户并禁止疲劳用户，以及如何创建类型学规则来管理客户疲劳。
 

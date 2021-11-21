@@ -1,7 +1,7 @@
 ---
 title: 监测数据库
 description: 了解如何监测实例的数据库使用情况。
-feature: 控制面板
+feature: Control Panel
 kt: 6433
 thumbnail: 327175.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ activity: use
 team: TM
 exl-id: a0e56349-4296-4309-8698-bf3c48eb6c58
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
-source-wordcount: '88'
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---

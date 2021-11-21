@@ -1,7 +1,7 @@
 ---
 title: 测试和发布登陆页面
 description: 了解如何测试在Adobe Campaign Standard中构建的登陆页面以及如何发布该页面。
-feature: 登陆页面
+feature: Landing Pages
 kt: 1813
 thumbnail: 24992.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 30%
+source-wordcount: '44'
+ht-degree: 27%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 映射种子表数据
 description: 了解如何映射种子数据以及如何使用Adobe Experience Platform(AEP)测试用户档案
-feature: People核心服务集成
+feature: People Core Service Integration
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 14%
+source-wordcount: '90'
+ht-degree: 15%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 14%
 >
 >此功能目前处于测试阶段，可能会频繁更新和修改，恕不另行通知。
 >
->如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
+>请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能，请执行以下操作：
 
 了解如何使用Adobe Experience Platform映射种子数据和测试用户档案。
 

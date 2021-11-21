@@ -1,7 +1,7 @@
 ---
 title: 广播应用程序内消息
 description: 了解如何配置和使用广播模板来定位移动应用程序的所有用户。
-feature: 应用程序内
+feature: In App
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 7f70c5a02654b03f248e2ec71563473f98688b70
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 7%
 
 ---

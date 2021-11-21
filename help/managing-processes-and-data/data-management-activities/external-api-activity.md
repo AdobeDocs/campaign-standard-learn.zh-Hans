@@ -1,7 +1,7 @@
 ---
 title: 使用外部 API 活动配置和运行工作流
 description: 了解如何调用外部REST API端点，以将个性化数据从第三方系统提取到营销活动中。
-feature: 数据管理活动
+feature: Data Management Activity
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '174'
+ht-degree: 47%
 
 ---
 

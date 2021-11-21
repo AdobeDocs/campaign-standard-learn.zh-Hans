@@ -1,7 +1,7 @@
 ---
 title: Email Designer 概述
 description: 了解Email Designer的一般功能以及如何从头开始设计电子邮件。
-feature: 电子邮件设计
+feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 85%
+source-wordcount: '123'
+ht-degree: 86%
 
 ---
 

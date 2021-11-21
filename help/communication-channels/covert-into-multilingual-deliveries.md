@@ -1,7 +1,7 @@
 ---
 title: 将现有电子邮件、短信投放或投放模板转换为多语言
 description: 了解如何将现有电子邮件、短信投放或投放模板转换为多语言。
-feature: 电子邮件、短信
+feature: Email, SMS
 kt: 1703
 thumbnail: 23251.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 32%
 
 ---
 

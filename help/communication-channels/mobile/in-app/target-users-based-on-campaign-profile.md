@@ -1,7 +1,7 @@
 ---
 title: 基于其 Campaign 用户档案的目标用户
 description: 了解如何使用使用CRM配置文件属性个性化的消息来定位已知的移动设备应用程序用户。
-feature: 应用程序内
+feature: In App
 kt: 1796
 thumbnail: 26200.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '132'
 ht-degree: 6%
 
 ---
 
-# 根据[!DNL Campaign]配置文件定位用户
+# 根据用户的 [!DNL Campaign] 个人资料
 
 您可以使用Adobe Campaign Standard中提供的CRM配置文件属性，定位已通过PII（已知的移动设备应用程序用户）登录应用程序并显示个性化消息的用户。 此模板支持跨渠道编排用例，其中您已经根据客户的响应定向其他渠道（如电子邮件或推送）的客户，并且您希望通过应用程序内消息再次吸引这些客户。
 

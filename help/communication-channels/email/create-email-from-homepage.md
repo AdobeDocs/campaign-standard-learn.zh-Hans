@@ -1,7 +1,7 @@
 ---
 title: 创建电子邮件投放
 description: '了解如何从主页创建电子邮件投放。 '
-feature: '电子邮件 '
+feature: Email
 kt: 1807
 thumbnail: 23721.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 44%
 
 ---
 
 # 创建电子邮件投放 {#create-an-email-delivery}
 
-您可以从营销策划、Adobe Campaign主页或[!UICONTROL Marketing Activity]列表中创建独立的电子邮件投放。 您还可以通过工作流创建和发送单次发送和定期电子邮件。
+您可以从营销策划、Adobe Campaign主页或 [!UICONTROL Marketing Activity] 列表。 您还可以通过工作流创建和发送单次发送和定期电子邮件。
 
 了解如何从主页创建电子邮件投放。
 

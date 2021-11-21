@@ -1,7 +1,7 @@
 ---
 title: 使用 Adobe Experience Platform SDK 配置移动应用程序
 description: 了解如何在Adobe Experience Platform Launch中设置移动设备应用程序，以及如何在Adobe Campaign中对其进行配置。
-feature: 应用程序内、推送、渠道配置、Mobile SDK集成
+feature: In App, Push, Channel Configuration, Mobile SDK Integration
 kt: 2501
 thumbnail: 26224.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: Admin
 level: Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 11%
 
 ---
 
-# 使用[!UICONTROL Adobe Experience Platform SDK]配置移动应用程序 {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
+# 使用配置移动应用程序 [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
 
-要使用Mobile SDK V5发送应用程序内消息或[!UICONTROL push notifications]，必须在[!UICONTROL Adobe Experience Platform Launch]中设置并在Adobe Campaign中配置移动应用程序。
+发送应用程序内消息或 [!UICONTROL push notifications] 使用Mobile SDK V5，必须在 [!UICONTROL Adobe Experience Platform Launch] 和在Adobe Campaign中配置。
 
 以下视频演示了在Experience Platform Launch中配置移动设备应用程序所需的步骤：
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->有关视频中使用的详细文档和代码模板，请参阅[在[!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)中配置应用程序。
+>请参阅 [在 [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) 以了解视频中使用的详细文档和代码模板。
 
 ## 其他资源
 

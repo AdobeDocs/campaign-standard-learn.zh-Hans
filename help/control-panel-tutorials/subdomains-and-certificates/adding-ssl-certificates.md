@@ -1,7 +1,7 @@
 ---
 title: 添加 SSL 证书
 description: 了解如何添加SSL证书以保护子域。
-feature: 控制面板
+feature: Control Panel
 audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 36%
+source-wordcount: '189'
+ht-degree: 35%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 36%
 
 了解如何添加SSL证书以保护子域。
 
-## 访问[!UICONTROL Control Panel]子域管理
+## 访问 [!UICONTROL Control Panel] 子域管理
 
 要在 [!UICONTROL Control Panel]中访问子域管理，请转到：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) >  [!UICONTROL Solution picker]: [!DNL Campaign] >卡 **[!UICONTROL Control Panel]** 片>子 [!UICONTROL **域和证书**] 标准
+* [Experience Cloud主页](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** 卡片> [!UICONTROL **子域和证书**] 卡片
 
    或者
 * 直接从 URL 访问：[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -33,11 +33,11 @@ ht-degree: 36%
 
 添加 SSL 证书需要三个步骤：
 
-### 步骤1:生成[!UICONTROL Certificate Signing Requests]
+### 步骤1:生成 [!UICONTROL Certificate Signing Requests]
 
-购买SSL证书需要[!UICONTROL Certificate Signing Request](CSR)。 必须为您计划保护的实例和子域生成该子域。
+A [!UICONTROL Certificate Signing Request] (CSR)是购买SSL证书所必需的。 必须为您计划保护的实例和子域生成该子域。
 
-以下视频介绍如何在[!UICONTROL Control Panel]中生成[!UICONTROL Certificate Signing Request]。
+以下视频介绍如何生成 [!UICONTROL Certificate Signing Request] in [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 

@@ -1,7 +1,7 @@
 ---
 title: 在工作流中启动 Adobe Experience Platform 受众
 description: 此视频介绍如何使用“读取受众”活动在工作流中激活数据服务查询受众。
-feature: People核心服务集成
+feature: People Core Service Integration
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
@@ -12,20 +12,20 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '144'
+ht-degree: 12%
 
 ---
 
-# 在营销工作流的工作流[!UICONTROL Adobe Experience Platform Audiences]中激活Adobe Experience Platform受众
+# 在工作流中激活Adobe Experience Platform受众 [!UICONTROL Adobe Experience Platform Audiences] 在营销工作流中
 
 >[!NOTE]
 >
 >此功能属于测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
->如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
+>请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能，请执行以下操作：
 
-此视频介绍如何使用[!UICONTROL Read Audience]活动在工作流中激活[!UICONTROL Data Services Query Audience]。
+此视频介绍如何激活 [!UICONTROL Data Services Query Audience] 使用 [!UICONTROL Read Audience] 活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
