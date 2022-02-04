@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 15%
+source-wordcount: '99'
+ht-degree: 8%
 
 ---
 
@@ -27,7 +27,4 @@ ht-degree: 15%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 
-## 其他资源
-
-* [映射定义](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [映射激活](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+有关 [映射定义](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) 和 [映射激活](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

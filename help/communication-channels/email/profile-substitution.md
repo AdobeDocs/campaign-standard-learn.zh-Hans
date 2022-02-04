@@ -1,7 +1,7 @@
 ---
 title: 用户档案替换 — 使用目标用户档案测试电子邮件
 description: 了解如何使用用户档案替换功能测试电子邮件。
-feature: Email
+feature: Personalization, Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 76%
+source-wordcount: '167'
+ht-degree: 67%
 
 ---
 
@@ -31,8 +31,4 @@ ht-degree: 76%
 >
 >此功能允许您向外部电子邮件地址发送用户档案个人信息。请记住，在 Campaign Standard 中执行隐私请求（GDPR 和 CCPA）不会在外部执行该请求。
 
-## 其他资源
-
-* [使用目标用户档案测试电子邮件（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
-* [设计 A/B 测试电子邮件](/help/communication-channels/email/a-b-testing.md)
-* [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+请参阅产品文档，了解有关 [使用目标用户档案测试消息](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
