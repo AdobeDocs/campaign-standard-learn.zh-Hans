@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c270d2c6ef7ad695226d79da51cfd2f18dcefaff
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 
@@ -31,13 +31,4 @@ ht-degree: 12%
 
 *在工作流中激活Adobe Experience Platform受众（02:37分钟）*
 
-## 其他资源
-
-文档：
-
-* [将 Adobe Experience Platform 受众引入 Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
-
-视频资源：
-
-* [使用统一区段生成器在Adobe Campaign Standard中创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [更改Platform Audience投放的定向维度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+请参阅有关如何 [将Adobe Experience Platform受众摄取到Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
