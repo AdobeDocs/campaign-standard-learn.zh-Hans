@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 275b7f05b50891757a7921c16dfcd9c8a1c3a036
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 66%
+source-wordcount: '188'
+ht-degree: 67%
 
 ---
 
@@ -29,13 +29,3 @@ ht-degree: 66%
 了解如何在个人用户档案级别查看参与度得分，使用得分确定目标参与用户并禁止疲劳用户，以及如何创建类型学规则来管理客户疲劳。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
-
-## 其他资源
-
-教程:
-
-* [预测发送时间优化](predictive-send-time-optimization.md)
-
-文档：
-
-* [利用 AI 提供技术支持的电子邮件优化设计和传递](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
