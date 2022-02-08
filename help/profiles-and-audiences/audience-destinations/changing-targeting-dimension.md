@@ -10,10 +10,10 @@ team: TM
 exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 7a1a8449fa5226cb8b9435e98e1e2719b44b18ff
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 11%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,16 +28,3 @@ ht-degree: 11%
 以下视频介绍如何更改投放的定向维度 [!UICONTROL Platform Audience] 在Adobe Campaign Standard中的主配置文件表之外。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
-
-## 其他资源
-
-文档：
-
-* [受众目标（测试版）（文档）](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html?lang=en)
-* [如何创建目标映射](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html?lang=en)
-* [如何创建投放模板](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en)
-
-视频资源：
-
-* [使用统一区段构建器创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [在营销工作流中激活Adobe Experience Platform受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
