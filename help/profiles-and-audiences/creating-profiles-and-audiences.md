@@ -10,10 +10,10 @@ team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 9333e405cd7db178cebf0281f7a34fbb2a183081
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 33%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,9 +29,3 @@ Adobe Campaign有两种类型或配置文件：
 此视频介绍如何导航到现有用户档案，以及如何在Adobe Campaign Standard中创建用户档案和受众。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
-
-## 其他资源
-
-* [创建用户档案](/help/profiles-and-audiences/creating-a-profile.md)
-* [创建测试用户档案](/help/profiles-and-audiences/test-profiles.md)
-* [使用工作流导入用户档案](/help/managing-processes-and-data/importing-profiles.md)
