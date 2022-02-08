@@ -10,10 +10,10 @@ team: DOC
 exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
 role: User
 level: Beginner
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 99f144fa2c6d892a6b1fde4e434fe75145367313
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 44%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,3 @@ ht-degree: 44%
 了解如何从主页创建电子邮件投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)
-
-## 其他资源
-
-* [通过工作流创建和发送电子邮件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-* [创建电子邮件（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-an-email.html?lang=en)
