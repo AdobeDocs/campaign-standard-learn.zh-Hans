@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,14 +35,9 @@ Adobe Campaign Standard允许您使用来自Adobe Experience Cloud的数据构�
 
 *如何使用统一区段生成器在Adobe Campaign Standard中创建受众（最低02:47）*
 
-## 其他资源
-
-文档：
+有关更多信息，请参阅产品文档：
 
 * [实时客户资料概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 * [区段生成器用户指南](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 
-视频资源：
 
-* [在工作流中启动 Experience Platform 受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [更改Platform受众投放的定向维度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
