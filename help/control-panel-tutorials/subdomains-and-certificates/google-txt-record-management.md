@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 92%
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,3 @@ ht-degree: 92%
 以下视频介绍如何向所有子域添加 [!DNL Google] TXT 站点验证记录，这些子域用来通过 [!UICONTROL Campaign Control Panel] 向 GMAIL 地址发送电子邮件 。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
-
-## 其他资源
-
-* [文档](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html?lang=en)

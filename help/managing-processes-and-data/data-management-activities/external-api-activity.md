@@ -10,10 +10,10 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 47%
+source-wordcount: '159'
+ht-degree: 49%
 
 ---
 
@@ -37,7 +37,3 @@ ht-degree: 47%
 >[!NOTE]
 >
 >活动用于获取营销活动范围的数据，而不是用于检索每个用户档案的特定信息，因为这样可能会导致传输大量数据。 如果用例需要特定于用户档案的信息，建议使用传输文件活动。
-
-## 其他资源
-
-* [外部 API（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)

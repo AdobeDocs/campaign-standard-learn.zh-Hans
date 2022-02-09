@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 75%
+source-wordcount: '67'
+ht-degree: 68%
 
 ---
 
@@ -22,8 +22,3 @@ ht-degree: 75%
 了解如何创建公钥并将其导入和安装在 Campaign 实例上以进行入站数据解密。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
-
-## 其他资源
-
-* [GPG 密钥管理（视频）](./gpg-key-management-overview.md)
-* [GPG 密钥管理（文档）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=zh-Hans)

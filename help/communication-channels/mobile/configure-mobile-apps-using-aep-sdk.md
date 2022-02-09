@@ -10,10 +10,10 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: fa79214cceb411a8a53c650ac06c64cf3c7cdfd3
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 11%
+source-wordcount: '102'
+ht-degree: 8%
 
 ---
 
@@ -29,8 +29,3 @@ ht-degree: 11%
 >[!NOTE]
 >
 >请参阅 [在 [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) 以了解视频中使用的详细文档和代码模板。
-
-## 其他资源
-
-* [设置移动资产(AdobeLaunch文档)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [使用Adobe Experience Platform SDK配置移动应用程序（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)

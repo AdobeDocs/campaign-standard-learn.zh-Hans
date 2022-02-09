@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 77%
+source-wordcount: '165'
+ht-degree: 67%
 
 ---
 
@@ -35,8 +35,4 @@ Adobe Campaign Standard 与 Adobe Dreamweaver 集成允许您直接在 Dreamweav
 
 *如何在 Adobe Campaign 中使用 Dreamweaver 集成（02:37 分钟）*
 
-## 其他资源
-
-* [Adobe Campaign Dreamweaver 安装故障排除](https://helpx.adobe.com/cn/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Adobe Dreamweaver 文档](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
-* [安装 Adobe 应用程序的插件和扩展](https://helpx.adobe.com/cn/creative-cloud/kb/installingextensionsandaddons.html)
+请参阅Dreamweaver [Adobe Dreamweaver文档](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 有关 [Adobe Campaign Dreamweaver安装故障诊断](https://helpx.adobe.com/cn/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

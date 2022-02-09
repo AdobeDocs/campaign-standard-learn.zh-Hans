@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 850dbab3-10b4-4a8f-b6a8-6126bc48eee5
-source-git-commit: d395f84d772122361e1988430b4aba8b0d54270e
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 87%
 
 ---
 
@@ -23,7 +23,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
-## 其他资源
-
-* [Campaign 的一般隐私准则](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=zh-Hans)
-* [CCPA for ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=zh-Hans#privacy-requests)
+有关 [Campaign的一般隐私准则](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=zh-Hans).

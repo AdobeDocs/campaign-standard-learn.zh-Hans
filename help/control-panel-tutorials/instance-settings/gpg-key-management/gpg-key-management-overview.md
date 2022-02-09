@@ -4,11 +4,12 @@ description: 了解如何在指定的 Campaign 实例上生成并安装公钥/�
 feature: Control Panel
 audience: administrator
 team: TM
+recommendations: noDisplay
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 70%
+source-wordcount: '164'
+ht-degree: 64%
 
 ---
 
@@ -22,6 +23,4 @@ GPG (GnuPG) 使用非对称的单个密钥对加密消息。要利用 Campaign �
 * [使用 GPG 密钥加密数据](./using-a-gpg-key-to-encrypt-data.md)
 * [解密数据](./decrypting-data.md)
 
-## 其他资源
-
-* [GPG 密钥管理（文档）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)
+有关 [GPG密钥管理（文档）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)

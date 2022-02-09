@@ -1,6 +1,6 @@
 ---
-title: 在为隐私请求设置 Adobe Campaign Standard (ACS) 时修改自定义资源
-description: 在设置 Adobe Campaign Standard (ACS) 以处理隐私请求时，您必须确保在删除用户档案时删除链接到该用户档案的任何自定义数据。此视频说明如何修改自定义资源以满足此要求。
+title: 在为隐私请求设置Adobe Campaign Standard时修改自定义资源
+description: 在设置 Adobe Campaign Standard 以处理隐私请求时，您必须确保在删除用户档案时删除链接到该用户档案的任何自定义数据。此视频说明如何修改自定义资源以满足此要求。
 feature: Privacy Tools
 kt: 1243
 thumbnail: 23326.jpg
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -29,6 +29,4 @@ ht-degree: 100%
 >
 > 要检查您的版本，请单击界面右上角的 **?** 图标，然后选择“关于”。
 
-## 其他资源
-
-* [Campaign 的一般隐私准则](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=zh-Hans)
+另请参阅 [Campaign的一般隐私准则](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=zh-Hans)
