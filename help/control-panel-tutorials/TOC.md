@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign 控制面板教程
 user-guide-description: 了解如何在控制面板中监测您的 Adobe Campaign 实例的关键资源和执行管理任务。
 breadcrumb-title: 控制面板教程
 index: true
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # Adobe Campaign 控制面板教程 {#control-panel}
 
-+ [控制面板概述](/help/control-panel-tutorials/control-panel-overview.md)
++ [控制面板](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板入门](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理 {#sftp-management}
    + [监测服务器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
