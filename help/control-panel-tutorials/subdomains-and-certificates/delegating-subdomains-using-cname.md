@@ -8,18 +8,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 26dd621e1f89ed31a8656783f46b2bc388464ed1
+workflow-type: tm+mt
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
 
-# 使用 CNAME（测试版）委派子域
-
->[!IMPORTANT]
->
-> 使用 CNAME 进行子域委派还处于测试阶段，可能会频繁更新和修改，恕不另行通知。
+# 使用 CNAME 委派子域
 
 要使用 Adobe Campaign 开始发送电子邮件或发布登陆页面，您必须设置一个新子域。
 
