@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '258'
-ht-degree: 100%
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
+workflow-type: tm+mt
+source-wordcount: '305'
+ht-degree: 84%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 
 ## 新增内容
+
+* **[最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *了解如何最大限度地提高电子邮件投资回报，并了解实现订阅者重新参与的最佳实践。 了解提高订阅者参与度的策略，并了解电子邮件促销活动的整体成功情况。*
 
 * **[故障排除](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=zh-Hans)**
 
@@ -59,7 +63,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
       <img alt="教程：Android 推送通知入门" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hans">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>教程：Android™ 推送通知入门</strong>
     </a>
     </div>
