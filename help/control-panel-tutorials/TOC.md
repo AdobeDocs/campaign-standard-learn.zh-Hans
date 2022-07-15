@@ -4,7 +4,7 @@ user-guide-description: 了解如何在控制面板中监测您的 Adobe Campaig
 breadcrumb-title: 控制面板教程
 index: true
 source-git-commit: f5d3396f46839a37fdc7199347344382a02d3ff1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
