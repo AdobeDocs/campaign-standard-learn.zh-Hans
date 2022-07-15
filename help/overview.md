@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
-workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 78%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -20,13 +20,13 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增内容
 
-* **[控制面板 — 监控工作流](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[控制面板 - 监测工作流](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=zh-Hans){target=&quot;_blank&quot;}**
 
-   *了解如何监控工作流的临时存储使用情况以及在何处配置工作流设置以避免实例上出现数据库或工作流问题。*
+   *了解如何监测工作流的临时存储使用情况，以及在何处配置工作流设置以避免实例上出现数据库或工作流问题。*
 
-* **[控制面板 — 监控吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[控制面板 - 监测吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hans){target=&quot;_blank&quot;}**
 
-   *了解如何监控Campaign实例的投放吞吐量和事务型消息延迟。*
+   *了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。*
 
 ## 员工挑选
 
@@ -63,7 +63,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
       <img alt="教程：Android 推送通知入门" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hans">
     <strong>教程：Android™ 推送通知入门</strong>
     </a>
     </div>
