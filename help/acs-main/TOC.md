@@ -4,8 +4,8 @@ user-guide-description: 设计跨渠道客户体验并创建可视活动编排�
 breadcrumb-title: Campaign Standard 教程
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
