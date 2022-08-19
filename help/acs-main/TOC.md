@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard 教程
 user-guide-description: 设计跨渠道客户体验并创建可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: Campaign Standard 教程
-source-git-commit: f06fd60880e5a32326287fa1782404d3909cf3a5
+source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '567'
 ht-degree: 100%
 
 ---
@@ -104,7 +104,6 @@ ht-degree: 100%
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hans){target=&quot;_blank&quot;}
-   + [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hans)
    + Adobe Experience Platform 数据连接器 {#adobe-experience-platform-data-connector}
       + [了解 Adobe Experience Platform 数据连接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [映射自定义资源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: f06fd60880e5a32326287fa1782404d3909cf3a5
+source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 100%
 
 ---
 
@@ -19,10 +19,6 @@ ht-degree: 0%
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 
 ## 新增内容
-
-* **[SMPP协议深入研究和疑难解答](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
-
-   *了解如何建立SMPP连接，以及SMPP如何通过PDU交换数据。 了解如何对连接进行故障诊断。*
 
 * **[控制面板 - 监测工作流](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=zh-Hans){target=&quot;_blank&quot;}**
 
