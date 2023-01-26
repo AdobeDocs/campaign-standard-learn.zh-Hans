@@ -5,9 +5,9 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11772
-source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
+source-git-commit: 8fa4a3e70ab815af801aaf96596fcc466b879086
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -71,6 +71,4 @@ Below Christian分享了他的最佳实践，帮助Adobe Campaign从业人员解
 
 ## 10.尽量保持敏捷
 
-市场继续变化，并以不断加快的速度前进。 鼓励您的营销活动团队尽可能保持轻松灵活，对于竞争并继续满足不断增长的客户期望至关重要。 [35%的数字营销领导者认为，最大的挑战来自其组织内部](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges).
-
-在三个平台上进行交叉培训，并增进您对数据流和结构或其他Adobe解决方案的了解，有助于您完成这项工作，或制定营销活动应急计划。 请主题专家使用主要工具。 然后，使用二级和三级工具查看跨渠道。 这样，您的营销运营模型就具有了灵活性。 利用三种以上工具，可大幅降低您的专业知识和产出。 这种思维模式可以通过多种方式实现，但对敏捷性和规划的总体承诺对于实现短期和长期成功至关重要。
+市场继续变化，并以不断加快的速度前进。 鼓励您的营销活动团队尽可能保持轻松灵活，对于竞争并继续满足不断增长的客户期望至关重要。 [35%的数字营销领导者认为，最大的挑战来自其组织内部](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). 要实现此目的，请在几个平台上进行交叉培训，提高您对数据流和结构或其他Adobe解决方案的了解，并为营销活动制定应急计划。 这种思维模式可以以多种方式实现，但对敏捷性和规划的总体承诺对于实现短期和长期成功至关重要。
