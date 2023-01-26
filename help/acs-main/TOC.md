@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard 教程
 user-guide-description: 设计跨渠道客户体验并创建可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: Campaign Standard 教程
-source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
+source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 100%
+source-wordcount: '566'
+ht-degree: 98%
 
 ---
 
@@ -99,11 +99,11 @@ ht-degree: 100%
       + [在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中创建触发器事件](/help/integrations/create-a-trigger-event.md)
       + [使用实时事件数据配置事务性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [配置 Microsoft® Dynamics 365 以便与 Campaign Standard 集成](/help/integrations/configure-dynamics-365.md)
+   + [配置Microsoft](/help/integrations/configure-dynamics-365.md)
 + 管理{#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
-   + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hans){target=&quot;_blank&quot;}
+   + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hans){target="_blank"}
    + Adobe Experience Platform 数据连接器 {#adobe-experience-platform-data-connector}
       + [了解 Adobe Experience Platform 数据连接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [映射自定义资源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -122,5 +122,6 @@ ht-degree: 100%
    + [执行隐私请求](/help/privacy/execute-privacy-requests.md)
 + [Campaign Standard 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
 + 战略与思想领导{#strategy}
+   + [Adobe Campaign成功营销人员的10个最佳实践](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hans)
    + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
