@@ -5,7 +5,7 @@ breadcrumb-title: Campaign Standard 教程
 source-git-commit: 1330f710368996dfa5562673360c12f2414a4ac7
 workflow-type: tm+mt
 source-wordcount: '567'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -122,6 +122,6 @@ ht-degree: 98%
    + [执行隐私请求](/help/privacy/execute-privacy-requests.md)
 + [Campaign Standard 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
 + 战略与思想领导{#strategy}
-   + [Adobe Campaign成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
+   + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
    + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hans)
    + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
