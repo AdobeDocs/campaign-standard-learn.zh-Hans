@@ -7,26 +7,30 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 84%
 
 ---
 
 # Adobe Campaign Standard - 概述
 
-Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
+Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 
 ## 新增内容
 
-* **[控制面板 - 监测工作流](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hans){target=&quot;_blank&quot;}**
+* **[计划消息](/help/communication-channels/email/schedule-messages.md)**
 
-   *了解如何监测工作流的临时存储使用情况，以及在何处配置工作流设置以避免实例上出现数据库或工作流问题。*
+   *了解如何计划电子邮件发送。*
 
-* **[控制面板 - 监测吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hans){target=&quot;_blank&quot;}**
+* **[发送验证](/help/communication-channels/email/send-a-proof.md)**
 
-   *了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。*
+   *了解如何在将电子邮件发送给最终收件人之前对其进行测试。*
+
+* **[营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *了解十个最佳实践，以帮助Adobe Campaign从业人员解锁并加速数字消费者转型并为其客户带来更好的体验。*
 
 ## 员工挑选
 
