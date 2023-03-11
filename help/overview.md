@@ -7,16 +7,18 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+source-git-commit: 9ff98f4144284db542d6bb561bc9c21b052e02ed
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 84%
+source-wordcount: '286'
+ht-degree: 83%
 
 ---
 
 # Adobe Campaign Standard - 概述
 
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
+
+<div id="whats-new-section">
 
 ## 新增内容
 
@@ -31,6 +33,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 * **[营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)**
 
    *了解十个最佳实践，以帮助Adobe Campaign从业人员解锁并加速数字消费者转型并为其客户带来更好的体验。*
+
+</div>
+
+
+<div id="events-section">
 
 ## 员工挑选
 
@@ -78,6 +85,4 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 </tr>
 </table>
 
-## 其他资源
-
-* [文档](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=zh-Hans)
+</div>
