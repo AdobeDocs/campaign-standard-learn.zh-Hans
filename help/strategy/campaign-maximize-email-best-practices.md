@@ -2,7 +2,7 @@
 title: 最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践
 description: 了解如何最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践。了解提高订阅者参与度的策略，并了解电子邮件营销活动的整体成功情况。
 solution: Campaign
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
+source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
@@ -104,7 +104,7 @@ ht-degree: 3%
 
 以下是在审核期间为您提供帮助的简单表格：
 
-![订阅者状态](assets/subscriber-status.png)
+![订阅者状态](/help/assets/subscriber-status.png)
 
 例如，如果您每天向客户发送电子邮件，则他们应该在过去一个月内与其中一封电子邮件进行了交互，以被视为活跃并参与。 反之，如果您每月向客户发送电子邮件，而他们在9-14个月内未进行交互，则可能会被视为不活动。
 
