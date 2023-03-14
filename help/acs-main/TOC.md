@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard 教程
 user-guide-description: 设计跨渠道客户体验并创建可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: Campaign Standard 教程
-source-git-commit: b2bd6a29c54c505359eb3bc908ccf950db07da3a
+source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '563'
 ht-degree: 99%
 
 ---
@@ -125,5 +125,5 @@ ht-degree: 99%
 + [Campaign Standard 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
 + 战略与思想领导{#strategy}
    + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
-   + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hans)
+   + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](/help/strategy/campaign-maximize-email-best-practices.md)
    + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
