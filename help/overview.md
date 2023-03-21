@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -22,17 +22,17 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增内容
 
-* **[计划消息](/help/communication-channels/email/schedule-messages.md)**
+* **[计划消息发送](/help/communication-channels/email/schedule-messages.md)**
 
-   *了解如何计划电子邮件发送。*
+   *了解如何计划电子邮件投放。*
 
 * **[发送验证](/help/communication-channels/email/send-a-proof.md)**
 
-   *了解如何在将电子邮件发送给最终收件人之前对其进行测试。*
+   *了解如何在将电子邮件消息发送给最终收件人之前对其进行测试。*
 
 * **[营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *了解十个最佳实践，以帮助Adobe Campaign从业人员解锁并加速数字消费者转型并为其客户带来更好的体验。*
+   *了解十大最佳实践，它们有助于使用 Adobe Campaign 的从业人员解锁并加快数字消费者转型，为其客户提供更好的体验。*
 
 </div>
 
