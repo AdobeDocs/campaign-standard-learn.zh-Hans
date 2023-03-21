@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard 教程
 user-guide-description: 设计跨渠道客户体验并创建可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: Campaign Standard 教程
 source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '563'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 99%
    + 电子邮件 {#email}
       + [创建电子邮件](/help/communication-channels/email/create-email-from-homepage.md)
       + [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [计划消息](/help/communication-channels/email/schedule-messages.md)
+      + [计划消息发送](/help/communication-channels/email/schedule-messages.md)
       + [发送验证](/help/communication-channels/email/send-a-proof.md)
       + [A/B 测试](/help/communication-channels/email/a-b-testing.md)
       + [使用目标用户档案测试电子邮件消息](/help/communication-channels/email/profile-substitution.md)
@@ -101,7 +101,7 @@ ht-degree: 99%
       + [在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中创建触发器事件](/help/integrations/create-a-trigger-event.md)
       + [使用实时事件数据配置事务性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [配置Microsoft](/help/integrations/configure-dynamics-365.md)
+   + [配置 Microsoft](/help/integrations/configure-dynamics-365.md)
 + 管理{#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
