@@ -10,7 +10,7 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 4%
@@ -29,12 +29,12 @@ ht-degree: 4%
 
 ## 第1步 — 创建事件并发布该事件
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12&learn=on)
 
 ## 步骤2 — 将产品清单添加到事务型消息模板
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
 
 ## 第3步 — 测试事务型消息
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12&learn=on)

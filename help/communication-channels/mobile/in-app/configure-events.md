@@ -10,7 +10,7 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 2%
@@ -34,7 +34,7 @@ ht-degree: 2%
 
 您必须配置这些 [!UICONTROL events] 在Adobe Campaign。 以下视频介绍了如何执行此操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
 
 ## [!UICONTROL Life Cycle events] {#life-cycle-events}
 

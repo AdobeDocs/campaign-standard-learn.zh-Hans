@@ -10,7 +10,7 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 7%
@@ -21,4 +21,4 @@ ht-degree: 7%
 
 您可以查看 [!UICONTROL In-App] 通过添加 [!UICONTROL In-App]特定量度。 或者，您也可以使用现成的 [应用程序内报表](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12&learn=on)

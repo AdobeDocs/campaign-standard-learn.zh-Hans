@@ -10,7 +10,7 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: e8bc68272747d824e0978d603f3a5ba2fe9806cf
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 43%
@@ -31,4 +31,4 @@ Adobe Campaign允许您通过一组服务来创建和管理新闻稿和跨渠道
 
 此视频向您展示了如何创建服务并管理其订阅。
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12&learn=on)

@@ -8,7 +8,7 @@ doc-type: feature video
 activity: setup
 team: DOCS
 exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 18%
@@ -19,4 +19,4 @@ ht-degree: 18%
 
 此视频介绍如何在Adobe Campaign中定义和管理分配给不同用户的权限。
 
->[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12&learn=on)

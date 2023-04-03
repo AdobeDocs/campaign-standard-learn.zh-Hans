@@ -10,7 +10,7 @@ team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
 role: User
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 16%
@@ -23,6 +23,6 @@ ht-degree: 16%
 
 了解如何在工作流中定义区段以及如何将区段定义到动态报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12&learn=on)
 
 有关更多信息，请参阅 [文档](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

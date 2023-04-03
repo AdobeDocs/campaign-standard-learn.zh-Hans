@@ -10,7 +10,7 @@ team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
 role: User
 level: Beginner
-source-git-commit: 4f7124b8509333a9e475857631ecb5333c971baf
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 37%
@@ -23,6 +23,6 @@ ht-degree: 37%
 
 了解如何配置和发送A/B测试以测试电子邮件的主题行。
 
->[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12&learn=on)
 
 请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) 有关如何测试内容或发件人的更多详细信息。

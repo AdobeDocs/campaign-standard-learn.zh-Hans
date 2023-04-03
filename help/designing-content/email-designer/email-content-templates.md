@@ -10,7 +10,7 @@ team: TM
 exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 14%
@@ -23,4 +23,4 @@ Adobe Campaign Standard提供18个开箱即用、响应式电子邮件模板，�
 
 此视频介绍模板并说明如何创建自己的模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12&learn=on)

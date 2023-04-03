@@ -10,10 +10,10 @@ team: TM
 exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 7a1a8449fa5226cb8b9435e98e1e2719b44b18ff
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 以下视频介绍如何更改投放的定向维度 [!UICONTROL Platform Audience] 在Adobe Campaign Standard中的主配置文件表之外。
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)

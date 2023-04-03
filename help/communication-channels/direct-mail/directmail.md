@@ -10,7 +10,7 @@ team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: User
 level: Beginner
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 以下视频介绍如何配置 [!UICONTROL Direct Mail] 投放，以及需要哪些设置才能将用户档案添加到 [!UICONTROL Direct Mail] 投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
 
 ## 创建 [!UICONTROL Direct Mail] 工作流中
 

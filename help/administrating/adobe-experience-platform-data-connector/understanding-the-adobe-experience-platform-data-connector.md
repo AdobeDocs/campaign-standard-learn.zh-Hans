@@ -8,7 +8,7 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 4%
@@ -31,7 +31,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] 通过将XTK数据(在Adob
 
 Adobe Experience Platform [!UICONTROL Data Connector] 面向了解Adobe Campaign Standard的数据工程师 [!UICONTROL custom resources] 并了解客户的整体数据架构应如何位于Adobe Experience Platform内部。
 
->[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12&learn=on)
 
 *此视频概述Adobe Experience Platform [!UICONTROL Data Connector] （09:35分）*
 

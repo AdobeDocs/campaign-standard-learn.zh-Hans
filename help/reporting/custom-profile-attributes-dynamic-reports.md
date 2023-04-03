@@ -10,7 +10,7 @@ team: DOC
 exl-id: 28889ce5-7f25-41f4-8ecd-47c77b0e3c00
 role: User
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 13%
@@ -23,7 +23,7 @@ Adobe Campaign [!UICONTROL Dynamic Reports] 是一个灵活的自由格式环境
 
 此视频介绍如何根据自定义用户档案属性创建报表。
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28204?quality=12&learn=on)
 
 ## 其他资源
 

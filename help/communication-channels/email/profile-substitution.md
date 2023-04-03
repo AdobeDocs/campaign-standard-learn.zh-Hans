@@ -10,7 +10,7 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 67%
@@ -23,7 +23,7 @@ ht-degree: 67%
 
 假定您要发送个性化的电子邮件新闻稿。但是，在发送新闻稿之前，一位同事想要查看新闻稿，并已请求验证。您可以使用 [!UICONTROL Profile Substitution] 功能发送验证，因为它允许您发送目标用户档案将收到的消息的确切呈现形式。
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
 
 有关详细信息，请参阅详细的[产品文档](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)。
 
