@@ -10,8 +10,8 @@ team: PMM
 exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+workflow-type: ht
 source-wordcount: '30'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 此视频重点介绍实现真正跨渠道编排的潜在后续步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29460?quality=12&learn=on)
