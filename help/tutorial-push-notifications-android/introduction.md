@@ -8,8 +8,8 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+workflow-type: ht
 source-wordcount: '197'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 ## 先决条件
 
 * 您应当已经使用 Adobe Campaign Standard 扩展配置了 Platform Launch 属性。请按照下面列出的在线帮助内容进行操作。
-   * [视频教程](https://video.tv.adobe.com/v/26224?quality=12)
+   * [视频教程](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
    * [文档](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=zh-Hans)
 
 * 确保将 Adobe Campaign Standard 中相应属性的状态设置为已配置。
