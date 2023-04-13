@@ -1,6 +1,6 @@
 ---
-title: Email Designer 快速入门
-description: 了解Email Designer的一般功能以及如何从头开始设计电子邮件。
+title: 电子邮件设计器快速入门
+description: 了解“电子邮件设计器”的一般功能以及如何从头开始设计电子邮件。
 feature: Email Design
 kt: 2391
 thumbnail: 25912.jpg
@@ -11,9 +11,9 @@ exl-id: 298fa9c5-153b-4886-9324-82d2651060ab
 role: User, Developer
 level: Beginner
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
