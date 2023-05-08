@@ -1,6 +1,6 @@
 ---
 title: 创建用户档案和受众 - 概述
-description: 了解如何导航到现有个人资料以及如何创建个人资料和受众。
+description: 了解如何导航到现有配置文件以及如何创建配置文件和受众。
 feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
