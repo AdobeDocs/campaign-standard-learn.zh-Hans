@@ -9,9 +9,9 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
+source-git-commit: f7f2b6abb26075b25a3b55e4ceed744172691ce8
 workflow-type: tm+mt
-source-wordcount: '737'
+source-wordcount: '735'
 ht-degree: 1%
 
 ---
@@ -105,7 +105,7 @@ ht-degree: 1%
 
 1. 将名称更改回最初存在的表达式。
 
-2. 如果要使用新名称，请更改 **扩充活动**.
+2. 如果要使用新名称，请在 **扩充活动**.
 
 3. 如果您不记得更改了哪些内容，最好重新创建活动。
 
