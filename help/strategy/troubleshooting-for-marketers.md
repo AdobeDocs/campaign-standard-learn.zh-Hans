@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
+source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
 workflow-type: tm+mt
 source-wordcount: '737'
 ht-degree: 1%
@@ -80,9 +80,9 @@ ht-degree: 1%
 
 1. 在主字段和排除的字段中使用相同的字段名称，然后将该字段用作ID
 
-或者
+   或者
 
-2. 使用JOINS排除方法选择要根据其排除记录的字段。
+1. 使用JOINS排除方法选择要根据其排除记录的字段。
 
 ![常见字段数据集错误 — 解决方案 ](/help/assets/kt-13256/dataset-error-solution.png)
 
