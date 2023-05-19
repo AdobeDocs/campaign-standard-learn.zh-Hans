@@ -1,6 +1,6 @@
 ---
-title: 面向营销人员的疑难解答
-description: 了解最常见的错误有助于更快地解决问题并提高工作效率。 这些疑难解答提示可帮助您有效解决发生的类似错误。
+title: 行銷人員疑難排解
+description: 瞭解最常見的錯誤有助於更快地解決問題，並提高生產力。 這些疑難排解提示可協助您有效解決類似錯誤。
 version: Standard
 feature: Workflows
 role: User
@@ -9,115 +9,113 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: f7f2b6abb26075b25a3b55e4ceed744172691ce8
+source-git-commit: 3da1b695d56f9deb5747cc89de023f19a5b25bad
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '724'
 ht-degree: 1%
 
 ---
 
 
-# 面向营销人员的疑难解答：5个常见工作流和投放错误
+# 行銷人員疑難排解：5個常見工作流程和傳送錯誤
 
-收件人： [苏拉伊·帕特拉](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，美杰高级顾问
+作者： [蘇拉傑·帕特拉](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，資深顧問，梅傑
 
-作为过去5年Adobe Experience Cloud产品的高级工程师和客户专家，我在 [梅耶尔](https://www.meijer.com/){target="_blank"}美国超级中心链成立于1934年，旨在与ACS开展复杂的营销和交易活动。 我处理的一些项目包括用于存储个性化选件和订单详细信息的自定义促销活动、与Adobe Audience Manager集成的项目，以及用于区段摄取的客户分析项目。
+身為過去五年的Adobe Experience Cloud產品資深工程師和客戶專家，我能夠在以下位置支援業務使用者： [梅耶爾](https://www.meijer.com/){target="_blank"}成立於1934年的美國超級中心連鎖店，使用ACS執行複雜的行銷和交易式行銷活動。 我參與的一些專案包含自訂行銷活動，以儲存個人化的選件和訂單詳細資料、與Adobe Audience Manager整合，以及客戶對區段擷取的深入分析。
 
 
-在使用ACS时，我遇到了一些错误，这些错误很费时，而且难以解决。 了解最常见的错误有助于更快地解决问题并提高工作效率。 以下是我的故障诊断提示，可帮助您有效解决发生的类似错误。
+在我使用ACS的這段時間裡，我遇到了一些錯誤，解決這些錯誤既費時又費力。 瞭解最常見的錯誤有助於更快地解決問題，並提高生產力。 以下是我的疑難排解提示，可幫助您有效解決發生的類似錯誤。
 
-## 数据类型不匹配错误
+## 資料型別不符錯誤
 
 **错误代码:**
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **原因：**
-当您尝试使用不同数据类型的字段进行协调时，工作流中会显示这些类型的错误。 例如，当您使用具有字符串字段的加载文件上传文件时，并尝试将字符串字段与数据类型为int的配置文件字段进行协调。
+當您嘗試使用不同資料型別的欄位進行調解時，這些型別的錯誤會出現在工作流程中。 例如，當您使用具有字串欄位的載入檔案上傳檔案，並嘗試協調字串欄位與具有int資料型別的設定檔欄位時。
 
-![数据类型不匹配错误](/help/assets/kt-13256/data-type-mismatch.png)
+![data-type-mismatch-error](/help/assets/kt-13256/data-type-mismatch.png)
 
-**解决方案：**
-将“加载文件”活动中字段的数据类型更改为与您匹配的数据类型。 打开“加载文件”活动。 移到“COLUMN DEFINITION”选项卡，并更改所需字段的数据类型。
+**解決方案：**
+將「載入檔案」活動中欄位的資料型別變更為您所比對的欄位。 開啟「載入檔案」活動。 移至「COLUMN DEFINITION」標籤，並變更所需欄位的資料型別。
 
 
-![数据类型不匹配解决方案](/help/assets/kt-13256/data-type-mismatch-solution.png)
+![data-type-mismatch-solution](/help/assets/kt-13256/data-type-mismatch-solution.png)
 
-## 投放个性化错误
+## 傳遞個人化錯誤
 
 **错误代码:**
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **原因：**
-当您向某个地址发送电子邮件时，会显示此错误，但该电子邮件或任何其他标识符与用户档案未协调。 要发送电子邮件通信，电子邮件或标识符应始终链接到用户档案。
+當您傳送電子郵件至某個地址，但該電子郵件或任何其他識別碼並未與設定檔進行調解時，會出現此錯誤。 若要傳送電子郵件通訊，電子郵件或識別碼應一律連結至設定檔。
 
-使用协调活动，如下所示：
+![具有調解活動的工作流程](/help/assets/kt-13256/del-persn-error-wf.png)
 
-![与协调活动工作流](/help/assets/kt-13256/del-persn-error-wf.png)
+**解決方案：**
+具有收件者表格的載入檔案中必須存在通用ID。 此公用索引鍵會將載入檔案聯結至調解活動中的收件者表格。 電子郵件不可傳送至收件者表格中不存在的記錄，因為工作流程中需要此調解步驟。 這樣做時，您會使用設定檔中的電子郵件ID等識別碼調解傳入的載入檔案活動。 此 `nms:recipient` 結構描述是指設定檔表格，使用設定檔調解傳入記錄，使其可在電子郵件準備期間使用。
 
-**解决方案：**
-带有收件人表的已加载文件中必须存在通用ID。 此通用键值将加载文件联接到协调活动中的收件人表。 电子邮件不能发送到收件人表中不存在的记录，这需要在工作流中执行此协调步骤。 在执行此操作时，您需要将传入的加载文件活动与用户档案中的电子邮件ID等标识符进行协调。 的 `nms:recipient` 架构是指用户档案表，在准备电子邮件时将传入记录与用户档案进行协调以使其可用。
+請參閱調解活動的熒幕擷圖，如下所示。
 
-请参阅协调活动的屏幕截图，如下所示。
+![包含調解詳細資料的工作流程](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-![协调详细信息工作流](/help/assets/kt-13256/del-persn-error-wf-solution.png)
+進一步瞭解 [調解](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
 
-详细了解 [合并](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
-
-## 常见字段数据集错误
+## 通用欄位資料集錯誤
 
 **错误代码:**
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **原因：**
-使用 **排除活动** 在ACS工作流中。 当基于ID执行和排除时，如果主集和排除的集没有相同的字段名称，则会出现错误。
+此問題會在使用 **排除活動** 在ACS工作流程中，當根據ID執行排除時，主要集和排除集的欄位名稱不同。
 
 
-![常见字段数据集错误](/help/assets/kt-13256/dataset-error.png)
+![通用欄位資料集錯誤](/help/assets/kt-13256/dataset-error.png)
 
 **解决方案:**
 
-有两种方法可解决此错误：
+有兩種方式可解決此錯誤：
 
-1. 在主字段和排除的字段中使用相同的字段名称，然后将该字段用作ID
+1. 在主要和排除中使用相同的欄位名稱，並將該欄位用作ID
 
    或者
 
-1. 使用JOINS排除方法选择要根据其排除记录的字段。
+2. 使用JOINS排除方法，選取要據以排除記錄的欄位。
 
-![常见字段数据集错误 — 解决方案 ](/help/assets/kt-13256/dataset-error-solution.png)
+![通用欄位資料集錯誤 — 解決方案 ](/help/assets/kt-13256/dataset-error-solution.png)
 
-## 字段名称丢失错误
+## 欄位名稱捨棄錯誤
 
 **错误代码:**
 `XTK-170036 Unable to parse expression 'i__name'`
 
 **原因:**
 
-在 **扩充活动**. 最常见的一种显示如下。
+失敗點可能發生於 **擴充活動**. 最常用的專案之一顯示於下方。
 
-![字段名称丢失错误](/help/assets/kt-13256/field-name-dropped-error.png)
+![欄位名稱捨棄錯誤](/help/assets/kt-13256/field-name-dropped-error.png)
 
-手动编辑活动中的表达式名称时，会发生这种情况。 图像显示了从 `name `to `i__name`.
+當您手動編輯活動中的運算式名稱時，就會發生這種情況。 此影像顯示運算式修改自 `name `至 `i__name`.
 
 **解决方案:**
 
-您可以通过以下三种方式解决此错误：
+您可以透過三種方式解決此錯誤：
 
-1. 将名称更改回最初存在的表达式。
+1. 將名稱變回原先存在的運算式。
 
-2. 如果要使用新名称，请在 **扩充活动**.
+2. 如果您想使用新名稱，請變更 **擴充活動**.
 
-3. 如果您不记得更改了哪些内容，最好重新创建活动。
+3. 如果您不記得已變更的內容，最好是重新建立活動。
 
-## 临时表删除错误 
+## 暫存資料表捨棄錯誤 
 
 **错误代码:**
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **原因：**
-在涉及扩充或其他活动的复杂工作流中，这是常见的错误。 这可能意味着在对工作流进行多次更改期间，某些活动工作流未正确保存。
+這是涉及擴充或其他活動的複雜工作流程中的常見錯誤。 這可能表示在對工作流程進行多項變更期間，部分活動工作流程未正確儲存。
 
-![临时表删除错误 ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![暫存資料表捨棄錯誤 ](/help/assets/kt-13256/temp-table-dropped-error.png)
 
-**解决方案：**
-出现此错误的方法有很多，因此没有简单的修复。 如果这是一个简单的工作流，则最好重新配置活动。 在复杂的工作流中，最好将工作流活动复制到新工作流中，然后保存并重新运行该工作流。
+**解決方案：**
+此錯誤發生的方式有很多種，因此沒有簡單的修正方法。 如果是簡單的工作流程，最好重新設定活動。 在複雜的工作流程中，最好將工作流程活動複製到新的工作流程、儲存並重新執行。
