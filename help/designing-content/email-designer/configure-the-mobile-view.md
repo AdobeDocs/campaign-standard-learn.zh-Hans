@@ -1,6 +1,6 @@
 ---
-title: 在Email Designer中配置移动视图
-description: “了解如何通过单独编辑移动显示的所有样式选项来微调电子邮件的响应式设计。”
+title: 在電子郵件設計工具中設定行動裝置檢視
+description: 「瞭解如何透過單獨編輯行動顯示的所有樣式選項來微調電子郵件的回應式設計。」
 feature: Email Design
 kt: 2423
 thumbnail: 25919.jpg
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 在 [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# 在中設定行動裝置檢視 [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
-此视频介绍如何通过单独编辑移动设备显示的所有样式选项来微调电子邮件的响应式设计。
+此影片說明如何透過單獨編輯行動顯示的所有樣式選項來微調電子郵件的回應式設計。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25919?quality=12&learn=on)

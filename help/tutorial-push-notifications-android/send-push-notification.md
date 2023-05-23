@@ -1,6 +1,6 @@
 ---
-title: 第6部分 — 发送推送通知以测试您的工作
-description: 第6部分 — 发送推送通知以测试您的工作
+title: 第6部分 — 傳送推播通知以測試您的工作
+description: 第6部分 — 傳送推播通知以測試您的工作
 feature: Push
 kt: 4830
 doc-type: tutorial
@@ -14,21 +14,21 @@ ht-degree: 3%
 
 ---
 
-# 第6部分 — 发送 [!UICONTROL Push Notification] 测试工作
+# 第6部分 — 傳送 [!UICONTROL Push Notification] 以測試您的工作
 
-我们现在需要创建并发送 [!UICONTROL Push Notification] 使用Adobe Campaign。 要创建用于测试的简单推送通知，请执行以下步骤。
+我們現在需要建立並傳送 [!UICONTROL Push Notification] 使用Adobe Campaign。 若要建立簡易的推播通知以進行測試，請遵循下列步驟。
 
-* 登录到Adobe Campaign Standard实例
+* 登入您的Adobe Campaign Standard執行個體
 * 单击 **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
-* 选择 **[!UICONTROL Send push to app subscribers(mobileApp)]** ，然后单击下一步
-* 从 **[!UICONTROL Associate a Mobile App to a delivery]** 下拉列表并单击 **[!UICONTROL Next]**
-* 单击计数标签，它应返回大于0的值。 单击 **[!UICONTROL Next]**
-* 提供有意义的 [!UICONTROL Message title] 和 [!UICONTROL Message body] 单击 **[!UICONTROL Create]**.
-* 单击 **[!UICONTROL Prepare]**。准备完成后，单击 **[!UICONTROL Confirm]** 来发送消息。
+* 選取 **[!UICONTROL Send push to app subscribers(mobileApp)]** 並按下一步
+* 從中選擇適當的行動應用程式 **[!UICONTROL Associate a Mobile App to a delivery]** 下拉式清單並按一下 **[!UICONTROL Next]**
+* 按一下計數標籤，它應該會傳回大於0的值。 单击 **[!UICONTROL Next]**
+* 提供有意義的內容 [!UICONTROL Message title] 和 [!UICONTROL Message body] 並按一下 **[!UICONTROL Create]**.
+* 单击 **[!UICONTROL Prepare]**。準備完成後，按一下 **[!UICONTROL Confirm]** 以傳送訊息。
 
-如果一切正常，您应会在模拟器中运行的Android™应用程序中看到通知
+如果一切順利，您應該會在Android™應用程式中看到通知在模擬器中執行
 
 ## 其他资源
 
-* [有关推送通知的详细文档](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
-* [创建推送通知（视频）](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [有關推播通知的詳細檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
+* [建立推播通知（影片）](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

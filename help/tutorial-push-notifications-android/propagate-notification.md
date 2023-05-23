@@ -1,6 +1,6 @@
 ---
 title: 步骤 5 - 传播通知
-description: 在本部分中，我们将使用Android Notification Manager.Firebase传播从Adobe Campaign收到的消息
+description: 在本部分中，我們將使用Android Notification Manager.Firebase傳播從Adobe Campaign收到的訊息
 feature: Push
 kt: 4829
 doc-type: tutorial
@@ -10,21 +10,21 @@ exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 添加服务以发送通知
+# 新增服務以傳送通知
 
-在本部分中，我们将使用 [!DNL Android Notification Manager]. [!DNL Notification manager] 用于通知用户发生的事件。
-下面是您如何告知用户后台发生了某些情况：
+在本部分中，我們將使用傳播從Adobe Campaign收到的訊息 [!DNL Android Notification Manager]. [!DNL Notification manager] 用於通知使用者已發生的事件。
+這是您告訴使用者背景中發生某些事情的方式：
 
 * Launch [!DNL Android Studio]
-* 打开 *[!DNL ACSPushTutorial]* 项目
-* 展开项目结构
-* 右键单击包文件夹([!DNL com.example.acspushtutorial])和 [!DNL New ->Java Class]
-* 将此类命名为 *[!DNL MyService]* 确保它能够延长 [!DNL FirebaseMessagingService]
-* 创建 *[!DNL sendNotification]* 方法。 在此方法中，您需要使用 [!DNL NotificationCompat.Builder] 对象。 要显示通知，请调用 [!DNL NotificationManagerCompat.notify()]，为其传递通知和结果的唯一ID [!DNL NotificationCompat.Builder.build()].
+* 開啟 *[!DNL ACSPushTutorial]* 專案
+* 展開專案結構
+* 以滑鼠右鍵按一下封裝資料夾([!DNL com.example.acspushtutorial])和 [!DNL New ->Java Class]
+* 命名此類別 *[!DNL MyService]* 並確保其延伸 [!DNL FirebaseMessagingService]
+* 建立 *[!DNL sendNotification]* 此類別中的方法。 在此方法中，您需要使用 [!DNL NotificationCompat.Builder] 物件。 若要顯示通知，請呼叫 [!DNL NotificationManagerCompat.notify()]，向其傳遞通知唯一ID和結果 [!DNL NotificationCompat.Builder.build()].
 
 <!--
 Removed `{.line-numbers}` below
@@ -93,7 +93,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## 修改 [!DNL AndroidManifest.xml]
 
-将创建的服务添加到 [!DNL AndroidManifest.xml]. 最后 [!DNL AndroidManifest.xml] 应如下所示：
+將建立的服務新增至 [!DNL AndroidManifest.xml]. 最終版 [!DNL AndroidManifest.xml] 應如下所示：
 
 <!--
 Removed `{.line-numbers}` below
@@ -135,6 +135,6 @@ Removed `{.line-numbers}` below
 </manifest>
 ```
 
-## 运行应用程序
+## 執行應用程式
 
-通过单击 **绿色箭头** 或 [!DNL Run] 菜单。
+按一下「 」，執行應用程式 **綠色箭頭** 在工具列上或從 [!DNL Run] 功能表。

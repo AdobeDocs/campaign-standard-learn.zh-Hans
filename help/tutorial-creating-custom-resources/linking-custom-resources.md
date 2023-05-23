@@ -1,6 +1,6 @@
 ---
-title: 链接自定义资源
-description: 了解如何链接两个自定义资源。
+title: 連結自訂資源
+description: 瞭解如何連結兩個自訂資源。
 feature: Data Model
 kt: 3002
 thumbnail: 27712.jpg
@@ -15,12 +15,12 @@ ht-degree: 7%
 
 ---
 
-# 链接自定义资源
+# 連結自訂資源
 
-了解如何链接两个自定义资源。
+瞭解如何連結兩個自訂資源。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27712?quality=9)
 
 **下一步**
 
-[使用数据填充自定义资源](./populate-custom-resources-with-data.md)
+[使用資料填入自訂資源](./populate-custom-resources-with-data.md)

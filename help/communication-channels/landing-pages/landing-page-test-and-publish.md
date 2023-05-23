@@ -1,6 +1,6 @@
 ---
 title: 测试和发布登陆页面
-description: 了解如何测试在Adobe Campaign Standard中构建的登陆页面以及如何发布该页面。
+description: 瞭解如何測試內建Adobe Campaign Standard的登入頁面，以及如何發佈該頁面。
 feature: Landing Pages
 kt: 1813
 thumbnail: 24992.jpg
@@ -19,6 +19,6 @@ ht-degree: 27%
 
 # 测试和发布登陆页面
 
-此视频介绍如何测试登陆页面以及如何发布该页面。
+此影片說明如何測試登入頁面以及如何發佈。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24092?quality=12&learn=on)

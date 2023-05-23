@@ -1,6 +1,6 @@
 ---
 title: 创建和编辑登陆页面
-description: “了解如何在Adobe Campaign Standard中创建、编辑和测试登陆页面。”
+description: 「瞭解如何在Adobe Campaign Standard中建立、編輯和測試登入頁面。」
 feature: Landing Pages
 kt: 1808
 thumbnail: 24093.jpg
@@ -19,10 +19,10 @@ ht-degree: 16%
 
 # 创建和编辑登陆页面 {#create-and-edit-a-landing-page}
 
-Adobe Campaign允许您构建登陆页面，这些登陆页面是在线表单，可用于捕获受众信息、提供服务订阅、显示数据和增长数据库。 登陆页面还可用于获取或更新现有用户档案。
+Adobe Campaign可讓您建立登入頁面，這些線上表單可用來擷取對象資訊、提供服務訂閱、顯示資料並擴充資料庫。 登入頁面也可用於取得或更新現有的設定檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12&learn=on)
 
 ## 其他资源
 
-* [创建登陆页面（文档）](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_CreateLandingPage.html)
+* [建立登入頁面（檔案）](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_CreateLandingPage.html)

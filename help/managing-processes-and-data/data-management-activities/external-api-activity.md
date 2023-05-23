@@ -1,6 +1,6 @@
 ---
 title: 使用外部 API 活动配置和运行工作流
-description: 了解如何调用外部REST API端点，以将个性化数据从第三方系统提取到营销活动中。
+description: 瞭解如何呼叫外部REST API端點，以將個人化資料從協力廠商系統提取至您的行銷活動。
 feature: Data Management Activity
 kt: 2764
 thumbnail: 28200.jpg
@@ -19,7 +19,7 @@ ht-degree: 49%
 
 # 使用 [!UICONTROL External API activity]配置和运行工作流
 
-[!UICONTROL External API activity] 是 [!UICONTROL Data Management activity]。它允许您调用外部 REST API 端点。此活动旨在将个性化数据从第三方系统导入您的营销活动。
+[!UICONTROL External API activity] 是 [!UICONTROL Data Management activity]。它允许您调用外部 REST API 端点。此活動的目的是將第三方系統的個人化資料匯入您的行銷活動。
 
 示例用例包括：
 
@@ -36,4 +36,4 @@ ht-degree: 49%
 
 >[!NOTE]
 >
->活动用于获取营销活动范围的数据，而不是用于检索每个用户档案的特定信息，因为这样可能会导致传输大量数据。 如果用例需要特定于用户档案的信息，建议使用传输文件活动。
+>活動旨在擷取促銷活動範圍的資料，而非擷取每個設定檔的特定資訊，因為這樣可能會導致大量資料傳輸。 如果使用案例需要設定檔特定資訊，建議使用「傳輸檔案」活動。

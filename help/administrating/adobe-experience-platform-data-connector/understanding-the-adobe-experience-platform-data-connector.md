@@ -1,6 +1,6 @@
 ---
-title: 了解Adobe Experience Platform Data Connector
-description: Adobe Experience Platform Data Connector通过将XTK数据（在Campaign中摄取的数据）映射到Adobe Experience Platform上的Experience Data Model(XDM)数据，帮助现有客户在Adobe Experience Platform上提供其数据。
+title: 瞭解Adobe Experience Platform Data Connector
+description: Adobe Experience Platform Data Connector可協助現有客戶，將XTK資料（在Campaign中擷取的資料）對應至Adobe Experience Platform上的Experience Data Model (XDM)資料，以便在Adobe Experience Platform上提供其資料。
 feature: People Core Service Integration
 kt: 2826
 thumbnail: 27304.jpg
@@ -15,39 +15,39 @@ ht-degree: 4%
 
 ---
 
-# 了解Adobe Experience Platform [!UICONTROL Data Connector]
+# 瞭解Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
->此功能属于测试版，如有频繁更新和修改，恕不另行通知。
+>此功能為測試版，可能會不時更新和修改，恕不另行通知。
 >
->请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能，请执行以下操作：
+>請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 
 ## 概述
 
-Adobe Experience Platform [!UICONTROL Data Connector] 通过将XTK数据(在Adobe Campaign摄取的数据)映射到 [!DNL Experience Data Model] (XDM)Adobe Experience Platform上的数据。
+Adobe Experience Platform [!UICONTROL Data Connector] 透過將XTK資料(在Adobe Campaign中擷取的資料)對應至，協助現有客戶使其資料可在Adobe Experience Platform上使用 [!DNL Experience Data Model] (XDM) Adobe Experience Platform資料。
 
-连接器是单向的，会将数据从Adobe Campaign Standard发送到Adobe Experience Platform。 数据从不会从Adobe Experience Platform发送到Adobe Campaign Standard。
+聯結器是單向的，會將資料從Adobe Campaign Standard傳送至Adobe Experience Platform。 資料絕不會從Adobe Experience Platform傳送至Adobe Campaign Standard。
 
-Adobe Experience Platform [!UICONTROL Data Connector] 面向了解Adobe Campaign Standard的数据工程师 [!UICONTROL custom resources] 并了解客户的整体数据架构应如何位于Adobe Experience Platform内部。
+Adobe Experience Platform [!UICONTROL Data Connector] 專為瞭解Adobe Campaign Standard的資料工程師所設計 [!UICONTROL custom resources] 並瞭解客戶的整體資料結構應如何在Adobe Experience Platform中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12&learn=on)
 
-*此视频概述Adobe Experience Platform [!UICONTROL Data Connector] （09:35分）*
+*這部影片會概略介紹Adobe Experience Platform [!UICONTROL Data Connector] （09:35分鐘）*
 
 >[!NOTE]
 >
->开箱即用的 [!UICONTROL subscription events] 不支持。 转移 [!UICONTROL subscription events]，您可以在Adobe Experience Platform上创建相应的XDM和数据集，然后为这些数据配置自定义数据映射。
+>現成可用的傳輸 [!UICONTROL subscription events] 不受支援。 要轉移 [!UICONTROL subscription events]，您可以在Adobe Experience Platform上建立對應的XDM和資料集，然後為這些資料設定自訂資料對應。
 >
->现有 [!UICONTROL experience events] 无法摄取到Adobe Experience Platform，但会持续生成 [!UICONTROL experience events] 都是流式传输到Adobe Experience Platform。
+>現有 [!UICONTROL experience events] 無法內嵌至Adobe Experience Platform，但正在產生 [!UICONTROL experience events] 會串流至Adobe Experience Platform。
 
-## 执行数据映射的关键步骤
+## 執行資料對應的重要步驟
 
-以下教程介绍了在Campaign Standard和Adobe Experience Platform之间执行数据映射的关键步骤：
+下列教學課程說明在Campaign Standard和Adobe Experience Platform之間執行資料對應的關鍵步驟：
 
-1. [映射自定义资源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+1. [對應自訂資源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
 2. [映射 Experience 事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-3. [映射种子表数据](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
-4. [修改数据映射](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
+3. [對應種子表格資料](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+4. [修改資料對應](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
 5. [检查数据摄取作业的状态](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 

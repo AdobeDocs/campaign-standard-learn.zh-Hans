@@ -19,8 +19,8 @@ ht-degree: 20%
 
 # 创建短信投放{#creating-a-sms-delivery}
 
-了解如何在Adobe Campaign Standard中创建短信投放。 您还可以使用短信投放活动在工作流中配置短信发送。
+瞭解如何在Adobe Campaign Standard中建立SMS傳送。 您也可以使用SMS傳送活動，在工作流程中設定SMS傳送。
 
-短信投放活动用于自动发送短信。 此活动的配置与视频中所述一次性投放的配置相同。
+SMS傳送活動用於自動傳送SMS。 此活動的設定與影片中說明的一次性傳送的設定相同。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12&learn=on)

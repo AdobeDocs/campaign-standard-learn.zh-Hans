@@ -1,6 +1,6 @@
 ---
-title: 创建基于报表的自定义用户档案属性
-description: 了解如何根据自定义用户档案属性创建报表。
+title: 建立報表式自訂設定檔屬性
+description: 瞭解如何根據自訂設定檔屬性建立報告。
 feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
@@ -19,9 +19,9 @@ ht-degree: 13%
 
 # 根据自定义用户档案属性创建报告
 
-Adobe Campaign [!UICONTROL Dynamic Reports] 是一个灵活的自由格式环境，您可以在其中通过包含自定义用户档案属性来浏览数据。 它允许您通过无限制的划分和比较，将维度、量度和时间范围组合到任意组合中。
+Adobe Campaign的 [!UICONTROL Dynamic Reports] 是一個彈性的自由格式環境，您可以在其中加入自訂設定檔屬性來探索資料。 它可讓您結合任何組合的維度、量度和時間範圍，並具備無限制的劃分和比較。
 
-此视频介绍如何根据自定义用户档案属性创建报表。
+此影片說明如何根據自訂設定檔屬性建立報告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28204?quality=12&learn=on)
 

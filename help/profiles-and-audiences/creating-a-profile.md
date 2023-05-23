@@ -1,6 +1,6 @@
 ---
 title: 创建用户档案
-description: 了解如何创建用户档案以及如何将其添加到受众。
+description: 瞭解如何建立設定檔，以及如何將其新增至對象。
 feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
@@ -17,8 +17,8 @@ ht-degree: 8%
 
 ---
 
-# 创建用户档案
+# 建立設定檔
 
-此视频介绍如何创建用户档案以及如何将其添加到受众。
+此影片說明如何建立設定檔，以及如何將其新增至對象。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12&learn=on)

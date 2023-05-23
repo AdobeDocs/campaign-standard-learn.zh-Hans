@@ -1,6 +1,6 @@
 ---
-title: 修改数据映射
-description: 了解如何检查状态并修改数据映射。
+title: 修改資料對應
+description: 瞭解如何檢查狀態並修改資料對應。
 feature: People Core Service Integration
 kt: 2830
 thumbnail: 27266
@@ -15,15 +15,15 @@ ht-degree: 7%
 
 ---
 
-# 修改数据映射
+# 修改資料對應
 
 >[!NOTE]
 >
->此功能目前处于测试阶段，可能会频繁更新和修改，恕不另行通知。
+>此功能目前為測試版，可能會不時更新和修改，恕不另行通知。
 >
->请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能，请执行以下操作：
+>請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 
-了解如何检查状态并修改数据映射。
+瞭解如何檢查狀態並修改資料對應。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27266?quality=12&learn=on)
 

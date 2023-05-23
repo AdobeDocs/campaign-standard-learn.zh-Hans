@@ -1,6 +1,6 @@
 ---
 title: 配置事件
-description: “了解事件如何定义由用户启动的操作将触发要显示的应用程序内消息。 ”
+description: 「瞭解事件如何定義哪些使用者起始的動作會觸發要顯示的應用程式內訊息。 ”
 feature: In App
 kt: 2548
 thumbnail: 26245.jpg
@@ -19,40 +19,40 @@ ht-degree: 2%
 
 # 配置[!UICONTROL Events] {#configuring-events}
 
-配置 [!UICONTROL In-App] 消息中，您需要定义用户启动的操作触发要显示的消息。 这些操作称为 [!UICONTROL events]. 三类 [!UICONTROL events] 可用： [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events]和 [!UICONTROL Analytics events].
+設定時 [!UICONTROL In-App] 訊息，您必須定義使用者啟動的動作會觸發訊息顯示。 這些動作稱為 [!UICONTROL events]. 三個類別 [!UICONTROL events] 可用： [!UICONTROL Mobile Application events]， [!UICONTROL Life Cycle events]、和 [!UICONTROL Analytics events].
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
-[!UICONTROL Mobile Application events] are [!UICONTROL custom events] 在移动应用程序中实施的ID、ID和ID。
+[!UICONTROL Mobile Application events] 是 [!UICONTROL custom events] 在您的行動應用程式中實作的專案。
 
-示例包括：
+範例包括：
 
-* 客户已查看项目
-* 客户将项目添加到购物车
-* 放弃购买
-* 客户已购买了某些商品
+* 客戶已檢視一個專案
+* 客戶新增專案至購物車
+* 放棄購買
+* 客戶已購買某件商品
 
-您必须配置这些 [!UICONTROL events] 在Adobe Campaign。 以下视频介绍了如何执行此操作。
+您必須設定這些專案 [!UICONTROL events] 在Adobe Campaign中。 以下影片說明如何執行此操作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
 
 ## [!UICONTROL Life Cycle events] {#life-cycle-events}
 
-[!UICONTROL Lifecycle events] 现成 [!UICONTROL events]. 以下 [!UICONTROL events] 可用：
+[!UICONTROL Lifecycle events] 是現成可用的 [!UICONTROL events]. 下列專案 [!UICONTROL events] 可用：
 
 * [!UICONTROL launched]
 * [!UICONTROL upgraded]
 * [!UICONTROL crashed]
 
-示例用例可以是在升级后引入新功能的消息，或事件促销。
+一個使用案例範例可能是升級或事件促銷活動後推出新功能的訊息。
 
 >[!NOTE]
 >
->的 [!UICONTROL Lifecycle module] 需要在移动应用程序中配置。 有关 [如何向应用程序添加生命周期](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
+>此 [!UICONTROL Lifecycle module] 需要在行動應用程式中設定。 請參閱此處，瞭解更多關於 [如何將生命週期新增至您的應用程式](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
 
 ## [!UICONTROL Analytics Events] {#analytics-events}
 
-根据移动设备应用程序中的感知方式，支持以下三个类别：
+根據您的行動應用程式中所檢測的內容，支援下列三個類別：
 
 * Adobe Analytics
 * [!UICONTROL Context data]
@@ -60,4 +60,4 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] 需要Adobe Analytics许可证。 在您 [[!DNL Analytics] 已配置扩展](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 添加 [将Analytics添加到您的应用程序](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)，则这些事件将在 [!UICONTROL In-App] 配置。
+>[!UICONTROL Analytics events] 需要Adobe Analytics授權。 一旦您擁有 [[!DNL Analytics] 擴充功能已設定](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 並已新增 [Analytics至應用程式](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)，這些事件便可在以下位置取得： [!UICONTROL In-App] ACS中的設定。

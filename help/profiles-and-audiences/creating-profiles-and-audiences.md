@@ -19,13 +19,13 @@ ht-degree: 37%
 
 # 创建用户档案和受众 - 概述
 
-Adobe Campaign有两种类型或配置文件：
+Adobe Campaign有兩種型別或設定檔：
 
-* 已识别的用户档案
+* 已識別的設定檔
 * 测试用户档案
 
-将调用根据一个或多个通用标准进行分组的用户档案 **受众**.
+系統會呼叫根據一或多個通用條件分組的設定檔 **對象**.
 
-此视频介绍如何导航到现有用户档案，以及如何在Adobe Campaign Standard中创建用户档案和受众。
+此影片說明如何導覽至現有的設定檔，以及如何在Adobe Campaign Standard中建立設定檔和閱聽眾。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12&learn=on)

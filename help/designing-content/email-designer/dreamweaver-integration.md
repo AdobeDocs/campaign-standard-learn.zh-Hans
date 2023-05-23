@@ -1,6 +1,6 @@
 ---
 title: 使用 Adobe Dreamweaver 创建内容
-description: 了解启用Dreamweaver集成所需的功能，以及如何使用Dreamweaver为Adobe Campaign Standard创建和编辑内容。
+description: 瞭解啟用Dreamweaver整合的必要條件，以及如何使用Dreamweaver建立和編輯Adobe Campaign Standard的內容。
 feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
@@ -21,13 +21,13 @@ ht-degree: 67%
 
 Adobe Campaign Standard 与 Adobe Dreamweaver 集成允许您直接在 Dreamweaver 界面中编辑电子邮件的内容：
 
-* 内容的双向实时同步
+* 內容的雙向即時同步
 * 通过 Dreamweaver 将本地图像上传到 Adobe Campaign
 * 支持 Dreamweaver 中的 Campaign 个性化
 
 >[!NOTE]
 >
->此功能需要称为  **[!UICONTROL Adobe Campaign Integration]** 的 Dreamweaver 扩展。您可以从 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) 下载扩展。有关安装的详细信息，请参阅 [适用于Dreamweaver的Campaign扩展](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
+>此功能需要称为  **[!UICONTROL Adobe Campaign Integration]** 的 Dreamweaver 扩展。您可以从 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) 下载扩展。如需有關安裝的詳細資訊，請參閱 [Dreamweaver的Campaign擴充功能](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 此视频介绍启用 Dreamweaver 集成所需的功能以及如何使用 Dreamweaver 创建和编辑 Adobe Campaign Standard 的内容。
 
@@ -35,4 +35,4 @@ Adobe Campaign Standard 与 Adobe Dreamweaver 集成允许您直接在 Dreamweav
 
 *如何在 Adobe Campaign 中使用 Dreamweaver 集成（02:37 分钟）*
 
-请参阅Dreamweaver [Adobe Dreamweaver文档](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 有关 [Adobe Campaign Dreamweaver安装故障诊断](https://helpx.adobe.com/cn/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+請參閱Dreamweaver [Adobe Dreamweaver檔案](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 的相關資訊： [疑難排解Adobe Campaign Dreamweaver安裝](https://helpx.adobe.com/cn/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

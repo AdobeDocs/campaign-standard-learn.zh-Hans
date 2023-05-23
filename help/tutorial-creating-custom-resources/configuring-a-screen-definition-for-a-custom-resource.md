@@ -1,6 +1,6 @@
 ---
-title: 为自定义资源配置屏幕定义
-description: 了解如何为自定义资源配置屏幕定义。
+title: 設定自訂資源的熒幕定義
+description: 瞭解如何設定自訂資源的熒幕定義。
 feature: Data Model
 kt: 3001
 thumbnail: 27713.jpg
@@ -15,12 +15,12 @@ ht-degree: 4%
 
 ---
 
-# 为自定义资源配置屏幕定义
+# 設定自訂資源的熒幕定義
 
-了解如何为自定义资源配置屏幕定义。
+瞭解如何設定自訂資源的熒幕定義。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27713?quality=9)
 
 **下一步**
 
-[链接自定义资源](./linking-custom-resources.md)
+[連結自訂資源](./linking-custom-resources.md)

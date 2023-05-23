@@ -1,6 +1,6 @@
 ---
 title: 创建多语言推送通知
-description: 了解如何创建多语言推送通知。
+description: 瞭解如何建立多語言推播通知。
 feature: Push
 kt: 1375
 thumbnail: 23304.jpg
@@ -19,6 +19,6 @@ ht-degree: 33%
 
 # 创建多语言推送通知
 
-了解如何在Adobe Campaign Standard中创建多语言推送通知。
+瞭解如何在Adobe Campaign Standard中建立多語言推播通知。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12&learn=on)

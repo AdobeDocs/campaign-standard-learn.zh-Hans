@@ -1,6 +1,6 @@
 ---
 title: 查看电子邮件投放和报告
-description: 了解如何查看个性化的电子邮件投放并浏览Adobe Campaign Standard中提供的不同报表。
+description: 瞭解如何檢閱個人化電子郵件傳遞，並探索Adobe Campaign Standard中可用的不同報表。
 feature: Reporting
 kt: 3904
 thumbnail: 21389.jpg
@@ -19,6 +19,6 @@ ht-degree: 23%
 
 # 查看电子邮件投放和报告
 
-此视频介绍如何查看个性化电子邮件投放，并探索Adobe Campaign Standard中提供的不同报表。
+此影片說明如何檢閱個人化電子郵件傳遞，並探索Adobe Campaign Standard中可用的不同報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12&learn=on)

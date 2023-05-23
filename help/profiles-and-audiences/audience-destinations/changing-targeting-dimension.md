@@ -1,6 +1,6 @@
 ---
 title: 更改定位维度
-description: 此视频介绍如何在Adobe Campaign Standard的主用户档案表之外更改Platform Audience投放的定向维度。
+description: 此影片說明如何在Adobe Campaign Standard主要設定檔表格之外，變更Platform Audience傳送作業的定位維度。
 feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
@@ -21,10 +21,10 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->此功能属于测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
+>此功能為測試版，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
 >
->请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能，请执行以下操作：
+>請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
 
-以下视频介绍如何更改投放的定向维度 [!UICONTROL Platform Audience] 在Adobe Campaign Standard中的主配置文件表之外。
+此影片說明如何變更傳送的目標維度 [!UICONTROL Platform Audience] 在Adobe Campaign Standard的主要設定檔表格之外。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)

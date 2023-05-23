@@ -1,6 +1,6 @@
 ---
-title: 创建疲劳规则
-description: 此视频向您展示如何设置分类规则。
+title: 建立疲勞規則
+description: 本影片說明如何設定型別規則。
 feature: Fatigue Management
 kt: 3446
 thumbnail: 28450.jpg
@@ -17,13 +17,13 @@ ht-degree: 26%
 
 # 创建 [!UICONTROL fatigue rules]
 
-[!UICONTROL Fatigue rules] 允许营销人员设置全局跨渠道业务规则，以自动从营销活动中排除发送过量信息的用户档案。
-创建 [!UICONTROL fatigue rules]，则需要定义每个用户档案的最大消息数，并选择应用规则的时段。 在投放准备期间，会根据已发送给用户档案的消息数量，将符合条件的用户档案从投放中排除。
+[!UICONTROL Fatigue rules] 允許行銷人員設定全球跨頻道商業規則，以自動從行銷活動中排除過度請求的設定檔。
+建立 [!UICONTROL fatigue rules]，您需要定義每個設定檔的最大訊息數量，並選取將套用規則的期間。 在投放准备期间，会根据已发送给用户档案的消息数量，将符合条件的用户档案从投放中排除。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12&learn=on)
 
-*如何创建 [!UICONTROL fatigue rule] （04:49分）*
+*如何建立 [!UICONTROL fatigue rule] （04:49分鐘）*
 
 ## 其他资源
 
-* [疲劳规则（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [疲勞規則（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
