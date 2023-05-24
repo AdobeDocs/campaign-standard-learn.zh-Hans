@@ -1,6 +1,6 @@
 ---
 title: 步骤 3 - 使用移动应用程序注册扩展
-description: 在本部分中，我們將新增程式碼以註冊UserProfile、Identity、Lifecycle和Signal擴充功能。
+description: 在本部分中，我们将添加代码以注册UserProfile、Identity、Lifecycle和Signal扩展。
 feature: Push
 kt: 4827
 doc-type: tutorial
@@ -16,11 +16,11 @@ ht-degree: 11%
 
 # 步骤 3 - 使用移动应用程序注册扩展
 
-在本部分中，我們將新增程式碼以註冊使用者設定檔、身分、生命週期和訊號擴充功能。 這些擴充功能屬於 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). 我們還需要註冊Adobe Campaign Standard擴充功能，如下所示。
+在本部分中，我们将添加代码以注册用户个人资料、身份、生命周期和信号扩展。 这些扩展是的一部分 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). 我们还需要注册Adobe Campaign Standard扩展，如以下代码所示。
 
-在中開啟您的專案 [!DNL Android] 工作室。 刪除MainApp中的整個程式碼 **第一行是封裝陳述式除外**.
+在中打开您的项目 [!DNL Android] 工作室。 删除MainApp中的整个代码 **除了第一行，即您的包语句**.
 
-將下列程式碼貼入MainApp
+将以下代码粘贴到MainApp中
 
 <!--
 Removed `{.line-numbers}` below
@@ -68,6 +68,6 @@ try{
 }
 ```
 
-第32行，您需要提供[!UICONTROL  Launch] 屬性的環境檔案識別碼。 這可以從以下位置存取： [!UICONTROL environment tab] 的 [!UICONTROL Launch] 屬性。
+第32行，您需要提供[!UICONTROL  Launch] 属性的环境文件ID。 这可以从 [!UICONTROL environment tab] 的 [!UICONTROL Launch] 属性。
 
 ![launch-id](assets/launch-id-property.PNG)

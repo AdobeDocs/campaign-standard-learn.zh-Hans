@@ -1,6 +1,6 @@
 ---
 title: 步骤 2 - 集成 Mobile SDK
-description: 在本部分中，我們將整合Android應用程式與行動SDK。 將行動SDK與Android應用程式整合的方式
+description: 在本部分中，我们将将Android应用程序与Mobile SDK集成。 将Mobile SDK与Android应用程序集成
 feature: Push
 kt: 4826
 doc-type: tutorial
@@ -15,17 +15,17 @@ ht-degree: 3%
 
 ---
 
-# 步驟2 — 整合 [!UICONTROL Mobile SDK] 使用Android應用程式
+# 第2步 — 集成 [!UICONTROL Mobile SDK] 使用Android应用程序
 
-在本部分中，我們將整合 [!DNL Android] 應用程式搭配 [!UICONTROL Mobile SDK]. 若要整合 [!UICONTROL mobile SDK] 使用 [!DNL Android] 應用程式，請遵循下列步驟：
+在本部分中，我们将集成 [!DNL Android] 应用程序与 [!UICONTROL Mobile SDK]. 要集成 [!UICONTROL mobile SDK] 使用 [!DNL Android] 应用程序，请按照以下步骤操作：
 
-* 開啟 *ACSPushTutorial* 專案位置 [!DNL Android Studio]
-* 建立名為的新Java類別 *MainApp* 延伸至 [!DNL android.app.Application]
-* 此時您的專案結構應如下所示
+* 打开 *ACSPushTutorial* 中的项目 [!DNL Android Studio]
+* 创建一个名为的新Java类 *主应用程序* 扩展了 [!DNL android.app.Application]
+* 此时，您的项目结构应如下所示
 
 ![main-app](assets/android-main-app.PNG)
 
-* 展開 [!DNL Gradle Scripts] 資料夾。 按兩下 [!DNL build.gradle] 模組的。 將下列相依性貼到 [!DNL build.gradle] 檔案。 您的 [!DNL build.gradle] 檔案現在應如下所示
+* 展开 [!DNL Gradle Scripts] 文件夹。 双击 [!DNL build.gradle] 模块的。 将以下依赖项粘贴到的依赖项部分 [!DNL build.gradle] 文件。 您的 [!DNL build.gradle] 文件现在应如下所示
 
 <!--
 Removed `{.line-numbers}` below
@@ -39,11 +39,11 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 ![module-gradle](assets/module-build-gradle.PNG)
 
-* 同步您的 [!DNL Android] 按一下立即同步處理按鈕來同步處理您的專案
+* 同步您的 [!DNL Android] 通过单击“立即同步”按钮来同步项目
 
 ## 修改 [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
-開啟 *AndroidManifest.xml* 並將下列2行貼到manifest元素之後、應用程式元素之前。 這可讓您的應用程式與外部世界通訊
+打开 *AndroidManifest.xml* 并将以下2行粘贴到清单元素之后、应用程序元素之前。 这使您的应用程序能够与外界通信
 
 <!--
 Removed `{.line-numbers}` below
@@ -54,10 +54,10 @@ Removed `{.line-numbers}` below
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
-複製應用程式元素中的下列行
+复制应用程序元素中的以下行
 [!DNL android:name=".MainApp"]
-儲存您的 [!DNL AndroidManifest.xml]
-您的 [!DNL AndroidManifest.xml] 應該看起來像這樣
+保存您的 [!DNL AndroidManifest.xml]
+您的 [!DNL AndroidManifest.xml] 应该像这样
 
 <!--
 Removed `{.line-numbers}` below

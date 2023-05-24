@@ -1,6 +1,6 @@
 ---
 title: 在事务性电子邮件中配置产品列表
-description: 瞭解在異動電子郵件中設定產品清單所需的步驟。
+description: 了解在事务性电子邮件中配置产品列表所需的步骤。
 feature: Transactional Messaging, Email
 kt: 1728
 thumbnail: 25915
@@ -17,24 +17,24 @@ ht-degree: 4%
 
 ---
 
-# 設定 [!UICONTROL product listings] 在異動電子郵件中
+# 配置 [!UICONTROL product listings] 在事务性电子邮件中
 
-您可以設定含有產品清單（在設計電子郵件時未知）的重定位電子郵件。 可在執行階段從裝載新增這些產品。 例如，您可以自動傳送放棄購物車電子郵件，列出使用者放棄購物車前購物車中的所有產品，並提供每個產品的影像、價格和連結。
+您可以配置包含产品列表（在设计电子邮件时未知）的重定向电子邮件。 可在运行时从有效负载添加这些产品。 例如，您可以自动发送一封有关购物车放弃的电子邮件，其中列出用户放弃购物车之前购物车中的所有产品，并提供每个产品的图像、价格和链接。
 
-以下影片說明設定所需的步驟 [!UICONTROL product listings] 在 [!UICONTROL transactional emails].
+以下视频介绍了配置所需的步骤 [!UICONTROL product listings] 在 [!UICONTROL transactional emails].
 
 >[!NOTE]
 >
->此功能在影片中稱為回圈。
+>此功能在视频中称为循环。
 
-## 步驟1 — 建立事件並發佈
+## 步骤1 — 创建事件并发布
 
 >[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12&learn=on)
 
-## 步驟2 — 將產品清單新增至交易式訊息範本
+## 步骤2 — 将产品列表添加到事务型消息模板
 
 >[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
 
-## 步驟3 — 測試交易式訊息
+## 步骤3 — 测试事务型消息
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12&learn=on)

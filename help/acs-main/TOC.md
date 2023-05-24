@@ -88,14 +88,14 @@ ht-degree: 96%
       + [外部信号活动](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 数据管理活动 {#data-management-activities}
       + [外部 API 活动](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ 報告和監視 {#reporting}
++ 报告和监测 {#reporting}
    + [浏览报告](/help/getting-started/exploring-reports.md)
    + [创建动态报告](/help/reporting/creating-a-dynamic-report.md)
    + [根据自定义用户档案属性创建报告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
    + [监测投放](/help/reporting/monitor-a-delivery.md)
 + 与其他解决方案集成{#integrations}
-   + [將Target與Campaign整合](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
+   + [将Target与Campaign集成](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
    + [在 Adobe Analytics 中跟踪投放的成功情况](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 将触发器用于事务性消息{#triggers}
       + [概述](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
@@ -127,6 +127,6 @@ ht-degree: 96%
 + [Campaign Standard 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
 + 战略与思想领导{#strategy}
    + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
-   + [行銷人員疑難排解](/help/strategy/troubleshooting-for-marketers.md)
+   + [营销人员疑难解答](/help/strategy/troubleshooting-for-marketers.md)
    + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](/help/strategy/campaign-maximize-email-best-practices.md)
    + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)

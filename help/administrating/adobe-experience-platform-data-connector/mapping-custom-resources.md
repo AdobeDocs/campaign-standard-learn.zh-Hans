@@ -1,6 +1,6 @@
 ---
 title: 映射自定义资源
-description: 瞭解如何在Adobe Campaign Standard (ACS)和Adobe Experience Platform (AEP)之間對應不同的資料型別
+description: 了解如何在Adobe Campaign Standard (ACS)和Adobe Experience Platform (AEP)之间映射不同的数据类型
 feature: People Core Service Integration, Profiles
 kt: 2828
 thumbnail: 27231.jpg
@@ -19,12 +19,12 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->此功能目前為測試版，可能會不時更新和修改，恕不另行通知。
+>此功能目前为测试版，如有频繁更新和修改，恕不另行通知。
 >
->請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
+>请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能。
 
-瞭解如何在Adobe Campaign Standard和Adobe Experience Platform之間對應不同的資料型別。
+了解如何在Adobe Campaign Standard和Adobe Experience Platform之间映射不同的数据类型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12&learn=on)
 
-請參閱產品檔案，深入瞭解 [對應定義](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+请参阅产品文档，以了解有关 [映射定义](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)

@@ -1,6 +1,6 @@
 ---
 title: 发送测试、准备和发送电子邮件
-description: 「瞭解如何傳送測試電子郵件、準備，然後傳送電子郵件傳遞。 ”
+description: “了解如何发送测试电子邮件、准备然后发送电子邮件投放。 ”
 feature: Email, Test Profiles
 kt: 1812
 thumbnail: 24013.jpg
@@ -21,6 +21,6 @@ ht-degree: 31%
 
 # 发送测试、准备和发送电子邮件
 
-此影片說明如何在Adobe Campaign Standard (ACS)中傳送測試電子郵件、準備然後傳送電子郵件傳遞。
+此视频介绍如何在Adobe Campaign Standard (ACS)中发送测试电子邮件、准备然后发送电子邮件投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)

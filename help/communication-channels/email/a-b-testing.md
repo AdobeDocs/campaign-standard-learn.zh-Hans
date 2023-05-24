@@ -1,6 +1,6 @@
 ---
 title: A/B 测试
-description: 瞭解如何設定和傳送A/B測試以測試電子郵件的主旨行。
+description: 了解如何配置和发送A/B测试以测试电子邮件的主题行。
 feature: A/B Testing
 kt: 3907
 thumbnail: 18480.jpg
@@ -19,10 +19,10 @@ ht-degree: 37%
 
 # A/B 测试
 
-此 [!UICONTROL A/B Test] Adobe Campaign中的功能可讓您定義兩到三種電子郵件變體。 每个变体都会被发送到群体样本，以确定哪个变体效果最好。确定之后，会将入选的变体发送给其余群体。您可以选择更改电子邮件的内容、主题或发件人。
+此 [!UICONTROL A/B Test] Adobe Campaign中的功能允许您定义两到三种电子邮件变体。 每个变体都会被发送到群体样本，以确定哪个变体效果最好。确定之后，会将入选的变体发送给其余群体。您可以选择更改电子邮件的内容、主题或发件人。
 
-瞭解如何設定和傳送A/B測試以測試電子郵件的主旨行。
+了解如何配置和发送A/B测试以测试电子邮件的主题行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12&learn=on)
 
-請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) 有關如何測試內容或寄件者的詳細資訊。
+请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) 有关如何测试内容或发件人的更多详细信息。

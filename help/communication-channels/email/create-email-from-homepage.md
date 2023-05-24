@@ -19,7 +19,7 @@ ht-degree: 45%
 
 # 创建电子邮件投放 {#create-an-email-delivery}
 
-您可以從行銷活動、Adobe Campaign首頁或在 [!UICONTROL Marketing Activity] 清單。 您也可以從工作流程建立並傳送單一傳送和循環寄送的電子郵件。
+您可以从营销策划、Adobe Campaign主页或在 [!UICONTROL Marketing Activity] 列表。 您还可以从工作流创建和发送单次发送和循环发送的电子邮件。
 
 了解如何从主页创建电子邮件投放。
 

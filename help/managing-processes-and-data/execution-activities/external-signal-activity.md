@@ -1,6 +1,6 @@
 ---
-title: 外部訊號活動 — 使用引數呼叫工作流程
-description: 瞭解如何從另一個工作流程開始，以支援更複雜的客戶歷程，同時能夠更好地監控和回應問題。
+title: 外部信号活动 — 使用参数调用工作流
+description: 了解如何从另一个工作流开始一个工作流，以支持更复杂的客户历程，同时能够更好地监控和回应问题。
 feature: Execution Activity
 kt: 2750
 thumbnail: 27249
@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# [!UICONTROL External Signal activity]  — 使用引數呼叫工作流程
+# [!UICONTROL External Signal activity]  — 使用参数调用工作流
 
-此 [!UICONTROL External Signal activity] 用於組織和協調不同的流程，這些流程是同一客戶歷程中不同工作流程的一部分。 此活動可從另一個工作流程開始。 此 [!UICONTROL External Signal activity] 可呼叫工作流程，並將引數（例如要鎖定的對象名稱、要匯入的檔案名稱或訊息內容的一部分）從一個工作流程傳遞至另一個工作流程。 它也可以呼叫REST API來與外部系統整合，例如內容管理系統。 使用 **測試** 活動，可在此功能上執行測試。
+此 [!UICONTROL External Signal activity] 用于组织和编排不同的流程，这些流程是进入不同工作流的同一客户历程的一部分。 此活动可以从另一个工作流启动一个工作流。 此 [!UICONTROL External Signal activity] 可调用工作流并将参数（如要定位的受众名称、要导入的文件名或消息内容的一部分）从一个工作流传递到另一个工作流。 它还可以调用REST API来与外部系统（如内容管理系统）集成。 使用 **测试** 活动，可对此功能运行测试。
 
-瞭解如何設定 [!UICONTROL External Signal activity] 若要從外部系統接收引數**請使用外部引數自訂工作流程，並設定結束活動以使用外部引數呼叫工作流程
+了解如何配置 [!UICONTROL External Signal activity] 要从外部系统接收参数**请使用外部参数自定义工作流，并配置结束活动以使用外部参数调用工作流
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 使用现有内容
-description: 瞭解如何從網站擷取創意內容並將其載入電子郵件設計工具。
+description: 了解如何从网站检索创意内容并将其加载到Email Designer中。
 feature: Email Design
 kt: 6295
 thumbnail: 25926.jpg
@@ -19,16 +19,16 @@ ht-degree: 7%
 
 # 使用现有内容{#working-with-existing-content}
 
-## 從URL匯入內容
+## 从URL导入内容
 
-瞭解如何從網站擷取創意內容並將其載入電子郵件設計工具。
+了解如何从网站检索创意内容并将其加载到Email Designer中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12&learn=on)
 
-## 讓現有HTML內容相容 {#making-existing-html-content-compatible}
+## 使现有HTML内容兼容 {#making-existing-html-content-compatible}
 
-電子郵件設計工具需要特定標籤，您必須套用這些標籤，才能讓標準HTML內容上傳至Adobe Campaign時完全相容且可編輯。
+Email Designer需要特定标记，必须应用这些标记才能使上传到Adobe Campaign的标准HTML内容完全兼容并可编辑。
 
-您可以在下列連結下找到詳細檔案：
+您可以在以下链接下找到详细文档：
 
-[將HTML內容轉換為電子郵件設計工具範本](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[将HTML内容转换为电子邮件设计器模板](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

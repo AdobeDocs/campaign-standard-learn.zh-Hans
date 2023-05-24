@@ -1,6 +1,6 @@
 ---
-title: 對象目的地 — 概觀
-description: 瞭解如何在Adobe Campaign Standard中使用Adobe Experience Platform對象
+title: 受众目标 — 概述
+description: 了解如何在Adobe Campaign Standard中使用Adobe Experience Platform受众
 feature: People Core Service Integration
 kt: 2755
 thumbnail: null
@@ -18,22 +18,22 @@ ht-degree: 4%
 
 ---
 
-# [!UICONTROL Audience Destinations] (BETA) — 概觀
+# [!UICONTROL Audience Destinations] （测试版） — 概述
 
-## 在Adobe Campaign Standard中使用Adobe Experience Platform對象
+## 在Adobe Campaign Standard中使用Adobe Experience Platform受众
 
 >[!NOTE]
 >
->此功能為測試版，可能會不時更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 是以Adobe Experience Platform為基礎，且需要特定設定。
+>此功能为测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
->請聯絡 [!UICONTROL Adobe Customer Support] 如果您計畫實作此功能。
+>请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能。
 
-本教學課程說明如何將Adobe Experience Platform的集中式整合設定檔資料用於Adobe Campaign Standard中的行銷活動。
+本教程介绍了如何将Adobe Experience Platform中的集中式整合用户档案数据用于Adobe Campaign Standard中的营销活动。
 
-此 [!UICONTROL Audiences] Adobe Campaign Standard中的模組可讓您使用下列專案的資料建立區段： [Adobe Experience Platform — 資料服務](https://www.adobe.io/apis/experienceplatform/home/services.html) 位在 [即時客戶個人檔案](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+此 [!UICONTROL Audiences] 通过Adobe Campaign Standard中的模块，您可以使用来自以下各项的数据创建区段： [Adobe Experience Platform — 数据服务](https://www.adobe.io/apis/experienceplatform/home/services.html) 住在 [Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
-下列影片教學課程會引導您完成不同的步驟：
+以下视频教程将指导您完成不同的步骤：
 
 1. [使用统一区段构建器创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-2. [在行銷工作流程啟動Experience Platform對象](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-3. [變更平台對象傳送作業的定位維度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+2. [在营销工作流中激活Experience Platform受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+3. [更改Platform受众投放的定位维度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

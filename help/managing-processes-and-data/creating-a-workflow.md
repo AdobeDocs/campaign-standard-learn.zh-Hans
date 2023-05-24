@@ -1,6 +1,6 @@
 ---
 title: 创建工作流
-description: 瞭解如何建立和編輯工作流程。
+description: 了解如何创建和编辑工作流。
 feature: Workflows
 kt: 1809
 thumbnail: 23937.jpg
@@ -21,13 +21,13 @@ ht-degree: 29%
 
 工作流可以在不同的上下文中使用，例如：
 
-* 鎖定目標以管理對象或傳送訊息
-* 資料管理(ETL)來操作資料
-* 將資料匯入Campaign資料庫
+* 定位以管理受众或发送消息
+* 数据管理(ETL)以操作数据
+* 将数据导入Campaign数据库
 * 数据库清理、恢复跟踪信息等技术流程。
 
-本影片將展示如何在Adobe Campaign Standard中建立和編輯工作流程。
+本视频说明如何在Adobe Campaign Standard中创建和编辑工作流。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12&learn=on)
 
-請參閱產品檔案，瞭解更多關於 [建立工作流程（檔案）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+有关以下内容的更多信息，请参阅产品文档 [构建工作流（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)

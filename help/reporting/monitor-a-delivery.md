@@ -1,6 +1,6 @@
 ---
 title: 监测投放
-description: 瞭解訊息記錄檔、工作記錄檔和傳遞記錄檔。
+description: 了解消息日志、作业日志和投放日志。
 feature: Monitoring
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 27%
 
 # 监测投放
 
-瞭解訊息記錄檔、工作記錄檔和傳遞記錄檔。
+了解消息日志、作业日志和投放日志。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 建立直接郵件
-description: 瞭解如何建立直接郵件。
+title: 创建直邮
+description: 了解如何创建直邮。
 feature: Direct Mail
 kt: 1430
 thumbnail: 23417.jpg
@@ -17,18 +17,18 @@ ht-degree: 0%
 
 ---
 
-# 建立 [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# 创建 [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-此 [!UICONTROL Direct Mail] 通道可讓您擷取分段的收件者清單，以傳送至機構或上傳至SFTP伺服器。
+此 [!UICONTROL Direct Mail] 渠道允许您提取要发送到机构或上传到SFTP服务器的分段收件人列表。
 
-此影片說明如何設定 [!UICONTROL Direct Mail] 傳遞以及可將設定檔新增至所需的設定 [!UICONTROL Direct Mail] 傳遞。
+此视频介绍如何配置 [!UICONTROL Direct Mail] 投放，以及要将用户档案添加到时需要什么设置 [!UICONTROL Direct Mail] 投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
 
-## 建立 [!UICONTROL Direct Mail] 在工作流程中
+## 创建 [!UICONTROL Direct Mail] 在工作流中
 
-您可以從首頁和工作流程檢視中使用管道，定義有凝聚力的跨管道行銷策略。 以下工作流程範例包含 [!UICONTROL Direct Mail activity].
+该渠道可从主页和工作流视图中获取，以定义具有凝聚力的跨渠道营销策略。 以下示例工作流包括 [!UICONTROL Direct Mail activity].
 
-![工作流程影像](/help/assets/direct_mail_examplewf.png)
+![工作流图像](/help/assets/direct_mail_examplewf.png)
 
-請參閱產品檔案以深入瞭解 [關於直接郵件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+有关更多信息，请参阅产品文档 [关于直邮](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

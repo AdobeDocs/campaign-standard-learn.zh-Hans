@@ -1,6 +1,6 @@
 ---
 title: 通过工作流创建和发送电子邮件
-description: 瞭解如何透過工作流程建立和傳送電子郵件。
+description: 了解如何通过工作流创建和发送电子邮件。
 feature: Email,Workflows
 kt: 4319
 thumbnail: 31465.jpg
@@ -21,6 +21,6 @@ ht-degree: 69%
 
 您可以根据促销活动、Adobe Campaign 主页或营销活动列表创建电子邮件。您还可以根据工作流创建单一发送和重复发送的电子邮件。
 
-瞭解如何透過工作流程建立和傳送電子郵件。
+了解如何通过工作流创建和发送电子邮件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31465?quality=12&learn=on)

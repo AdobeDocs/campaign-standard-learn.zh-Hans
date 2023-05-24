@@ -1,6 +1,6 @@
 ---
 title: 管理用户访问权限
-description: 此影片說明如何定義及管理指派給Adobe Campaign中不同使用者的許可權。
+description: 此视频介绍如何定义和管理在Adobe Campaign中分配给不同用户的权限。
 feature: Access Management
 kt: 1814
 thumbnail: 24671.jpg
@@ -17,6 +17,6 @@ ht-degree: 18%
 
 # 管理用户访问权限
 
-此影片說明如何定義及管理指派給Adobe Campaign中不同使用者的許可權。
+此视频介绍如何定义和管理在Adobe Campaign中分配给不同用户的权限。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12&learn=on)

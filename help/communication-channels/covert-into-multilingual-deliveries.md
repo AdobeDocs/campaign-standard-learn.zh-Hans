@@ -1,6 +1,6 @@
 ---
 title: 将现有电子邮件、短信投放或投放模板转换为多语言
-description: 瞭解如何將現有的電子郵件、簡訊傳遞或傳遞範本轉換為多語言版本。
+description: 了解如何将现有电子邮件、短信投放或投放模板转换为多语言。
 feature: Email, SMS
 kt: 1703
 thumbnail: 23251.jpg
@@ -19,8 +19,8 @@ ht-degree: 28%
 
 # 将现有电子邮件、短信投放或投放模板转换为多语言
 
-此影片示範如何將現有的電子郵件、簡訊傳遞或傳遞範本輕鬆轉換為多語言版本。
+此视频演示了如何将现有电子邮件、短信投放或投放模板轻松转换为多语言。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12&learn=on)
 
-請參閱產品檔案，瞭解更多關於 [建立多語言電子郵件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+有关以下内容的更多信息，请参阅产品文档 [创建多语言电子邮件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)

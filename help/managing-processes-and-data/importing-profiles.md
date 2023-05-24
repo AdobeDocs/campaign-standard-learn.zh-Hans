@@ -1,6 +1,6 @@
 ---
 title: 用工作流导入用户档案
-description: 瞭解如何使用工作流程匯入設定檔資料。
+description: 了解如何使用工作流导入用户档案数据。
 feature: Data Management
 kt: 1818
 thumbnail: 24993.jpg
@@ -19,8 +19,8 @@ ht-degree: 18%
 
 # 用工作流导入用户档案{#import-profiles-with-a-workflow}
 
-您可以從檔案中收集資料以進行處理及/或將其匯入Adobe Campaign資料庫。
+您可以从文件中收集数据以对其进行处理和/或将其导入Adobe Campaign数据库。
 
-此影片說明如何使用 [!UICONTROL Data Management] 工作流程中的活動以匯入設定檔資料。
+此视频介绍如何使用 [!UICONTROL Data Management] 工作流中用于导入用户档案数据的活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12&learn=on)

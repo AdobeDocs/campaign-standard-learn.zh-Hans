@@ -1,6 +1,6 @@
 ---
 title: 预览电子邮件和防垃圾邮件分析
-description: 「瞭解如何預覽您的電子郵件和反垃圾郵件分析。」
+description: “了解如何预览电子邮件和反垃圾邮件分析。”
 feature: Email Design
 kt: 2393
 thumbnail: 25921.jpg
@@ -19,6 +19,6 @@ ht-degree: 38%
 
 # 预览电子邮件和防垃圾邮件分析{#preview-your-email}
 
-此影片說明如何預覽您的電子郵件和反垃圾郵件分析。
+此视频介绍如何预览电子邮件和反垃圾邮件分析。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25921?quality=12&learn=on)
