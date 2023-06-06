@@ -10,16 +10,14 @@ team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 9%
+source-wordcount: '57'
+ht-degree: 12%
 
 ---
 
 # 创建 [!UICONTROL In-App] 工作流中的投放
-
-应用程序内投放活动用于自动发送 [!UICONTROL In-App] 消息发送给在同一工作流中计算的目标受众。
 
 了解如何使用应用程序内投放活动，自动将应用程序内消息发送到在工作流中计算的目标受众。
 

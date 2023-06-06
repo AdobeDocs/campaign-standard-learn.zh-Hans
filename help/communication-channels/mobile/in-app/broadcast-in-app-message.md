@@ -10,24 +10,15 @@ team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 8%
+source-wordcount: '42'
+ht-degree: 19%
 
 ---
 
 # 广播应用程序内消息
 
-您可以广播应用程序内消息，以移动应用程序的所有用户为目标，确定Adobe Campaign是否有其用户档案信息。
-
-此类别中的一些相关用例包括：
-
-* 向首次应用程序启动器发送移动应用程序教程或
-* 新功能发布的公告
-
 了解如何配置和使用广播模板来定位移动应用程序的所有用户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12&learn=on)
-
-*使用SDKV5移动属性创建广播应用程序内消息*

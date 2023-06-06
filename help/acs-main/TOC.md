@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard 教程
 user-guide-description: 设计跨渠道客户体验并创建可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: Campaign Standard 教程
-source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '581'
 ht-degree: 96%
 
 ---
@@ -60,7 +60,6 @@ ht-degree: 96%
          + [创建多语言推送通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
          + [教程：Android™ 推送通知入门](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=zh-Hans)
       + 应用程序内消息 {#in-app}
-         + [应用程序内消息简介](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [配置事件](/help/communication-channels/mobile/in-app/configure-events.md)
          + [广播应用程序内消息](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
          + [基于其 Campaign 用户档案的目标用户](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
