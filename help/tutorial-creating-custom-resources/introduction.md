@@ -2,15 +2,15 @@
 title: 创建自定义资源 - 简介
 description: 此多部分教程将指导您完成创建和链接自定义资源所需的步骤。
 feature: Data Model
-kt: 2999
+jira: KT-2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '187'
 ht-degree: 100%
 
