@@ -4,11 +4,11 @@ description: 了解如何在 Campaign Standard 中获取解密的事件 ID 和�
 role: Admin
 level: Beginner, Experienced
 type: Troubleshooting
-kt: 8432
+jira: KT-8432
 exl-id: da53e9ce-2175-4158-a318-914e71050754
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '48'
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
