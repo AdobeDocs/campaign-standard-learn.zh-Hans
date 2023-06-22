@@ -4,11 +4,11 @@ description: 了解如何将公共资源 URL 从 http 更改为 https。
 role: Admin
 level: Beginner, Experienced
 type: Troubleshooting
-kt: 8420
+jira: KT-8420
 exl-id: a36ea881-2230-48df-b0cc-08ae3573f7f8
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '44'
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
