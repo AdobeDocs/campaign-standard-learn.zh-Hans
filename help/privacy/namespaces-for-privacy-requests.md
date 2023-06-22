@@ -2,15 +2,15 @@
 title: 在 Adobe Campaign Standard (ACS) 中为隐私请求创建命名空间
 description: 了解如何为隐私请求创建命名空间。
 feature: Privacy Tools
-kt: 1460
+jira: KT-1460
 thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '60'
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
