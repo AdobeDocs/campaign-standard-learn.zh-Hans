@@ -2,13 +2,13 @@
 title: 了解Adobe Experience Platform Data Connector
 description: Adobe Experience Platform Data Connector通过将XTK数据（Campaign摄取的数据）映射到Adobe Experience Platform上的Experience Data Model (XDM)数据，帮助现有客户使其数据在Adobe Experience Platform上可用。
 feature: People Core Service Integration
-kt: 2826
+jira: KT-2826
 thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 4%

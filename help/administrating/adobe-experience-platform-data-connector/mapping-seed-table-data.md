@@ -2,13 +2,13 @@
 title: 映射种子表数据
 description: 了解如何映射种子数据以及如何使用Adobe Experience Platform (AEP)测试用户档案
 feature: People Core Service Integration
-kt: 2900
+jira: KT-2900
 thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 8%

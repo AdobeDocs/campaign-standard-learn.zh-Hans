@@ -2,7 +2,7 @@
 title: 根据工作流区段创建报告
 description: 了解如何在工作流中定义区段并将它们定义为动态报告。
 feature: Reporting
-kt: 3252
+jira: KT-3252
 thumbnail: 28262.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 16%

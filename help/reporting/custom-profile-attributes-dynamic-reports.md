@@ -2,7 +2,7 @@
 title: 创建基于报表的自定义用户档案属性
 description: 了解如何根据自定义用户档案属性创建报告。
 feature: Reporting
-kt: 1444
+jira: KT-1444
 thumbnail: 28204.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: DOC
 exl-id: 28889ce5-7f25-41f4-8ecd-47c77b0e3c00
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 13%

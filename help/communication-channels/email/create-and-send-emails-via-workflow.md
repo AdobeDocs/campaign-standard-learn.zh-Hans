@@ -2,7 +2,7 @@
 title: 通过工作流创建和发送电子邮件
 description: 了解如何通过工作流创建和发送电子邮件。
 feature: Email,Workflows
-kt: 4319
+jira: KT-4319
 thumbnail: 31465.jpg
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 69%

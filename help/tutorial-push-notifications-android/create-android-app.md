@@ -2,13 +2,13 @@
 title: 步骤1 — 创建Android应用程序并配置以使用Firebase Cloud Messaging
 description: 在本部分中，我们将创建 [!DNL Android] 要接收的应用程序 [!UICONTROL Push notifications] 发送自Adobe Campaign Standard。 要接收推送通知，需要在Google的注册中注册应用程序 [!DNL Firebase Cloud Service].
 feature: Push
-kt: 4825
+jira: KT-4825
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 3%

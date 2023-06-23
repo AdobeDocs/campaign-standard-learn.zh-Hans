@@ -2,7 +2,7 @@
 title: 使用外部 API 活动配置和运行工作流
 description: 了解如何调用外部REST API端点，以将个性化数据从第三方系统提取到您的营销活动中。
 feature: Data Management Activity
-kt: 2764
+jira: KT-2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 49%
