@@ -11,9 +11,9 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 4%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 4%
 >
 >此功能为测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
->请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能。
+>联系至 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能。
 >
 
 本教程介绍了如何将Adobe Experience Platform中的集中式整合用户档案数据用于Adobe Campaign Standard中的营销活动。
 
-此 [!UICONTROL Audiences] 通过Adobe Campaign Standard中的模块，您可以使用来自以下各项的数据创建区段： [Adobe Experience Platform — 数据服务](https://www.adobe.io/apis/experienceplatform/home/services.html) 住在 [Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+此 [!UICONTROL Audiences] 通过Adobe Campaign Standard中的模块，您可以使用来自以下各项的数据创建区段： [Adobe Experience Platform — 数据服务](https://developer.adobe.com/apis/experienceplatform/home/services.html) 住在 [Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 以下视频教程将指导您完成不同的步骤：
 
