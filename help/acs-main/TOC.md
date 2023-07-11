@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard 教程
 user-guide-description: 设计跨渠道客户体验并创建可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: Campaign Standard 教程
 source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '581'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -87,14 +87,14 @@ ht-degree: 96%
       + [外部信号活动](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 数据管理活动 {#data-management-activities}
       + [外部 API 活动](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ 报告和监测 {#reporting}
++ 报告和监测{#reporting}
    + [浏览报告](/help/getting-started/exploring-reports.md)
    + [创建动态报告](/help/reporting/creating-a-dynamic-report.md)
    + [根据自定义用户档案属性创建报告](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
    + [监测投放](/help/reporting/monitor-a-delivery.md)
 + 与其他解决方案集成{#integrations}
-   + [将Target与Campaign集成](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
+   + [将 Target 与 Campaign 集成](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=zh-Hans)
    + [在 Adobe Analytics 中跟踪投放的成功情况](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 将触发器用于事务性消息{#triggers}
       + [概述](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
