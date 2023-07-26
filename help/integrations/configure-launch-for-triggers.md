@@ -11,10 +11,10 @@ team: TM
 hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="集成" type="positive"
-source-git-commit: a16aae1f2100be43993e7a0dfbad0002a5604223
+source-git-commit: 7e5910000bf5af9573529f03d3e47f66807a77ed
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 2%
+source-wordcount: '85'
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 了解如何Adobe Experience Platform数据收集并将所需的属性添加到您的网站，以测试您的配置。
 
->[!N注意]
+>[!IMPORTANT]
 >
 > 请注意，Launch现在是Adobe Experience Platform的标记功能。 它可以在以下位置找到 **Adobe Experience Platform数据收集**.
 
