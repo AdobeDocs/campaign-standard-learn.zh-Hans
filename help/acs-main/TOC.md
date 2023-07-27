@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard 教程
 user-guide-description: 设计跨渠道客户体验并创建可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: Campaign Standard 教程
-source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: ht
-source-wordcount: '581'
+source-git-commit: 3e8484650a941a3166063b8765f39a90fda6109f
+workflow-type: tm+mt
+source-wordcount: '567'
 ht-degree: 100%
 
 ---
@@ -94,7 +94,6 @@ ht-degree: 100%
    + [根据工作流区段创建报告](/help/reporting/report-on-workflow-segments.md)
    + [监测投放](/help/reporting/monitor-a-delivery.md)
 + 与其他解决方案集成{#integrations}
-   + [将 Target 与 Campaign 集成](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=zh-Hans)
    + [在 Adobe Analytics 中跟踪投放的成功情况](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 将触发器用于事务性消息{#triggers}
       + [概述](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
