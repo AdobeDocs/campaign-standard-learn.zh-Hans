@@ -7,10 +7,10 @@ thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 role: User
-leavel: Advanced
+level: Experienced
 team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
-source-git-commit: 3201187cbffddc98a1e015a9138bf7a375ccf6d3
+source-git-commit: 9c3ca533c14c89fb11c37046feafa08181241405
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 13%
@@ -21,11 +21,11 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->此功能目前为测试版，如有频繁更新和修改，恕不另行通知。
+>此功能目前处于测试阶段，可能会频繁更新和修改，恕不另行通知。
 >
 >请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能。
 
-了解如何映射 [!UICONTROL Experience Events] Adobe Experience Platform (AEP)。
+了解如何映射 [!UICONTROL Experience Events] Adobe Experience Platform (AEP)中的。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12&learn=on)
 
