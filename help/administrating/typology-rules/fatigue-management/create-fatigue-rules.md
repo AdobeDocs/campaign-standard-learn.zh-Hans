@@ -1,16 +1,16 @@
 ---
 title: 创建疲劳规则
-description: 本视频说明如何设置分类规则。
+description: 本视频向您说明如何设置分类规则。
 feature: Fatigue Management
 jira: KT-3446
 thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 role: Admin
-leavel: Advanced
+level: Advanced
 team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
-source-git-commit: c074865b5654a943bcb2293937a3cb546d6d1a16
+source-git-commit: 11be65b9bc0dd63344493eb2ca4f86765bf00a66
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 26%
@@ -19,8 +19,8 @@ ht-degree: 26%
 
 # 创建 [!UICONTROL fatigue rules]
 
-[!UICONTROL Fatigue rules] 允许营销人员设置全局跨渠道业务规则，以自动从营销活动中排除过度请求的用户档案。
-创建 [!UICONTROL fatigue rules]，您需要定义每个用户档案的最大消息数，并选择要应用规则的时段。 在投放准备期间，会根据已发送给用户档案的消息数量，将符合条件的用户档案从投放中排除。
+[!UICONTROL Fatigue rules] 允许营销人员设置全局跨渠道业务规则，以自动从营销策划中排除发送营销信息过于频繁的用户档案。
+创建 [!UICONTROL fatigue rules]，则需要定义每个用户档案的最大消息数，并选择要应用规则的时段。 在投放准备期间，会根据已发送给用户档案的消息数量，将符合条件的用户档案从投放中排除。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12&learn=on)
 
