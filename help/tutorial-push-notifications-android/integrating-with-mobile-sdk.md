@@ -1,26 +1,28 @@
 ---
 title: 步骤 2 - 集成 Mobile SDK
-description: 在本部分中，我们将将Android应用程序与Mobile SDK集成。 将Mobile SDK与Android应用程序集成
+description: 在此部分中，我们将将Android应用程序与Mobile SDK集成。 将Mobile SDK与Android应用程序集成
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4826
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 913d2c08dc63e2073b3abd1de6b6b16711d817da
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 第2步 — 集成 [!UICONTROL Mobile SDK] 使用Android应用程序
 
-在本部分中，我们将集成 [!DNL Android] 应用程序与 [!UICONTROL Mobile SDK]. 要集成 [!UICONTROL mobile SDK] 使用 [!DNL Android] 应用程序，请按照以下步骤操作：
+在此部分中，我们将集成 [!DNL Android] 应用程序与 [!UICONTROL Mobile SDK]. 要集成 [!UICONTROL mobile SDK] 使用 [!DNL Android] 请按照以下步骤操作：
 
 * 打开 *ACSPushTutorial* 中的项目 [!DNL Android Studio]
-* 创建一个名为的新Java类 *主应用程序* 扩展了 [!DNL android.app.Application]
+* 创建一个名为的新Java类 *MainApp* 会扩展 [!DNL android.app.Application]
 * 此时，您的项目结构应如下所示
 
 ![main-app](assets/android-main-app.PNG)
@@ -39,11 +41,11 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 ![module-gradle](assets/module-build-gradle.PNG)
 
-* 同步您的 [!DNL Android] 通过单击“立即同步”按钮来同步项目
+* 同步您的 [!DNL Android] 通过单击“立即同步”按钮来同步您的项目
 
 ## 修改 [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
-打开 *AndroidManifest.xml* 并将以下2行粘贴到清单元素之后、应用程序元素之前。 这使您的应用程序能够与外界通信
+打开 *AndroidManifest.xml* 并将以下2行粘贴到清单元素之后、应用程序元素之前。 这使您的应用程序能够与外部世界通信
 
 <!--
 Removed `{.line-numbers}` below
