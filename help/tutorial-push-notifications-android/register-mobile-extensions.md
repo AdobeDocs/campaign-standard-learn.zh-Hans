@@ -2,12 +2,14 @@
 title: 步骤 3 - 使用移动应用程序注册扩展
 description: 在此部分中，我们添加了用于注册UserProfile、Identity、Lifecycle和Signal扩展的代码。
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 13%
@@ -68,6 +70,6 @@ try{
 }
 ```
 
-第32行，您必须提供[!UICONTROL  Launch] 属性的环境文件ID。 这可以从 [!UICONTROL environment tab] 的 [!UICONTROL Launch] 属性。
+第32行，您必须提供[!UICONTROL  Launch] 属性的环境文件ID。 这可以从以下位置访问 [!UICONTROL environment tab] 的 [!UICONTROL Launch] 属性。
 
 ![launch-id](assets/launch-id-property.PNG)

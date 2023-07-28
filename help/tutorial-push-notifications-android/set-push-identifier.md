@@ -2,12 +2,14 @@
 title: 步骤4 — 设置pushidentifier
 description: '**pushIdentifier**是一个字符串，其中包含用于推送通知的设备令牌。 它与Firebase发送的令牌相同，并使用MobileCore.setPushIdentifier方法传递到SDK。'
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4828
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -16,7 +18,7 @@ ht-degree: 0%
 
 # 步骤4 — 设置 [!DNL pushidentifier]
 
-此 **[!DNL pushidentifier]** 是一个字符串，其中包含的设备令牌 [!DNL Push] 通知。 它是由发送的同一令牌 [!DNL Firebase] 并使用传递到SDK [!DNL MobileCore.setPushIdentifier] 方法。
+此 **[!DNL pushidentifier]** 是一个字符串，其中包含的设备令牌 [!DNL Push] 通知。 它是发送的同一令牌 [!DNL Firebase] 并使用传递到SDK [!DNL MobileCore.setPushIdentifier] 方法。
 
 在中打开您的项目 [!DNL Android™]工作室。 删除中的整个代码 [!DNL MainActivity] **除了第一行，即您的包语句**.
 
@@ -87,21 +89,21 @@ MobileCore.lifecyclePause();
 
 ## 测试您的应用程序
 
-现在，是测试您的应用程序的良好时机，然后再继续下一步操作。
+在继续下一步之前，现在非常适合测试您的应用程序。
 
-* 单击绿色箭头或选择以运行应用程序 **[!DNL Run->Run'app']**.
-* 此 [!DNL Android™] 模拟器应已启动，您应会看到应用程序正在与一起运行 [!DNL "Hello World"]文本。
-* 打开 [!DNL logcat] 窗口。 搜索“”[!DNL Got]“。 您应该会看到从收到的令牌 [!DNL Firebase] 写入日志中，如下所示。 “”之后的长字符串[!DNL Got token]”是 [!DNL pushidentifier]发送到Adobe Campaign的内容。
+* 单击绿色箭头运行应用程序或选择 **[!DNL Run->Run'app']**.
+* 此 [!DNL Android™] 模拟器应会启动，此时您应会看到您的应用程序正在与运行 [!DNL "Hello World"]文本。
+* 打开 [!DNL logcat] 窗口。 搜索&quot;[!DNL Got]“。 您应该会看到从接收的令牌 [!DNL Firebase] 写入日志中，如下所示。 “”之后的长字符串[!DNL Got token]”是 [!DNL pushidentifier]发送到Adobe Campaign的内容。
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
 ### 检查移动应用程序订阅者
 
 登录到您的Adobe Campaign Standard实例。
-导航 **[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**. 打开相应的移动设备应用程序。 按Tab键转到 [!UICONTROL Mobile Application Subscribers] 选项卡。 您应会看到 [!UICONTROL registration token]已列出。
+导航 **[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**. 打开相应的移动设备应用程序。 按Tab键转到 [!UICONTROL Mobile Application Subscribers] 选项卡。 您应该会看到 [!UICONTROL registration token]已列出。
 
 ![移动应用程序订阅者](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->如果您在中看不到注册令牌 [!UICONTROL Mobile Application Subscribers] 按STOP键，然后再继续。
+>如果您在中看不到注册令牌 [!UICONTROL Mobile Application Subscribers] 按TAB在此处停止，然后再继续。
