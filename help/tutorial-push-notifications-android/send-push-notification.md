@@ -3,11 +3,13 @@ title: 第6部分 — 发送推送通知以测试您的工作
 description: 第6部分 — 发送推送通知以测试您的工作
 feature: Push
 jira: KT-4830
+user: Admin
+level: Exprienced
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 31aceddbd0e740f01d39f430037afa85d41a4c23
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 3%
@@ -21,12 +23,12 @@ ht-degree: 3%
 * 登录到您的Adobe Campaign Standard实例
 * 单击 **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * 选择 **[!UICONTROL Send push to app subscribers(mobileApp)]** 并单击“下一步”
-* 从中选择相应的移动设备应用程序 **[!UICONTROL Associate a Mobile App to a delivery]** 下拉列表，然后单击 **[!UICONTROL Next]**
+* 从中选择适当的移动设备应用程序 **[!UICONTROL Associate a Mobile App to a delivery]** 下拉列表，然后单击 **[!UICONTROL Next]**
 * 单击计数标签，它应返回大于0的值。 单击 **[!UICONTROL Next]**
 * 提供有意义的信息 [!UICONTROL Message title] 和 [!UICONTROL Message body] 并单击 **[!UICONTROL Create]**.
 * 单击 **[!UICONTROL Prepare]**。准备完成后，单击 **[!UICONTROL Confirm]** 以发送消息。
 
-如果一切顺利，您应会在模拟器中运行的Android™应用程序中看到通知
+如果一切顺利，您应该会在模拟器中运行的Android™应用程序中看到通知
 
 ## 其他资源
 
