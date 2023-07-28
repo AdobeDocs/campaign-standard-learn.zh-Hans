@@ -8,10 +8,10 @@ thumbnail: 27268.jpg
 doc-type: feature video
 activity: use
 role: User
-leavel: Advanced
+level: Advanced
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: ac4c6f136f8a71c7ef80386032871980b42dd51d
+source-git-commit: 0dd6e3c747005662035734b6cd47fb40c65be223
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 23%
@@ -22,11 +22,11 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->此功能为测试版，如有频繁更新和修改，恕不另行通知。
+>此功能处于测试阶段，可能会频繁更新和修改，恕不另行通知。
 >
 >请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能。
 
-了解如何检查数据引入作业的状态，以及数据是否已从Adobe Campaign Standard引入到Adobe Experience Platform中。
+了解如何检查数据引入作业的状态，以及了解数据是否已从Adobe Campaign Standard引入到Adobe Experience Platform中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 

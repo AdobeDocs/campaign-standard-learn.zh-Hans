@@ -7,10 +7,10 @@ thumbnail: 27266
 doc-type: feature video
 activity: use
 role: User
-leavel: Advanced
+level: Advanced
 team: TM
 exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
-source-git-commit: 8362b9188e955dd205c4d0e10410a7a4763f6bc7
+source-git-commit: 3ff642a6efae4bedad37d6bbdb9fe8a222c1ea86
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 7%
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->此功能目前为测试版，如有频繁更新和修改，恕不另行通知。
+>此功能目前处于测试阶段，可能会频繁更新和修改，恕不另行通知。
 >
 >请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能。
 
