@@ -11,9 +11,9 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Adobe Campaign 为数据控制者提供了三种方法，以符合 GDPR（通用
 >
 > **ACS 19.4 中的更改：**
 > 
-> 此 [Privacy Service集成](https://developer.adobe.com/apis/experienceplatform/gdpr.html) 是您应当用于所有访问和删除请求的方法。 从 19.4 版开始，将 Campaign API 和接口用于访问和删除请求的方法已被弃用。有关 Campaign Standard 的已弃用和已删除功能的详细信息，请参阅[此页面](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=zh-Hans)。
+> [Privacy Service 集成](https://developer.adobe.com/apis/experienceplatform/gdpr.html)是您应当用于所有访问和删除请求的方法。从 19.4 版开始，将 Campaign API 和接口用于访问和删除请求的方法已被弃用。有关 Campaign Standard 的已弃用和已删除功能的详细信息，请参阅[此页面](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=zh-Hans)。
 >
 >**选择禁用个人信息销售 (CCPA)**
 >
