@@ -19,9 +19,9 @@ ht-degree: 4%
 
 # 配置 [!UICONTROL product listings] 在事务性电子邮件中
 
-您可以配置包含产品列表（在设计电子邮件时未知）的重定向电子邮件。 可在运行时从有效负载添加这些产品。 例如，您可以自动发送一封有关购物车放弃的电子邮件，其中列出用户放弃购物车之前购物车中的所有产品，并提供每个产品的图像、价格和链接。
+您可以配置重定位电子邮件，其中包含设计电子邮件时未知的产品列表。 这些产品可在运行时从有效负荷添加。 例如，您可以自动发送一封有关购物车放弃的电子邮件，其中列出用户放弃购物车之前的所有产品，并提供每个产品的图像、价格和链接。
 
-以下视频介绍了配置所需的步骤 [!UICONTROL product listings] 在 [!UICONTROL transactional emails].
+以下视频介绍配置所需的步骤 [!UICONTROL product listings] 在 [!UICONTROL transactional emails].
 
 >[!NOTE]
 >

@@ -19,6 +19,6 @@ ht-degree: 8%
 
 # 创建用户档案
 
-此视频介绍如何创建配置文件以及如何将其添加到受众。
+此视频介绍如何创建个人资料以及如何将其添加到受众。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12&learn=on)

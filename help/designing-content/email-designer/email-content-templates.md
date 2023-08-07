@@ -19,8 +19,8 @@ ht-degree: 14%
 
 # 电子邮件内容模板简介 {#introduction-to-the-email-content-templates}
 
-Adobe Campaign Standard提供了18个可完全自定义的现成响应电子邮件模板。 这些模板是专为Adobe Campaign Standard创建的，易于操作和更改。 它们是创建电子邮件的良好起点。
+Adobe Campaign Standard提供了18个可完全自定义的开箱即用型响应电子邮件模板。 这些模板是专门为Adobe Campaign Standard创建的，易于操作和更改。 它们是创建电子邮件的良好起点。
 
-此视频介绍模板，并介绍如何创建自己的模板。
+此视频介绍模板并介绍如何创建自己的模板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12&learn=on)

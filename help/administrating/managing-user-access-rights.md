@@ -1,6 +1,6 @@
 ---
 title: 管理用户访问权限
-description: 此视频介绍如何定义和管理在Adobe Campaign中分配给不同用户的权限。
+description: 此视频介绍如何在Adobe Campaign中定义和管理分配给不同用户的权限。
 feature: Access Management
 jira: KT-1814
 thumbnail: 24671.jpg
@@ -19,6 +19,6 @@ ht-degree: 18%
 
 # 管理用户访问权限
 
-此视频介绍如何定义和管理在Adobe Campaign中分配给不同用户的权限。
+此视频介绍如何在Adobe Campaign中定义和管理分配给不同用户的权限。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12&learn=on)

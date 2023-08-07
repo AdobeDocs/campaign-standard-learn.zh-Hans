@@ -3,7 +3,7 @@ user-guide-title: Adobe Campaign Standard 教程
 user-guide-description: 设计跨渠道客户体验并创建可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: Campaign Standard 教程
 source-git-commit: 3e8484650a941a3166063b8765f39a90fda6109f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '567'
 ht-degree: 100%
 

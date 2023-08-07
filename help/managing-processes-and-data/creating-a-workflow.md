@@ -22,7 +22,7 @@ ht-degree: 29%
 工作流可以在不同的上下文中使用，例如：
 
 * 定位以管理受众或发送消息
-* 数据管理(ETL)以操作数据
+* 数据管理(ETL)以处理数据
 * 将数据导入Campaign数据库
 * 数据库清理、恢复跟踪信息等技术流程。
 
@@ -30,4 +30,4 @@ ht-degree: 29%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12&learn=on)
 
-有关以下内容的更多信息，请参阅产品文档 [构建工作流（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+有关的更多信息，请参阅产品文档 [构建工作流（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)

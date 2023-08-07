@@ -19,7 +19,7 @@ ht-degree: 20%
 
 # 创建短信投放{#creating-a-sms-delivery}
 
-了解如何在Adobe Campaign Standard中创建短信投放。 您还可以使用短信投放活动，在工作流中配置短信的发送。
+了解如何在Adobe Campaign Standard中创建短信投放。 您还可以使用短信投放活动在工作流中配置短信的发送。
 
 短信投放活动用于自动发送短信。 此活动的配置与视频中描述的一次性投放的配置相同。
 

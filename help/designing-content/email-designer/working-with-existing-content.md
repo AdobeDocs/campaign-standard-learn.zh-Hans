@@ -27,7 +27,7 @@ ht-degree: 7%
 
 ## 使现有HTML内容兼容 {#making-existing-html-content-compatible}
 
-Email Designer需要特定标记，必须应用这些标记才能使上传到Adobe Campaign的标准HTML内容完全兼容并可编辑。
+Email Designer需要特定标记，必须应用这些标记才能使上传到Adobe Campaign的标准HTML内容完全兼容且可编辑。
 
 您可以在以下链接下找到详细文档：
 

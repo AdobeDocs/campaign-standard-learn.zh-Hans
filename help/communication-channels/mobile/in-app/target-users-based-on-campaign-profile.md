@@ -1,6 +1,6 @@
 ---
 title: 基于其 Campaign 用户档案的目标用户
-description: 了解如何使用CRM配置文件属性个性化的消息定位已知的移动应用程序用户。
+description: 了解如何通过CRM配置文件属性个性化的消息定位已知的移动应用程序用户。
 feature: In App
 jira: KT-1796
 thumbnail: 26200.jpg
@@ -17,8 +17,8 @@ ht-degree: 16%
 
 ---
 
-# 根据用户的 [!DNL Campaign] 个人资料
+# 基于其定位用户 [!DNL Campaign] 个人资料
 
-了解如何使用CRM配置文件属性个性化的消息定位已知的移动应用程序用户。
+了解如何通过用CRM配置文件属性个性化的消息定位已知的移动应用程序用户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)

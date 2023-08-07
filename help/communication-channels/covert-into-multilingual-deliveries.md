@@ -19,8 +19,8 @@ ht-degree: 28%
 
 # 将现有电子邮件、短信投放或投放模板转换为多语言
 
-此视频演示了如何将现有电子邮件、短信投放或投放模板轻松转换为多语言。
+此视频演示如何轻松地将现有电子邮件、短信投放或投放模板转换为多语言。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12&learn=on)
 
-有关以下内容的更多信息，请参阅产品文档 [创建多语言电子邮件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+有关的更多信息，请参阅产品文档 [创建多语言电子邮件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)

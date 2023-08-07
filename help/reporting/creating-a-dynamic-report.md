@@ -19,7 +19,7 @@ ht-degree: 32%
 
 # 创建 [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign的 [!UICONTROL Dynamic Reports] 是一个灵活的自由格式环境，您可以在其中浏览数据。 它允许您以任意组合形式组合维度、量度和时间范围，并且允许进行无限的细分和比较。
+Adobe Campaign的 [!UICONTROL Dynamic Reports] 是一个灵活的自由格式环境，您可以在其中浏览数据。 它允许您以任意组合方式组合维度、量度和时间范围，并且允许进行无限量的细分和比较。
 
 了解如何创建报告。
 

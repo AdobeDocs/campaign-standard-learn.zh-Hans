@@ -1,6 +1,6 @@
 ---
 title: 创建自定义资源
-description: 了解如何创建名为customers的自定义资源。
+description: 了解如何创建称为客户的自定义资源。
 feature: Data Model
 jira: KT-3000
 thumbnail: 27716.jpg
@@ -17,7 +17,7 @@ ht-degree: 28%
 
 # 创建自定义资源
 
-在本视频中，我们将创建第一个名为customers的自定义资源。
+在本视频中，我们将创建第一个称为客户的自定义资源。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27716?quality=9)
 

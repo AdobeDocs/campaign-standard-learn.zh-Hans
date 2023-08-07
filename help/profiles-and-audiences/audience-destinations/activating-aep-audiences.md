@@ -21,11 +21,11 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->此功能为测试版，如有频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
+>此功能处于测试阶段，可能会频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
 >
 >请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能。
 
-此视频介绍如何激活 [!UICONTROL Data Services Query Audience] 在工作流中使用 [!UICONTROL Read Audience] 活动。
+以下视频介绍了如何激活 [!UICONTROL Data Services Query Audience] 在工作流中使用 [!UICONTROL Read Audience] 活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
 

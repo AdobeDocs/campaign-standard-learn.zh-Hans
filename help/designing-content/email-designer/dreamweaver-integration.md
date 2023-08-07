@@ -27,7 +27,7 @@ Adobe Campaign Standard 与 Adobe Dreamweaver 集成允许您直接在 Dreamweav
 
 >[!NOTE]
 >
->此功能需要称为  **[!UICONTROL Adobe Campaign Integration]** 的 Dreamweaver 扩展。您可以从 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) 下载扩展。有关安装的详细信息，请参见 [适用于Dreamweaver的Campaign扩展](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
+>此功能需要称为  **[!UICONTROL Adobe Campaign Integration]** 的 Dreamweaver 扩展。您可以从 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search) 下载扩展。有关安装的详细信息，请参阅 [适用于Dreamweaver的Campaign扩展](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 此视频介绍启用 Dreamweaver 集成所需的功能以及如何使用 Dreamweaver 创建和编辑 Adobe Campaign Standard 的内容。
 
@@ -35,4 +35,4 @@ Adobe Campaign Standard 与 Adobe Dreamweaver 集成允许您直接在 Dreamweav
 
 *如何在 Adobe Campaign 中使用 Dreamweaver 集成（02:37 分钟）*
 
-请参阅Dreamweaver [Adobe Dreamweaver文档](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 有关以下项的信息 [Adobe Campaign Dreamweaver安装疑难解答](https://helpx.adobe.com/cn/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+请参阅Dreamweaver [Adobe Dreamweaver文档](https://helpx.adobe.com/cn/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 有关的信息 [Adobe Campaign Dreamweaver安装疑难解答](https://helpx.adobe.com/cn/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
