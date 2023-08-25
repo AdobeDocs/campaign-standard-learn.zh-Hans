@@ -10,9 +10,9 @@ level: Experienced
 team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
@@ -21,23 +21,11 @@ ht-degree: 100%
 
 Adobe Campaign 为数据控制者提供了三种方法，以符合 GDPR（通用数据保护条例）和 CCPA（加州消费者隐私法案）等隐私法案的方式执行个人身份信息数据的隐私访问和删除请求：
 
-* **通过隐私核心服务集成：**&#x200B;从 [!UICONTROL Privacy Service] 推送到所有 Experience Cloud 解决方案的隐私请求会通过专门工作流程由 Campaign 自动处理。要了解如何从隐私核心服务创建隐私请求，请参阅 [Adobe Experience Platform Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html)
+* **通过隐私核心服务集成：**&#x200B;从 [!UICONTROL Privacy Service] 推送到所有 Experience Cloud 解决方案的隐私请求会通过专门工作流程由 Campaign 自动处理。
 
 * **通过 API：** Adobe Campaign 提供一个 API，允许使用 REST 自动处理隐私请求
 
 * **通过 Adobe Campaign 界面：**&#x200B;数据控制者在 Adobe Campaign 中为每项隐私请求创建新的隐私请求
-
->[!NOTE]
->
-> **ACS 19.4 中的更改：**
-> 
-> [Privacy Service 集成](https://developer.adobe.com/apis/experienceplatform/gdpr.html)是您应当用于所有访问和删除请求的方法。从 19.4 版开始，将 Campaign API 和接口用于访问和删除请求的方法已被弃用。有关 Campaign Standard 的已弃用和已删除功能的详细信息，请参阅[此页面](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=zh-Hans)。
->
->**选择禁用个人信息销售 (CCPA)**
->
-> 在 Campaign 界面和 API 中提供现成的“CCPA 选择禁用”字段。
->
-> 您可以检查版本，单击右上角的 **?** 图标，然后选择“关于”。
 
 ## 视频教程
 
@@ -55,5 +43,5 @@ Adobe Campaign 为数据控制者提供了三种方法，以符合 GDPR（通用
 
 * [Campaign 的一般隐私准则](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=zh-Hans#getting-started)
 * [ACS 的 CCPA 合规](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=zh-Hans#privacy-requests)
-* [Adobe Experience Platform Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html)
+* [Adobe Experience Platform Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=zh-Hans)
 * [Adobe Campaign Standard REST API 文档](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
