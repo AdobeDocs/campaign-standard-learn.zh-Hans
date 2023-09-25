@@ -9,10 +9,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 要将客户所订购内容的其他信息用于营销和再营销，[!DNL Campaign]必须通过添加自定义表扩展数据模型。对于此用例，必须创建客户和订单表。
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?learn=on){transcript=true}
 
 本教程将介绍如何：
 

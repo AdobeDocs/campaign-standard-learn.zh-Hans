@@ -10,9 +10,9 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 4%
 
 ---
@@ -33,7 +33,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] Adobe Experience Platform�
 
 Adobe Experience Platform [!UICONTROL Data Connector] 面向了解Adobe Campaign Standard的数据工程师 [!UICONTROL custom resources] 并了解客户的整体数据架构应如何在Adobe Experience Platform中。
 
->[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){transcript=true}
 
 *此视频概述Adobe Experience Platform [!UICONTROL Data Connector] （09:35分钟）*
 

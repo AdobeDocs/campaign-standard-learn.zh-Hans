@@ -11,10 +11,10 @@ team: TM
 hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="集成" type="positive"
-source-git-commit: 7e5910000bf5af9573529f03d3e47f66807a77ed
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '87'
+ht-degree: 97%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 100%
 >
 > 请注意，Launch 现在是 Adobe Experience Platform 的标记功能。可在 **Adobe Experience Platform 数据收集**&#x200B;部分中找到它。
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}

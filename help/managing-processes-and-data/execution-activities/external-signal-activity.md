@@ -10,9 +10,9 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 了解如何配置 [!UICONTROL External Signal activity] 要从外部系统接收参数**请使用外部参数自定义工作流，并配置结束活动以使用外部参数调用工作流
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}

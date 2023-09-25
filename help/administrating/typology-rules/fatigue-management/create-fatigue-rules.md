@@ -10,10 +10,10 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
-source-git-commit: 9c3ca533c14c89fb11c37046feafa08181241405
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 26%
+source-wordcount: '94'
+ht-degree: 25%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 26%
 [!UICONTROL Fatigue rules] 允许营销人员设置全局跨渠道业务规则，以自动从营销策划中排除发送营销信息过于频繁的用户档案。
 创建 [!UICONTROL fatigue rules]，则需要定义每个用户档案的最大消息数，并选择要应用规则的时段。 在投放准备期间，会根据已发送给用户档案的消息数量，将符合条件的用户档案从投放中排除。
 
->[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){transcript=true}
 
 *如何创建 [!UICONTROL fatigue rule] （04:49分钟）*
 

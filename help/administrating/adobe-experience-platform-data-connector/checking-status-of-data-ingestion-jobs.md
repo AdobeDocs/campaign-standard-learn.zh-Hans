@@ -11,10 +11,10 @@ role: User
 level: Experienced
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 9c3ca533c14c89fb11c37046feafa08181241405
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 23%
+source-wordcount: '118'
+ht-degree: 22%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 23%
 
 了解如何检查数据引入作业的状态，以及了解数据是否已从Adobe Campaign Standard引入到Adobe Experience Platform中。
 
->[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27268?learn=on){transcript=true}
 
 ## 其他资源
 

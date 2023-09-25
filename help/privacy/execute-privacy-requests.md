@@ -10,10 +10,10 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: da796c3f-ba35-4901-8021-3f497c64ba3a
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 96%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 在 Adobe Campaign 中，隐私请求由工作流执行。此视频描述哪些工作流访问和删除请求，以及执行这些请求时发生的情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/22770?learn=on){transcript=true}

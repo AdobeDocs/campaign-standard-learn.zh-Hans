@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 99%
 
 ---
 
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 了解哪些工作流需要在 Adobe Campaign 和 Journey AI 模型之间同步数据。了解如何在个人用户档案级别查看发送时间得分以及如何使用发送时间公式执行电子邮件传递。
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
 
 请参阅产品文档，了解有关[利用 AI 支持的电子邮件优化设计和投放](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=zh-Hans)的更多信息
