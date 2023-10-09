@@ -3,7 +3,6 @@ title: 受众目标 — 概述
 description: 了解如何在Adobe Campaign Standard中使用Adobe Experience Platform受众
 feature: People Core Service Integration
 jira: KT-2755
-thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
@@ -11,10 +10,12 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
+hide: true
+hidefromtoc: true
+source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 4%
+source-wordcount: '125'
+ht-degree: 6%
 
 ---
 
@@ -29,9 +30,7 @@ ht-degree: 4%
 >联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能。
 >
 
-本教程介绍如何将Adobe Experience Platform中的集中式整合用户档案数据用于Adobe Campaign Standard中的营销活动。
-
-此 [!UICONTROL Audiences] 通过Adobe Campaign Standard中的模块，您可以使用来自以下各项的数据创建区段： [Adobe Experience Platform — 数据服务](https://developer.adobe.com/apis/experienceplatform/home/services.html) 住在 [Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+Adobe Campaign Standard中的“受众”模块允许您使用Adobe Experience Platform中的数据来创建区段 [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 以下视频教程将指导您完成不同的步骤：
 
