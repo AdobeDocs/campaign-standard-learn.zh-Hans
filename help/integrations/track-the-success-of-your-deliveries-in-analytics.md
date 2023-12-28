@@ -12,9 +12,9 @@ team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="集成" type="positive"
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '100'
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/332576/?learn=on){transcript=true}
 
-关于[了解和创建报告包](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hans#intro-to-analytics)的更多信息，请参考 Adobe Analytics 产品指南。
+有关[了解和创建报告包](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hans#intro-to-analytics)的更多信息，请参阅 Adobe Analytics 产品指南。
