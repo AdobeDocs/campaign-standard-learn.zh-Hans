@@ -5,8 +5,8 @@ breadcrumb-title: Campaign Standard 教程
 auto-video-transcripts: true
 source-git-commit: dcbc833ea7dce4821b183f231775b4d4c1eaf8d3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '516'
+ht-degree: 98%
 
 ---
 
