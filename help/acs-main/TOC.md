@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Campaign Standard 教程
-user-guide-description: Adobe Campaign Standard 视频和教程。
+user-guide-description: Adobe Campaign Standard 的视频和教程。
 breadcrumb-title: Campaign Standard 教程
 auto-video-transcripts: true
 source-git-commit: dcbc833ea7dce4821b183f231775b4d4c1eaf8d3
