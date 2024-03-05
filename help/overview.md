@@ -5,14 +5,14 @@ products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
-source-git-commit: ff7a80a06eb16a8b30202bec8fc82bf46b19e28a
+source-git-commit: de9f1bc51e95330b3c6a04426d11de2aea845697
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
 ---
 
-# Adobe Campaign Standard - 概述
+# Adobe Campaign Standard 教程
 
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 
