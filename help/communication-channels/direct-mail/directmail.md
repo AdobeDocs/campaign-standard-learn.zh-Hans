@@ -12,23 +12,23 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
-# 创建 [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# 创建[!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-此 [!UICONTROL Direct Mail] 渠道允许您提取要发送到机构或上传到SFTP服务器的分段收件人列表。
+[!UICONTROL Direct Mail]渠道允许您提取要发送到机构或上传到SFTP服务器的收件人分段列表。
 
-此视频介绍如何配置 [!UICONTROL Direct Mail] 交付，以及要将用户档案添加到需要哪些设置 [!UICONTROL Direct Mail] 投放。
+此视频介绍如何配置[!UICONTROL Direct Mail]投放以及向[!UICONTROL Direct Mail]投放添加配置文件所需的设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
 
-## 创建 [!UICONTROL Direct Mail] 在工作流中
+## 在工作流中创建[!UICONTROL Direct Mail]
 
-该渠道可从主页和工作流视图中使用，以定义具有凝聚力的跨渠道营销策略。 以下示例工作流包括 [!UICONTROL Direct Mail activity].
+该渠道可从主页和工作流视图中使用，以定义具有凝聚力的跨渠道营销策略。 以下示例工作流包含[!UICONTROL Direct Mail activity]。
 
 ![工作流图像](/help/assets/direct_mail_examplewf.png)
 
-请参阅产品文档以了解更多信息 [关于直邮](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+请参阅产品文档，以了解[有关直邮的更多信息](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

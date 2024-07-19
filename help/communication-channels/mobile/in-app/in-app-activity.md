@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 11%
+ht-degree: 15%
 
 ---
 
-# 创建 [!UICONTROL In-App] 工作流中的投放
+# 在工作流中创建[!UICONTROL In-App]投放
 
 了解如何使用应用程序内投放活动，自动将应用程序内消息发送到在工作流中计算的目标受众。
 

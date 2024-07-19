@@ -1,5 +1,5 @@
 ---
-title: 在Email Designer中配置移动视图
+title: 在电子邮件Designer中配置移动视图
 description: “了解如何通过单独编辑移动设备显示的所有样式选项来优化电子邮件的响应式设计。”
 feature: Email Design
 jira: KT-2423
@@ -13,11 +13,11 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 在中配置移动视图 [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# 在[!UICONTROL Email Designer]中配置移动视图 {#configure-the-mobile-view}
 
 此视频介绍如何通过单独编辑移动设备显示的所有样式选项来优化电子邮件的响应式设计。
 

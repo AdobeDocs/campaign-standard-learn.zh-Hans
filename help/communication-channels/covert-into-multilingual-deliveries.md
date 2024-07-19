@@ -12,8 +12,8 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 27%
+source-wordcount: '71'
+ht-degree: 33%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 27%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-有关的更多信息，请参阅产品文档 [创建多语言电子邮件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+有关[创建多语言电子邮件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)的更多信息，请参阅产品文档

@@ -12,15 +12,15 @@ role: Admin
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 8%
+source-wordcount: '95'
+ht-degree: 11%
 
 ---
 
 
-# 使用配置移动应用程序 [!UICONTROL Adobe Experience Platform SDK]
+# 使用[!UICONTROL Adobe Experience Platform SDK]配置移动应用程序
 
-发送应用程序内消息或 [!UICONTROL push notifications] 使用Mobile SDK V5时，必须在中设置移动设备应用程序 [!UICONTROL Adobe Experience Platform Launch] 并在Adobe Campaign中进行配置。
+要使用Mobile SDK V5发送应用程序内消息或[!UICONTROL push notifications]，必须在[!UICONTROL Adobe Experience Platform Launch]中设置移动应用程序并在Adobe Campaign中进行配置。
 
 以下视频演示了在Experience Platform Launch中配置移动应用程序所需的步骤：
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->请参阅 [在中配置应用程序 [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) 详细文档和视频中使用的代码模板。
+>有关视频中使用的详细文档和代码模板，请参阅[在[!UICONTROL Launch]中配置应用程序](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)。

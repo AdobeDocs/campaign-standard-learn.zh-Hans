@@ -1,5 +1,5 @@
 ---
-title: 创建用户档案
+title: 创建配置文件
 description: 了解如何创建配置文件以及如何将其添加到受众。
 feature: Profiles, Audiences
 jira: KT-1820
@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 7%
+ht-degree: 13%
 
 ---
 

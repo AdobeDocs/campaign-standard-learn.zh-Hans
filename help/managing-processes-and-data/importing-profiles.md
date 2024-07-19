@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 17%
+ht-degree: 21%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 17%
 
 您可以从文件中收集数据以对其进行处理和/或将其导入Adobe Campaign数据库。
 
-此视频介绍如何使用 [!UICONTROL Data Management] 工作流中用于导入用户档案数据的活动。
+此视频介绍如何在工作流中使用[!UICONTROL Data Management]活动来导入用户档案数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}

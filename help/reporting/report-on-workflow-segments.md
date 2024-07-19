@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 16%
+source-wordcount: '78'
+ht-degree: 20%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 16%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-欲了解更多信息，请参见 [文档](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

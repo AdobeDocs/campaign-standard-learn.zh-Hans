@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 36%
+ht-degree: 39%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign有两种类型或配置文件：
 * 已识别的用户档案
 * 测试用户档案
 
-根据一个或多个通用标准分组的用户档案称为 **受众**.
+根据一个或多个通用条件分组的用户档案称为&#x200B;**受众**。
 
 此视频介绍如何导航到现有配置文件以及如何在Adobe Campaign Standard中创建配置文件和受众。
 

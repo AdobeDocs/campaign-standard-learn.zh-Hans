@@ -1,6 +1,6 @@
 ---
-title: 向传递添加控制组
-description: 了解如何为您的传递定义控制组，以及如何在发送传递后提取分配给控制组的用户档案。
+title: 向传递添加对照组
+description: 了解如何为您的传递定义对照组，以及如何在发送传递后提取分配给对照组的用户档案。
 feature: Control Groups
 jira: KT-5060
 thumbnail: 40684.jpg
@@ -13,7 +13,7 @@ level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 

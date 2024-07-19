@@ -13,13 +13,13 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 44%
+ht-degree: 47%
 
 ---
 
 # 创建电子邮件投放 {#create-an-email-delivery}
 
-您可以从营销策划、Adobe Campaign主页或在 [!UICONTROL Marketing Activity] 列表。 您还可以根据工作流创建和发送单次发送和定期电子邮件。
+您可以从营销活动、Adobe Campaign主页或[!UICONTROL Marketing Activity]列表中创建独立的电子邮件投放。 您还可以根据工作流创建和发送单次发送和定期电子邮件。
 
 了解如何从主页创建电子邮件投放。
 

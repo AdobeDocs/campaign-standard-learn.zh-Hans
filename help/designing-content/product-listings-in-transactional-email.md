@@ -12,16 +12,16 @@ role: User, Developer
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 4%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 
-# 配置 [!UICONTROL product listings] 在事务性电子邮件中
+# 在事务性电子邮件中配置[!UICONTROL product listings]
 
 您可以配置重定位电子邮件，其中包含设计电子邮件时未知的产品列表。 这些产品可在运行时从有效负荷添加。 例如，您可以自动发送一封有关购物车放弃的电子邮件，其中列出用户放弃购物车之前的所有产品，并提供每个产品的图像、价格和链接。
 
-以下视频介绍配置所需的步骤 [!UICONTROL product listings] 在 [!UICONTROL transactional emails].
+以下视频介绍在[!UICONTROL transactional emails]中配置[!UICONTROL product listings]所需的步骤。
 
 >[!NOTE]
 >

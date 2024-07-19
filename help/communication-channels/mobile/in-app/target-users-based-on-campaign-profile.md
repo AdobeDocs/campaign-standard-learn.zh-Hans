@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 15%
+ht-degree: 20%
 
 ---
 
-# 基于其定位用户 [!DNL Campaign] 个人资料
+# 基于其[!DNL Campaign]配置文件定位用户
 
 了解如何通过用CRM配置文件属性个性化的消息定位已知的移动应用程序用户。
 

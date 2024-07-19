@@ -14,8 +14,8 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 9%
+source-wordcount: '162'
+ht-degree: 11%
 
 ---
 
@@ -23,15 +23,15 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->此功能处于测试阶段，可能会频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations] 基于Adobe Experience Platform，需要特定配置。
+>此功能处于测试阶段，可能会频繁更新和修改，恕不另行通知。 [!UICONTROL Audience Destinations]基于Adobe Experience Platform，需要特定配置。
 >
->请联系 [!UICONTROL Adobe Customer Support] 如果您计划实施此功能。
+>如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 
-Adobe Campaign Standard允许您使用Adobe Experience Cloud中的数据构建受众 [Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) 通过使用Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Adobe Campaign Standard允许您使用Adobe Experience Platform [!UICONTROL Unified Segment Builder]，通过Adobe Experience Cloud [实时客户个人资料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en)中的数据构建受众。
 
-您可以访问 [!UICONTROL Unified Segment Builder] 直接在Adobe Campaign Standard中通过 [!UICONTROL Audiences] 模块。 它允许您直接在中管理这些受众 [!UICONTROL Audiences] 列表视图，您可以在其中直接从Adobe Campaign界面编辑或创建Adobe Experience Platform受众
+您可以通过[!UICONTROL Audiences]模块，直接在Adobe Campaign Standard中访问[!UICONTROL Unified Segment Builder]。 它允许您直接在[!UICONTROL Audiences]列表视图中管理这些受众，您可以在其中直接从Adobe Campaign界面编辑或创建Adobe Experience Platform受众
 
-以下视频介绍如何使用创建新受众 [!UICONTROL Unified Segment Builder] 在Adobe Campaign Standard中。
+以下视频介绍如何在Adobe Campaign Standard中使用[!UICONTROL Unified Segment Builder]创建新受众。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 

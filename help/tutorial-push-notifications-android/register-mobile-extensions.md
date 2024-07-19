@@ -11,8 +11,8 @@ team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 13%
+source-wordcount: '110'
+ht-degree: 14%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 13%
 
 在此部分中，我们添加了用于注册用户配置文件、身份、生命周期和信号扩展的代码。 我们还必须注册Adobe Campaign Standard扩展，如以下代码中所示。
 
-在中打开您的项目 [!DNL Android] 工作室。 删除MainApp中的整个代码 **除了第一行，即您的包语句**.
+在[!DNL Android]工作室中打开您的项目。 删除MainApp **中的整个代码，但第一行是您的包语句**&#x200B;除外。
 
 将以下代码粘贴到MainApp中
 
@@ -70,6 +70,6 @@ try{
 }
 ```
 
-第32行，您必须提供[!UICONTROL  Launch] 属性的环境文件ID。 这可以从以下位置访问 [!UICONTROL environment tab] 的 [!UICONTROL Launch] 属性。
+第32行，您必须提供[!UICONTROL  Launch]属性的环境文件ID。 可从[!UICONTROL Launch]属性的[!UICONTROL environment tab]访问。
 
-![launch-id](assets/launch-id-property.PNG)
+![启动ID](assets/launch-id-property.PNG)

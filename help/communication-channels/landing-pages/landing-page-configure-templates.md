@@ -14,12 +14,12 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 20%
+ht-degree: 29%
 
 ---
 
-# 配置 [!UICONTROL landing page template]
+# 配置[!UICONTROL landing page template]
 
-以下视频介绍了如何配置 [!UICONTROL landing page] 模板。
+此视频介绍如何配置[!UICONTROL landing page]模板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}

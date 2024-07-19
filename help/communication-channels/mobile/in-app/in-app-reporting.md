@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
-# 报告 [!UICONTROL In-App] 投放 {#in-app-message-reporting}
+# 报告[!UICONTROL In-App]投放 {#in-app-message-reporting}
 
 了解如何向用户展示与上下文相关的应用程序内消息，以响应客户在移动应用程序中的实时行为。
 

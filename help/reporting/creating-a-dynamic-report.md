@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 31%
+source-wordcount: '55'
+ht-degree: 36%
 
 ---
 
-# 创建 [!UICONTROL Dynamic Report]{#creating-a-report}
+# 创建[!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign的 [!UICONTROL Dynamic Reports] 是一个灵活的自由格式环境，您可以在其中浏览数据。 它允许您以任意组合方式组合维度、量度和时间范围，并且允许进行无限量的细分和比较。
+Adobe Campaign的[!UICONTROL Dynamic Reports]是一个灵活的自由格式环境，您可以在其中浏览数据。 它允许您以任意组合方式组合维度、量度和时间范围，并且允许进行无限量的细分和比较。
 
 了解如何创建报告。
 
