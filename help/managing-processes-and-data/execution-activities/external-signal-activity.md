@@ -24,4 +24,4 @@ ht-degree: 0%
 
 了解如何配置[!UICONTROL External Signal activity]以从外部系统接收参数**、使用外部参数自定义工作流以及配置结束活动以使用外部参数调用工作流
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34319/?learn=on&captions=chi_hans){transcript=true}

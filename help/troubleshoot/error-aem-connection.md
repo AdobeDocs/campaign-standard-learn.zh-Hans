@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何在从 Campaign Standard 连接到 Experience Manager 时，解决服务“nms:delivery”出现的错误“GetAEMContentList”。
 
->[!VIDEO](https://video.tv.adobe.com/v/335897?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436887?learn=on&captions=chi_hans){transcript=true}

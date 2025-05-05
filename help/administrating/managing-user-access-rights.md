@@ -21,4 +21,4 @@ ht-degree: 18%
 
 此视频介绍如何在Adobe Campaign中定义和管理分配给不同用户的权限。
 
->[!VIDEO](https://video.tv.adobe.com/v/24671?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35856?learn=on&captions=chi_hans){transcript=true}

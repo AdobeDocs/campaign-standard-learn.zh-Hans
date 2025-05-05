@@ -21,4 +21,4 @@ ht-degree: 9%
 
 了解如何向用户展示与上下文相关的应用程序内消息，以响应客户在移动应用程序中的实时行为。
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34755?learn=on&captions=chi_hans){transcript=true}

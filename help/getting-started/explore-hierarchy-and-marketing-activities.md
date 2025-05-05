@@ -21,5 +21,5 @@ ht-degree: 0%
 
 此视频介绍项目和活动的层级，如何创建营销项目，以及如何在项目中创建营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38389?learn=on&captions=chi_hans){transcript=true}
 

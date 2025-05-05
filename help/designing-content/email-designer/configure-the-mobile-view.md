@@ -21,4 +21,4 @@ ht-degree: 0%
 
 此视频介绍如何通过单独编辑移动设备显示的所有样式选项来优化电子邮件的响应式设计。
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39675?learn=on&captions=chi_hans){transcript=true}

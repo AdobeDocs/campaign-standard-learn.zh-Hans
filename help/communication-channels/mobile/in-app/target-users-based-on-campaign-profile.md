@@ -21,4 +21,4 @@ ht-degree: 16%
 
 了解如何通过用CRM配置文件属性个性化的消息定位已知的移动应用程序用户。
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35370?learn=on&captions=chi_hans){transcript=true}

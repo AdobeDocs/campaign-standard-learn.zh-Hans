@@ -29,4 +29,4 @@ Adobe Campaign允许您将个性化的分段[!UICONTROL push notifications]发�
 
 此视频介绍如何发送[!DNL push notification to app subscribers]。
 
->[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35535?learn=on&captions=chi_hans){transcript=true}

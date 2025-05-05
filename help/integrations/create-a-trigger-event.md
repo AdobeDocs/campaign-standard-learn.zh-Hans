@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解如何在 Campaign Standard 中创建触发事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446419?learn=on&captions=chi_hans){transcript=true}

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解如何使用来自触发器的实时事件数据配置事务性消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450212?learn=on&captions=chi_hans){transcript=true}

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何在 Experience Cloud 中配置触发器。
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446148?learn=on&captions=chi_hans){transcript=true}

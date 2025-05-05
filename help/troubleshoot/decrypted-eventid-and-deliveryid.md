@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何在 Campaign Standard 中获取解密的事件 ID 和投放 ID。
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437897?learn=on&captions=chi_hans){transcript=true}

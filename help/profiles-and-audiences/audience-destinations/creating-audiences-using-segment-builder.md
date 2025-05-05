@@ -33,6 +33,6 @@ Adobe Campaign Standard允许您使用Adobe Experience Platform [!UICONTROL Unif
 
 以下视频介绍如何在Adobe Campaign Standard中使用[!UICONTROL Unified Segment Builder]创建新受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38522?learn=on&captions=chi_hans){transcript=true}
 
 *如何使用统一区段生成器在Adobe Campaign Standard中创建受众（最小值02:47）*

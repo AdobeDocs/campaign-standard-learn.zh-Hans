@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何对在 Campaign Standard 中查看用户档案时发生的技术错误进行故障排除。
 
->[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436606?learn=on&captions=chi_hans){transcript=true}

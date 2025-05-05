@@ -23,4 +23,4 @@ ht-degree: 18%
 
 此视频介绍如何在工作流中使用[!UICONTROL Data Management]活动来导入用户档案数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328387?learn=on&captions=chi_hans){transcript=true}

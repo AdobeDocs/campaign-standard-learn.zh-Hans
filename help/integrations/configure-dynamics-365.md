@@ -21,6 +21,6 @@ ht-degree: 100%
 
 了解如何配置 Microsoft® Dynamics 365，以便用于 Dynamics 和 Campaign Standard 集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/27637?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34833?learn=on&captions=chi_hans){transcript=true}
 
 请参阅产品文档，以详细了解如何[开始使用 Microsoft® Dynamics 365 集成](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=zh-Hans)

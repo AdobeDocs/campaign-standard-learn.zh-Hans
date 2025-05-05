@@ -22,6 +22,6 @@ ht-degree: 100%
 
 了解如何配置 Campaign Standard 和 Analytics 集成。了解如何使用从 Campaign Standard 接收的数据在 Analytics 中构建报表，以及有哪些 KPI 可用。
 
->[!VIDEO](https://video.tv.adobe.com/v/332576/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449050/?learn=on&captions=chi_hans){transcript=true}
 
 关于[了解和创建报告包](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hans#intro-to-analytics)的更多信息，请参考 Adobe Analytics 产品指南。

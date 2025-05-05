@@ -21,4 +21,4 @@ ht-degree: 100%
 
 此视频重点介绍实现真正跨渠道编排的潜在后续步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33572?learn=on&captions=chi_hans){transcript=true}

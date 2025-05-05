@@ -21,4 +21,4 @@ ht-degree: 27%
 
 此视频介绍如何测试登陆页面以及如何发布该页面。
 
->[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37487?learn=on&captions=chi_hans){transcript=true}

@@ -25,4 +25,4 @@ ht-degree: 100%
 
 了解如何为您的 [!UICONTROL delivery] 定义 [!UICONTROL control group]，以及如何在发送 [!UICONTROL delivery] 后提取分配给 [!UICONTROL control group] 的用户档案。
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328537?learn=on&captions=chi_hans){transcript=true}

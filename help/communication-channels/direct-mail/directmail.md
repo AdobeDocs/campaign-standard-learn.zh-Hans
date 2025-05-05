@@ -23,7 +23,7 @@ ht-degree: 0%
 
 此视频介绍如何配置[!UICONTROL Direct Mail]投放以及向[!UICONTROL Direct Mail]投放添加配置文件所需的设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328364?learn=on&captions=chi_hans){transcript=true}
 
 ## 在工作流中创建[!UICONTROL Direct Mail]
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 通过 Adobe Campaign，您可以规划营销活动，其中可创建和管理不同类型的活动：电子邮件、短信、[!UICONTROL push notifications]、工作流、登陆页面。这些营销策划及其内容可以收集成到项目中。此视频将向您展示如何在 Adobe Campaign 中创建和管理活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/24672?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328407?learn=on&captions=chi_hans){transcript=true}

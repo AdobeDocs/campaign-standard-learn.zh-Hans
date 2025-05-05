@@ -21,4 +21,4 @@ ht-degree: 100%
 
 此视频提供了 Adobe Campaign Standard 用户界面的概要说明，并介绍了如何导航到主要功能和核心功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/18469?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39552?learn=on&captions=chi_hans){transcript=true}

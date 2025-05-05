@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何为隐私请求创建命名空间。
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29422?learn=on&captions=chi_hans){transcript=true}

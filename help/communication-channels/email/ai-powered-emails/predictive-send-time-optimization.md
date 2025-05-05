@@ -28,6 +28,6 @@ ht-degree: 0%
 
 了解哪些工作流需要在 Adobe Campaign 和 Journey AI 模型之间同步数据。了解如何在个人用户档案级别查看发送时间得分以及如何使用发送时间公式执行电子邮件传递。
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328458?learn=on&captions=chi_hans){transcript=true}
 
 请参阅产品文档，了解有关[利用 AI 支持的电子邮件优化设计和投放](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=zh-Hans)的更多信息

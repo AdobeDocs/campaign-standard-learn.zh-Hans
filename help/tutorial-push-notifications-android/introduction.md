@@ -24,7 +24,7 @@ ht-degree: 0%
 ## 先决条件
 
 * 您应当已经使用 Adobe Campaign Standard 扩展配置了 Platform Launch 属性。请按照下面列出的在线帮助内容进行操作。
-   * [视频教程](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+   * [视频教程](https://video.tv.adobe.com/v/40905?learn=on&captions=chi_hans){transcript=true}
    * [文档](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=zh-Hans)
 
 * 确保将 Adobe Campaign Standard 中相应属性的状态设置为已配置。

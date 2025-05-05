@@ -21,4 +21,4 @@ ht-degree: 12%
 
 了解如何使用应用程序内投放活动，自动将应用程序内消息发送到在工作流中计算的目标受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38573?learn=on&captions=chi_hans){transcript=true}

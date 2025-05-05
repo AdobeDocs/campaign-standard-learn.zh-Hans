@@ -21,4 +21,4 @@ ht-degree: 0%
 
 此视频概述 Adobe Campaign Standard 的报告功能
 
->[!VIDEO](https://video.tv.adobe.com/v/29461?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33577?learn=on&captions=chi_hans){transcript=true}

@@ -23,7 +23,7 @@ Adobe Campaign的[!UICONTROL Dynamic Reports]是一个灵活的自由格式环�
 
 此视频介绍如何根据自定义用户档案属性创建报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33031?learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源
 

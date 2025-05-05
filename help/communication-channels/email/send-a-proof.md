@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何在将电子邮件消息发送给最终收件人之前对其进行测试。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446228/?learn=on&captions=chi_hans){transcript=true}

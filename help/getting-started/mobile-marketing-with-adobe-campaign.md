@@ -21,4 +21,4 @@ ht-degree: 100%
 
 此视频介绍哪些 Adobe Campaign Standard 功能可支持您的移动营销战略。
 
->[!VIDEO](https://video.tv.adobe.com/v/29468?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33574?learn=on&captions=chi_hans){transcript=true}

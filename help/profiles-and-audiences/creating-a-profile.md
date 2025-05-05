@@ -21,4 +21,4 @@ ht-degree: 8%
 
 此视频介绍如何创建个人资料以及如何将其添加到受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328382/?learn=on&captions=chi_hans){transcript=true}

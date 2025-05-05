@@ -21,7 +21,7 @@ ht-degree: 17%
 
 Adobe Campaign允许您构建登陆页面，这些在线表单可用于捕获受众信息、提供服务订阅、显示数据和扩展数据库。 登陆页面还可用于获取或更新现有用户档案。
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35533?learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源
 

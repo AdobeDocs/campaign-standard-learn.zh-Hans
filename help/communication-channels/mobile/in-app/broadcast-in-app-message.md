@@ -21,4 +21,4 @@ ht-degree: 19%
 
 了解如何配置和使用广播模板来定位移动应用程序的所有用户。
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40919?learn=on&captions=chi_hans){transcript=true}

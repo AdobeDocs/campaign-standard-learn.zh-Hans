@@ -29,7 +29,7 @@ ht-degree: 6%
 
 此视频介绍如何使用[!UICONTROL Read Audience]活动在工作流中激活[!UICONTROL Data Services Query Audience]。
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34318?learn=on&captions=chi_hans){transcript=true}
 
 *在工作流中激活Adobe Experience Platform受众（02:37分钟）*
 

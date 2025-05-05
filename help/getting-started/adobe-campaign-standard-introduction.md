@@ -21,4 +21,4 @@ ht-degree: 0%
 
 此视频介绍 [!UICONTROL Adobe Campaign Standard] 并提供主要功能的高级概述。
 
->[!VIDEO](https://video.tv.adobe.com/v/29430?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33569?learn=on&captions=chi_hans){transcript=true}

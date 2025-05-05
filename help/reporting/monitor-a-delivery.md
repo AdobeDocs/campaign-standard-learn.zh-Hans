@@ -20,4 +20,4 @@ ht-degree: 27%
 
 了解消息日志、作业日志和投放日志。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445044/?learn=on&captions=chi_hans){transcript=true}

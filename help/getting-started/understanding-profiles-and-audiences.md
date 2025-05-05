@@ -21,4 +21,4 @@ ht-degree: 0%
 
 此视频介绍该概念以及如何创建用户档案和受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38377?learn=on&captions=chi_hans){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 33%
 
 了解如何在Adobe Campaign Standard中创建多语言推送通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/23304?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37480?learn=on&captions=chi_hans){transcript=true}

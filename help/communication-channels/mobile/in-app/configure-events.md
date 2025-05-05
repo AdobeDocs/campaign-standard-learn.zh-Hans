@@ -21,4 +21,4 @@ ht-degree: 8%
 
 了解哪些用户启动的操作会触发应用程序内消息，并了解如何配置这些事件。
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40912?learn=on&captions=chi_hans){transcript=true}

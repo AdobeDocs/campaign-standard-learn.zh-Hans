@@ -21,4 +21,4 @@ ht-degree: 0%
 
 此视频介绍如何可以更改 Adobe Campaign Standard 中列表视图的显示列、顺序和排序顺序。
 
->[!VIDEO](https://video.tv.adobe.com/v/25288/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328385/?learn=on&captions=chi_hans){transcript=true}

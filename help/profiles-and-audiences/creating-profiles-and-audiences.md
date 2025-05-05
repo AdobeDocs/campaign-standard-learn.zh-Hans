@@ -28,4 +28,4 @@ Adobe Campaign有两种类型或配置文件：
 
 此视频介绍如何导航到现有配置文件以及如何在Adobe Campaign Standard中创建配置文件和受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38369/?learn=on&captions=chi_hans){transcript=true}

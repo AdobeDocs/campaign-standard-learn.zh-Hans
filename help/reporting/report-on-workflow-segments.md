@@ -23,6 +23,6 @@ ht-degree: 18%
 
 了解如何在工作流中定义区段并将区段定义到动态报表。
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33069?learn=on&captions=chi_hans){transcript=true}
 
 有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=zh-Hans)

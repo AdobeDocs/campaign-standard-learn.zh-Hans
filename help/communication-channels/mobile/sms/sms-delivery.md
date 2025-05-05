@@ -23,4 +23,4 @@ ht-degree: 20%
 
 短信投放活动用于自动发送短信。 此活动的配置与视频中描述的一次性投放的配置相同。
 
->[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328379/?learn=on&captions=chi_hans){transcript=true}

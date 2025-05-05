@@ -23,4 +23,4 @@ ht-degree: 31%
 
 此视频介绍如何在Adobe Campaign Standard (ACS)中发送测试电子邮件、准备然后发送电子邮件投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328370?learn=on&captions=chi_hans){transcript=true}

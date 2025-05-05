@@ -31,4 +31,4 @@ Adobe Campaign允许您通过一系列服务创建和管理新闻通讯和跨渠
 
 本视频向您说明如何创建服务和管理其订阅。
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328373?learn=on&captions=chi_hans){transcript=true}

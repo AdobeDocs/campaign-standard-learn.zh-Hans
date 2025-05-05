@@ -23,6 +23,6 @@ ht-degree: 100%
 
 了解如何在 Adobe Campaign Standard 用户界面中手动创建隐私请求并跟踪其演变。
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340814?learn=on&captions=chi_hans){transcript=true}
 
 有关 [Campaign 的一般隐私准则](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=zh-Hans)的更多信息，请参阅产品文档。

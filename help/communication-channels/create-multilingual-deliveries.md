@@ -23,4 +23,4 @@ ht-degree: 0%
 
 此视频介绍如何基于电子邮件新闻稿示例中的模板创建多语言投放。 视频中演示的方法适用于电子邮件和短信投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37479?learn=on&captions=chi_hans){transcript=true}

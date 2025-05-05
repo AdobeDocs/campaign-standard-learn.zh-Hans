@@ -21,4 +21,4 @@ ht-degree: 100%
 
 此视频介绍 [!UICONTROL Email Designer] 的一般功能以及如何从头开始设计电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/25912?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327695?learn=on&captions=chi_hans){transcript=true}
