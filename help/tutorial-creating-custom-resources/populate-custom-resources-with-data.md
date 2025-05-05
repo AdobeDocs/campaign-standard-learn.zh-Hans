@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-有关如何通过[!DNL API]填充自定义资源的详细信息，请参阅文档： [与自定义资源交互](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html)。
+有关如何通过[!DNL API]填充自定义资源的详细信息，请参阅文档： [与自定义资源交互](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=zh-Hans)。

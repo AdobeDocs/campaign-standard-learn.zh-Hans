@@ -33,4 +33,4 @@ ht-degree: 6%
 
 *在工作流中激活Adobe Experience Platform受众（02:37分钟）*
 
-请参阅产品文档，了解如何[将Adobe Experience Platform受众纳入Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+请参阅产品文档，了解如何[将Adobe Experience Platform受众纳入Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=zh-Hans)

@@ -31,4 +31,4 @@ ht-degree: 8%
 
 您可以在以下链接下找到详细文档：
 
-[将HTML内容转换为电子邮件Designer模板](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[将HTML内容转换为电子邮件Designer模板](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=zh-Hans)

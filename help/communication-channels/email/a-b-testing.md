@@ -25,4 +25,4 @@ Adobe Campaign中的[!UICONTROL A/B Test]功能允许您定义两到三个电子
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-有关如何测试内容或发件人的更多详细信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)。
+有关如何测试内容或发件人的更多详细信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=zh-Hans)。

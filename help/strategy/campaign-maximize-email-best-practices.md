@@ -140,4 +140,4 @@ ht-degree: 0%
 
 有关本文回顾和实施重新接触策略的实时演示，请观看我们的[网络研讨会](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)。
 
-在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解有关战略和思想领导力的更多信息。
+在[客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hans)中心了解有关战略和思想领导力的更多信息。

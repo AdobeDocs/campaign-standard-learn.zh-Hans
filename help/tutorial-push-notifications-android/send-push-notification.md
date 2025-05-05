@@ -32,5 +32,5 @@ ht-degree: 2%
 
 ## 其他资源
 
-* [有关推送通知的详细文档](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
+* [有关推送通知的详细文档](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=zh-Hans)
 * [创建推送通知（视频）](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

@@ -29,4 +29,4 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
 
-有关[映射定义](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)的详细信息，请参阅产品文档
+有关[映射定义](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=zh-Hans)的详细信息，请参阅产品文档

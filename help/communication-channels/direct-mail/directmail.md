@@ -31,4 +31,4 @@ ht-degree: 0%
 
 ![工作流图像](/help/assets/direct_mail_examplewf.png)
 
-请参阅产品文档，以了解[有关直邮的更多信息](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+请参阅产品文档，以了解[有关直邮的更多信息](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=zh-Hans)

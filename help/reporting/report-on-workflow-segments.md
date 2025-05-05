@@ -25,4 +25,4 @@ ht-degree: 18%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+有关详细信息，请参阅[文档](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=zh-Hans)

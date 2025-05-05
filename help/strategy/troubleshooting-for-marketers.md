@@ -58,7 +58,7 @@ ht-degree: 0%
 
 具有协调详细信息的![工作流](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-了解有关[协调](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation)的详细信息。
+了解有关[协调](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation)的详细信息。
 
 ## 通用字段数据集错误
 

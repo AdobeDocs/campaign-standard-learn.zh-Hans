@@ -23,4 +23,4 @@ ht-degree: 31%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-有关[创建多语言电子邮件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)的更多信息，请参阅产品文档
+有关[创建多语言电子邮件](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=zh-Hans)的更多信息，请参阅产品文档
