@@ -70,6 +70,6 @@ try{
 }
 ```
 
-第32行，您必须提供[!UICONTROL  Launch]属性的环境文件ID。 可从[!UICONTROL Launch]属性的[!UICONTROL environment tab]访问。
+第32行，您必须提供[!UICONTROL &#x200B; Launch]属性的环境文件ID。 可从[!UICONTROL Launch]属性的[!UICONTROL environment tab]访问。
 
 ![启动ID](assets/launch-id-property.PNG)
