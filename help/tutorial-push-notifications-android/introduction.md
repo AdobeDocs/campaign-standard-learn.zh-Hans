@@ -9,9 +9,9 @@ team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '211'
+ht-degree: 100%
 
 ---
 
@@ -23,12 +23,12 @@ ht-degree: 0%
 
 ## 先决条件
 
-* 您应当已经使用 Adobe Campaign Standard 扩展配置了 Platform Launch 属性。请按照下面列出的在线帮助内容进行操作。
-   * [视频教程](https://video.tv.adobe.com/v/40905?learn=on&captions=chi_hans){transcript=true}
+* 您应当已经使用 Adobe Campaign Standard 扩展配置了 Platform Launch 属性。 请按照下面列出的在线帮助内容进行操作。
+   * [视频教程](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [文档](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=zh-Hans)
 
 * 确保将 Adobe Campaign Standard 中相应属性的状态设置为已配置。
-* [具备活动的 Google Firebase 帐户](https://firebase.google.com)
+* [拥有一个有效的 Google Firebase 帐户](https://firebase.google.com)
 * [已安装最新版 Android™ Studio](https://developer.android.com/studio)
 
 ## 教程步骤

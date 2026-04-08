@@ -4,9 +4,9 @@ user-guide-description: Adobe Campaign Standard 的视频和教程。
 breadcrumb-title: Campaign Standard 教程
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 91%
+workflow-type: ht
+source-wordcount: '604'
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 91%
    + [报告简介](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [使用 Adobe Campaign 开展移动营销](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [使用 Adobe Campaign 实现增长](/help/getting-started/growing-with-adobe-campaign.md)
-+ 轮廓和受众  {#profiles-and-audiences}
++ 轮廓和受众 {#profiles-and-audiences}
    + [创建轮廓和受众 - 概述](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [创建轮廓](/help/profiles-and-audiences/creating-a-profile.md)
    + [创建测试轮廓](/help/profiles-and-audiences/test-profiles.md)
    + [用工作流导入轮廓](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服务和订阅](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + 受众目标(BETA){#audience-destinations}
+   + Audience Destinations（Beta 版）{#audience-destinations}
       + [概述](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [使用统一区段构建器创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [在工作流中启动 Adobe Experience Platform 受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
@@ -50,12 +50,12 @@ ht-degree: 91%
       + [将现有电子邮件、短信投放或投放模板转换为多语言](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [查看电子邮件投放和报告](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [通过工作流创建和发送电子邮件](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + AI提供技术支持的电子邮件 {#journey-ai}
+      + AI 驱动的电子邮件 {#journey-ai}
          + [预测发送时间优化](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [预测参与度评分](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 移动设备 {#mobile}
       + 短信{#sms}
-         + [创建短信投放。](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [创建短信投放](/help/communication-channels/mobile/sms/sms-delivery.md)
       + 推送通知 {#push}
          + [创建推送通知](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [创建多语言推送通知](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -102,12 +102,12 @@ ht-degree: 91%
       + [在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中创建触发器事件](/help/integrations/create-a-trigger-event.md)
       + [使用实时事件数据配置事务性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [配置 Microsoft](/help/integrations/configure-dynamics-365.md)
+   + [配置 Microsoft® Dynamics 365 以便与 Campaign Standard 集成](/help/integrations/configure-dynamics-365.md)
 + 管理 {#administrating}
    + [管理用户访问权限](/help/administrating/managing-user-access-rights.md)
    + [创建自定义资源](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=zh-Hans)
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hans){target="_blank"}
-   + Adobe Experience Platform数据连接器 {#adobe-experience-platform-data-connector}
+   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [了解 Adobe Experience Platform 数据连接器](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [映射自定义资源](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [映射 Experience 事件](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
@@ -124,7 +124,7 @@ ht-degree: 91%
    + [手动创建和跟踪隐私请求](/help/privacy/create-and-track-privacy-requests.md)
    + [执行隐私请求](/help/privacy/execute-privacy-requests.md)
 + [Campaign Standard 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
-+ 战略与思想领导力{#strategy}
++ 战略与思想领导{#strategy}
    + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
    + [营销人员疑难解答](/help/strategy/troubleshooting-for-marketers.md)
    + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](/help/strategy/campaign-maximize-email-best-practices.md)

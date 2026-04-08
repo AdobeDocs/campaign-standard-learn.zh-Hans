@@ -10,15 +10,15 @@ team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '198'
+ht-degree: 100%
 
 ---
 
 # 创建自定义资&#x200B;源 - 简介
 
-[!DNL Adobe Campaign] 随附预定义数据模型，其中数据通过不同资源进行定义。[!DNL Campaign] 允许用户扩展现有资源或创建新资源。
+[!DNL Adobe Campaign] 随附预定义数据模型，其中的数据通过不同资源来定义。[!DNL Campaign]允许用户扩展现有资源或创建新资源。
 
 此多部分教程将指导您完成创建和链接自定义资源所需的步骤。
 了解如何：
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 教程概述
 
-要将客户所订购内容的其他信息用于营销和再营销，[!DNL Campaign]必须通过添加自定义表扩展数据模型。对于此用例，必须创建客户和订单表。
+要将客户所订购内容的其他信息用于营销和再营销，[!DNL Campaign]必须通过添加自定义表扩展数据模型。 对于此用例，必须创建客户和订单表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?learn=on){transcript=true}
 

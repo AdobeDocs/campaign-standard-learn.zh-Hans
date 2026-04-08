@@ -1,6 +1,6 @@
 ---
-title: 了解 Adobe Campaign Standard 中的用户档案和受众
-description: 了解用户档案和受众的概念，了解如何创建用户档案和受众。
+title: 了解 Adobe Campaign Standard 中的轮廓和受众
+description: 了解轮廓和受众的概念，了解如何创建轮廓和受众。
 feature: Profiles, Audiences
 jira: KT-3893
 thumbnail: 18464.jpg
@@ -11,14 +11,14 @@ exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: User, Developer, Admin
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '43'
+ht-degree: 100%
 
 ---
 
-# 了解 Adobe Campaign Standard 中的用户档案和受众
+# 了解 Adobe Campaign Standard 中的轮廓和受众
 
-此视频介绍该概念以及如何创建用户档案和受众。
+此视频介绍该概念以及如何创建轮廓和受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/38377?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
