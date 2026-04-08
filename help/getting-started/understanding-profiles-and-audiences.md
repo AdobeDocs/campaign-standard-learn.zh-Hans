@@ -21,4 +21,4 @@ ht-degree: 100%
 
 此视频介绍该概念以及如何创建轮廓和受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38377?captions=chi_hans&learn=on){transcript=true}

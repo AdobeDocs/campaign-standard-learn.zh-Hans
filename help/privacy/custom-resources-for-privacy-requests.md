@@ -21,7 +21,7 @@ ht-degree: 100%
 
 在设置 Adobe Campaign Standard 以处理隐私请求时，您必须确保在删除轮廓时删除链接到该轮廓的任何自定义数据。 此视频说明如何修改自定义资源以满足此要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329500?captions=chi_hans&learn=on){transcript=true}
 
 >[!NOTE]
 >

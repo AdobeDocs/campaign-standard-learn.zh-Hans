@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何对在 Campaign Standard 中查看轮廓时发生的技术错误进行故障排除。
 
->[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436606?captions=chi_hans&learn=on){transcript=true}
