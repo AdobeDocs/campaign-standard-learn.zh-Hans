@@ -12,10 +12,10 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '134'
+ht-degree: 5%
 
 ---
 
@@ -29,8 +29,8 @@ ht-degree: 6%
 
 此视频介绍如何使用[!UICONTROL Read Audience]活动在工作流中激活[!UICONTROL Data Services Query Audience]。
 
->[!VIDEO](https://video.tv.adobe.com/v/34318?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
 *在工作流中激活Adobe Experience Platform受众（02:37分钟）*
 
-请参阅产品文档，了解如何[将Adobe Experience Platform受众纳入Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=zh-Hans)
+请参阅产品文档，了解如何[将Adobe Experience Platform受众纳入Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
