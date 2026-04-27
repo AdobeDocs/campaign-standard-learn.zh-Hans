@@ -30,7 +30,7 @@ ht-degree: 6%
 >如果您计划实施此功能，请联系[!UICONTROL Adobe Customer Support]。
 >
 
-Adobe Campaign Standard中的“受众”模块允许您使用Adobe Experience Platform的[[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en)中的数据创建区段。
+Adobe Campaign Standard中的“受众”模块允许您使用Adobe Experience Platform的[[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=zh-Hans)中的数据创建区段。
 
 以下视频教程将指导您完成不同的步骤：
 
