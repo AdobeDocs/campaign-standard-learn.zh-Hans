@@ -8,11 +8,10 @@ doc-type: feature video
 role: Admin
 level: Experienced
 team: TM
-hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="集成" type="positive"
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -26,4 +25,4 @@ ht-degree: 100%
 >
 > 请注意，Launch 现在是 Adobe Experience Platform 的标记功能。 可在 **Adobe Experience Platform 数据收集**&#x200B;部分中找到它。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454026?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}

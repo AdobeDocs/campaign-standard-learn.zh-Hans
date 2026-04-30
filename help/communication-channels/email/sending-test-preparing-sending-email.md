@@ -10,9 +10,8 @@ team: DOC
 exl-id: 2cb70be4-cd27-4da3-828a-be4c07d4c951
 role: User
 level: Beginner
-hidefromtoc: true
 hide: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 31%
@@ -23,4 +22,4 @@ ht-degree: 31%
 
 此视频介绍如何在Adobe Campaign Standard (ACS)中发送测试电子邮件、准备然后发送电子邮件投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/328370?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}

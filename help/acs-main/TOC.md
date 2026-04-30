@@ -3,10 +3,10 @@ user-guide-title: Adobe Campaign Standard 教程
 user-guide-description: Adobe Campaign Standard 的视频和教程。
 breadcrumb-title: Campaign Standard 教程
 auto-video-transcripts: true
-source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: ht
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -33,14 +33,14 @@ ht-degree: 100%
    + [用工作流导入轮廓](/help/managing-processes-and-data/importing-profiles.md)
    + [管理服务和订阅](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations（Beta 版）{#audience-destinations}
-      + [概述](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [使用统一区段构建器创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [在工作流中启动 Adobe Experience Platform 受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + [更改定位维度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + {hide-from-toc}[概述](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
+      + {hide-from-toc}[使用统一区段生成器创建受众](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + {hide-from-toc}[在工作流中激活Adobe Experience Platform受众](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + {hide-from-toc}[更改定向维度](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通信渠道 {#communication-channels}
    + 电子邮件 {#email}
       + [创建电子邮件](/help/communication-channels/email/create-email-from-homepage.md)
-      + [发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + {hide-from-toc}[发送测试、准备和发送电子邮件](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [计划消息发送](/help/communication-channels/email/schedule-messages.md)
       + [发送校样](/help/communication-channels/email/send-a-proof.md)
       + [A/B 测试](/help/communication-channels/email/a-b-testing.md)
@@ -99,7 +99,7 @@ ht-degree: 100%
    + 将触发器用于事务性消息 {#triggers}
       + [概述](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [针对触发器配置 Launch](/help/integrations/configure-launch-for-triggers.md)
-      + [在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + {hide-from-toc}[在 Experience Cloud 中创建触发器](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [在 Campaign Standard 中创建触发器事件](/help/integrations/create-a-trigger-event.md)
       + [使用实时事件数据配置事务性消息](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [配置 Microsoft® Dynamics 365 以便与 Campaign Standard 集成](/help/integrations/configure-dynamics-365.md)
