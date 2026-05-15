@@ -10,9 +10,12 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/8z32-bArYoMN41QFSi19bXUFc617UqZvdzxaam0Xr-E
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: 273
 ht-degree: 4%
 
 ---
@@ -27,13 +30,13 @@ ht-degree: 4%
 
 ## 概述
 
-Adobe Experience Platform [!UICONTROL Data Connector]通过将XTK数据(在Adobe Experience Platform中引入的数据)映射到Adobe Experience Platform上的[!DNL Experience Data Model] (XDM)数据，帮助现有客户使其数据在Adobe Campaign上可用。
+Adobe Experience Platform [!UICONTROL Data Connector]通过将XTK数据（在Adobe Experience Platform中引入的数据）映射到Adobe Experience Platform上的[!DNL Experience Data Model] (XDM)数据，帮助现有客户使其数据在Adobe Campaign上可用。
 
 该连接器是单向的，用于将数据从Adobe Campaign Standard发送到Adobe Experience Platform。 数据永远不会从Adobe Experience Platform发送到Adobe Campaign Standard。
 
 Adobe Experience Platform [!UICONTROL Data Connector]面向了解Adobe Campaign Standard [!UICONTROL custom resources]并了解客户整体数据架构应如何位于Adobe Experience Platform中的数据工程师。
 
->[!VIDEO](https://video.tv.adobe.com/v/34316?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){transcript=true}
 
 *此视频概述Adobe Experience Platform [!UICONTROL Data Connector] （09:35分钟）*
 

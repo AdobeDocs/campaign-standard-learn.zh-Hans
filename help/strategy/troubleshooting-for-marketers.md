@@ -5,13 +5,19 @@ feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-source-git-commit: 83b1b0c98d74d4555269a7d90051146d21824dc0
+TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: 743
 ht-degree: 0%
 
 ---
@@ -20,7 +26,7 @@ ht-degree: 0%
 
 作者：[Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，梅耶高级顾问
 
-作为过去五年中Adobe Experience Cloud产品的高级工程师和客户专家，我让[Meijer](https://www.meijer.com/){target="_blank"}的商业用户能够与ACS一起开展复杂的营销和交易活动，该公司是美国于1934年成立的超级中心连锁店。 我参与过的几个项目包括用于存储个性化的选件和订单详细信息的自定义营销活动、与Adobe Audience Manager集成以及用于区段摄取的客户洞察。
+作为过去五年中Adobe Experience Cloud产品的高级工程师和客户专家，我让[Meijer](https://www.meijer.com/){target="_blank"}的商业用户能够与ACS一起开展复杂的营销和交易活动，该公司是美国于1934年创建的超级中心连锁店。 我参与过的几个项目包括用于存储个性化的选件和订单详细信息的自定义营销活动，并与Adobe Audience Manager和客户insight集成以便进行区段摄取。
 
 
 在使用ACS的过程中，我遇到一些错误，解决这些错误会非常耗时且令人沮丧。 了解最常见的错误有助于更快地解决问题，并提高工作效率。 下面是我的疑难解答提示，可帮助您在出现类似错误时有效地解决它们。
@@ -58,7 +64,7 @@ ht-degree: 0%
 
 具有协调详细信息的![工作流](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-了解有关[协调](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation)的详细信息。
+了解有关[协调](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation)的详细信息。
 
 ## 通用字段数据集错误
 
@@ -66,7 +72,7 @@ ht-degree: 0%
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **原因：**
-在ACS工作流中使用&#x200B;**排除活动**&#x200B;时，如果主集和排除集的字段名称不同，则根据ID执行排除时，会出现此问题。
+在ACS工作流中使用**排除活动**&#x200B;时，如果主集和排除集的字段名称不同，则根据ID执行排除时，会出现此问题。
 
 
 ![公用字段数据集错误](/help/assets/kt-13256/dataset-error.png)

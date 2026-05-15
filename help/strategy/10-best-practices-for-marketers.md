@@ -6,11 +6,17 @@ feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11779
-last-substantial-update: 2023-01-31T00:00:00Z
+last-substantial-update: 2023-01-31T00:00:00.000Z
 exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
-source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
-workflow-type: ht
-source-wordcount: '1354'
+TQID: https://experienceleague.adobe.com/3cS86wQcT-wVfOQwmDzaqg7OJu-rakFrAzAx-gd-DFU
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 1354
 ht-degree: 100%
 
 ---
@@ -26,7 +32,7 @@ Christian Klimczyk 称自己为“Adobe 迷”，有着七年的使用 [!DNL Ado
 
 确保借助 [!DNL Adobe Campaign] 取得成功的第一步就是了解您的工具和客户期望，在任何类型的营销工作中都是如此。 明确阐述并清楚了解用于联系消费者的渠道，知道该何时使用这些渠道以及原因。
 
-Adobe Campaign 是一款灵活的工具，允许您以多种方式执行和编排通信。[在每个购买历程中，有半数客户会接触三到五个渠道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。因此，提前了解并规划对使用这些渠道的使用方式对于释放平台的全部潜能并与客户产生共鸣至关重要。
+Adobe Campaign 是一款灵活的工具，允许您以多种方式执行和编排通信。 [在每个购买历程中，有半数客户会接触三到五个渠道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。 因此，提前了解并规划对使用这些渠道的使用方式对于释放平台的全部潜能并与客户产生共鸣至关重要。
 
 ## &#x200B;2. 记录并了解客户数据
 
@@ -40,17 +46,17 @@ Adobe Campaign 是一款灵活的工具，允许您以多种方式执行和编�
 
 您和客户一样，每天都会按部就班地工作和生活。 发送和编排营销活动时要对应这种节奏。 否则，您可能无法联系到客户，因为[发送的邮件中有 85% 不会被打开，98% 不会被点进](https://www.validity.com/resource-center/state-of-email-2021/)。
 
-例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。 如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。 在执行工作流和发送时，使用 [!DNL Campaign] 中的热图工具进行跟踪非常重要。 协调和推进跨多个品牌的通信可能非常具有挑战性。[重视并了解进行电子邮件营销的节奏、节律和时机](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=zh-Hans)，这对消息和 Campaign 实例的整体稳定性和强度来说非常重要。
+例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。 如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。 在执行工作流和发送时，使用 [!DNL Campaign] 中的热图工具进行跟踪非常重要。 协调和推进跨多个品牌的通信可能非常具有挑战性。 [重视并了解进行电子邮件营销的节奏、节律和时机](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)，这对消息和 Campaign 实例的整体稳定性和强度来说非常重要。
 
 ## &#x200B;4. 在必要时使用个性化设计
 
-如今，消费者希望收到的消息具有一定程度的个性化设计。[80% 的客户更有可能从提供个性化体验的品牌购买产品](https://us.epsilon.com/power-of-me)。在主题行中显示他们的名字会带来很好的效果。 但是，个性化设计远不止于此。 您可以纳入他们浏览过的产品，为其推荐类似的产品，或继续增强品牌的整体统一体验和观感。 每个细节都很重要，都有助于提高消息的互动率和打开率。
+如今，消费者希望收到的消息具有一定程度的个性化设计。 [80% 的客户更有可能从提供个性化体验的品牌购买产品](https://us.epsilon.com/power-of-me)。 在主题行中显示他们的名字会带来很好的效果。 但是，个性化设计远不止于此。 您可以纳入他们浏览过的产品，为其推荐类似的产品，或继续增强品牌的整体统一体验和观感。 每个细节都很重要，都有助于提高消息的互动率和打开率。
 
-## &#x200B;5. 拥有健康的创意资产库存
+## &#x200B;5. 创建一个健康的创意资产库存
 
 创意资产就是动力源泉，可帮助您高效开展效果不俗的活动投放。 在与消费者建立联系方面取得的成功越多，营销流程规模越大、越成熟，您就越需要更具创意的内容。 消费者也期望收到这样的内容。
 
-您推进的速度取决于团队配置下一个投放的速度。 通常，这需要有新颖且精彩的内容。[!DNL Adobe Campaign]让配置投放模板、接收和准备投放更加简单。然而，拥有健康的创意渠道至关重要。因为 [Litmus 报告](https://www.litmus.com/resources/state-of-email/)显示，58% 的营销人员表示，创建单个电子邮件营销活动需要两周或更长时间。
+您推进的速度取决于团队配置下一个投放的速度。 通常，这需要有新颖且精彩的内容。 [!DNL Adobe Campaign] 让配置投放模板、接收和准备投放更加简单。 然而，拥有健康的创意渠道至关重要。因为 [Litmus 报告](https://www.litmus.com/resources/state-of-email/)显示，58% 的营销人员表示，创建单个电子邮件营销活动需要两周或更长时间。
 
 ## &#x200B;6. 了解和管理订阅及首选项
 

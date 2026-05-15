@@ -10,9 +10,14 @@ team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/ynyXh2lvZfubs2CJUTlivzqHtxrVRQURbCYdAt6MKZo
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: 62
 ht-degree: 12%
 
 ---
@@ -21,4 +26,4 @@ ht-degree: 12%
 
 了解如何使用应用程序内投放活动，自动将应用程序内消息发送到在工作流中计算的目标受众。
 
->[!VIDEO](https://video.tv.adobe.com/v/38573?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}
