@@ -36,4 +36,4 @@ Adobe Campaign的[!UICONTROL Dynamic Reports]是一个灵活的自由格式环�
 
 ## 其他资源
 
-* [关于报告](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [关于报告](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=zh-Hans)
