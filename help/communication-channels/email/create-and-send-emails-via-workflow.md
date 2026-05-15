@@ -32,4 +32,4 @@ ht-degree: 51%
 
 了解如何通过工作流创建和发送电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33272?captions=chi_hans&learn=on){transcript=true}

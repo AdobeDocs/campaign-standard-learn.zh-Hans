@@ -35,12 +35,12 @@ ht-degree: 4%
 
 ## 步骤1 — 创建事件并发布
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34388?captions=chi_hans&learn=on){transcript=true}
 
 ## 步骤2 — 将产品列表添加到事务型消息模板
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34390?captions=chi_hans&learn=on){transcript=true}
 
 ## 步骤3 — 测试事务型消息
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34391?captions=chi_hans&learn=on){transcript=true}

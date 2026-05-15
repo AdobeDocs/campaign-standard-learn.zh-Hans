@@ -30,7 +30,7 @@ ht-degree: 8%
 
 以下视频演示了在Experience Platform Launch中配置移动应用程序所需的步骤：
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40905?captions=chi_hans&learn=on){transcript=true}
 
 >[!NOTE]
 >

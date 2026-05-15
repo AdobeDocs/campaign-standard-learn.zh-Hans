@@ -43,6 +43,6 @@ ht-degree: 27%
 
 本视频说明如何在Adobe Campaign Standard中创建和编辑工作流。
 
->[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27577?captions=chi_hans&learn=on){transcript=true}
 
 有关[构建工作流（文档）](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=zh-Hans)的更多信息，请参阅产品文档

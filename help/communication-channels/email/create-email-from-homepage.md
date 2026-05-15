@@ -30,4 +30,4 @@ ht-degree: 44%
 
 了解如何从主页创建电子邮件投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29752?captions=chi_hans&learn=on){transcript=true}

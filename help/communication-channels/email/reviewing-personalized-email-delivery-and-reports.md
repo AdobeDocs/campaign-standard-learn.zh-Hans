@@ -30,4 +30,4 @@ ht-degree: 23%
 
 本视频说明如何查看个性化电子邮件投放，并探索Adobe Campaign Standard中提供的各种报表。
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38361?captions=chi_hans&learn=on){transcript=true}

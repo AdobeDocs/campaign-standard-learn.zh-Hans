@@ -31,4 +31,4 @@ ht-degree: 27%
 
 以下视频介绍了如何创建测试用户档案
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328367?captions=chi_hans&learn=on){transcript=true}

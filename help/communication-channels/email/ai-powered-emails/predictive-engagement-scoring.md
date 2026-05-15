@@ -38,4 +38,4 @@ ht-degree: 72%
 
 了解如何在个人轮廓级别查看参与度得分，使用得分确定目标参与用户并禁止疲劳用户，以及如何创建类型学规则来管理客户疲劳。
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328449?captions=chi_hans&learn=on){transcript=true}

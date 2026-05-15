@@ -32,7 +32,7 @@ ht-degree: 6%
 
 了解如何检查状态并修改数据映射。
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38495?captions=chi_hans&learn=on){transcript=true}
 
 ## 其他资源
 

@@ -32,7 +32,7 @@ Adobe Campaign的[!UICONTROL Dynamic Reports]是一个灵活的自由格式环�
 
 了解如何创建报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328361/?captions=chi_hans&learn=on){transcript=true}
 
 ## 其他资源
 

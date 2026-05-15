@@ -29,4 +29,4 @@ ht-degree: 36%
 
 此视频介绍如何预览电子邮件和反垃圾邮件分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/25921?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39668?captions=chi_hans&learn=on){transcript=true}

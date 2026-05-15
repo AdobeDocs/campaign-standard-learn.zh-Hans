@@ -31,7 +31,7 @@ ht-degree: 22%
 [!UICONTROL Fatigue rules]允许营销人员设置全局跨渠道业务规则，以自动从营销活动中排除过度请求的用户档案。
 要创建[!UICONTROL fatigue rules]，您需要定义每个用户档案的最大消息数，并选择要应用规则的时段。 在投放准备期间，会根据已发送给轮廓的消息数量，将符合条件的轮廓从投放中排除。
 
->[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33097?captions=chi_hans&learn=on){transcript=true}
 
 *如何创建[!UICONTROL fatigue rule] （04:49分钟）*
 

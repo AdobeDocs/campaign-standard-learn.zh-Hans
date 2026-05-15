@@ -31,4 +31,4 @@ Adobe Campaign Standard提供了18个可完全自定义的开箱即用型响应�
 
 此视频介绍模板并介绍如何创建自己的模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37483?captions=chi_hans&learn=on){transcript=true}
