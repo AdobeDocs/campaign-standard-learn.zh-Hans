@@ -10,8 +10,10 @@ activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
 TQID: https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 212
@@ -103,7 +105,7 @@ MobileCore.lifecyclePause();
 ### 检查移动应用程序订阅者
 
 登录到您的Adobe Campaign Standard实例。
-导航**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**。 打开相应的移动设备应用程序。 按Tab键转到[!UICONTROL Mobile Application Subscribers]选项卡。 您应该会看到[!UICONTROL registration token]已列出。
+导航&#x200B;**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**。 打开相应的移动设备应用程序。 按Tab键转到[!UICONTROL Mobile Application Subscribers]选项卡。 您应该会看到[!UICONTROL registration token]已列出。
 
 ![移动应用程序订阅者](assets/mobile-application-subscribers.PNG)
 
