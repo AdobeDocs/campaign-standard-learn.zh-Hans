@@ -10,9 +10,15 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/mtGhny0ec1-4VqoGHWcZzLkCg1YkrxedrO1QmOLSQDY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 133
 ht-degree: 4%
 
 ---
@@ -29,12 +35,12 @@ ht-degree: 4%
 
 ## 步骤1 — 创建事件并发布
 
->[!VIDEO](https://video.tv.adobe.com/v/34388?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34388?captions=chi_hans&learn=on){transcript=true}
 
 ## 步骤2 — 将产品列表添加到事务型消息模板
 
->[!VIDEO](https://video.tv.adobe.com/v/34390?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34390?captions=chi_hans&learn=on){transcript=true}
 
 ## 步骤3 — 测试事务型消息
 
->[!VIDEO](https://video.tv.adobe.com/v/34391?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34391?captions=chi_hans&learn=on){transcript=true}
