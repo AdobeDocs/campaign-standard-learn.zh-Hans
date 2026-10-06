@@ -55,7 +55,7 @@ ht-degree: 46%
 
 此视频演示了如何使用 [!UICONTROL External API activity]。
 
->[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33053/?captions=chi_hans&learn=on){transcript=true}
 
 *[!UICONTROL External API activity]（06:48分钟）*
 
