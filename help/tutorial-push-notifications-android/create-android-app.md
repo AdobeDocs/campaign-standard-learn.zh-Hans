@@ -39,7 +39,7 @@ ht-degree: 0%
 
 1. 登录您的[!DNL Firebase]帐户。
 
-   [!DNL Firebase]是Google的移动平台，可帮助您快速开发高质量的应用程序。 如果您没有[!DNL Firebase]帐户，请从此处](https://firebase.google.com)创建一个[。
+   [!DNL Firebase]是Google的移动平台，可帮助您快速开发高质量的应用程序。 如果您没有[!DNL Firebase]帐户，请从此处[&#128279;](https://firebase.google.com)创建一个。
 
 2. 启动[!DNL Android Studio]
 3. 单击&#x200B;**[!UICONTROL File]** > **[!UICONTROL New]** > **[!UICONTROL New Project].**
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[确保您的项目在 [!DNL Firebase ]控制台中列出](https://console.firebase.google.com/)
+[确保您的项目在 [!DNL Firebase &#x200B;]控制台中列出](https://console.firebase.google.com/)
 
 ## 配置[!UICONTROL Push Channel]设置
 
