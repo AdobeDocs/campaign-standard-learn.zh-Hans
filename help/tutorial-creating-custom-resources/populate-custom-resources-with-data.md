@@ -37,6 +37,6 @@ ht-degree: 0%
 
 了解如何使用工作流使用[!DNL CSV]文件中的数据填充自定义资源。
 
->[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507516?captions=chi_hans&learn=on){transcript=true}
 
 有关如何通过[!DNL API]填充自定义资源的详细信息，请参阅文档： [与自定义资源交互](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=zh-Hans)。
