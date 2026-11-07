@@ -41,7 +41,7 @@ ht-degree: 7%
 
 了解如何从网站检索创意内容并将其加载到电子邮件Designer中。
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507642?captions=chi_hans&learn=on){transcript=true}
 
 ## 使现有HTML内容兼容 {#making-existing-html-content-compatible}
 

@@ -35,7 +35,7 @@ ht-degree: 28%
 
 在本视频中，我们将创建第一个称为客户的自定义资源。
 
->[!VIDEO](https://video.tv.adobe.com/v/27716?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507582?captions=chi_hans&learn=on){transcript=true}
 
 **下一步**
 

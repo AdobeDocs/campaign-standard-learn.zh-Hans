@@ -35,7 +35,7 @@ ht-degree: 4%
 
 了解如何为自定义资源配置屏幕定义。
 
->[!VIDEO](https://video.tv.adobe.com/v/27713?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507416?captions=chi_hans&learn=on){transcript=true}
 
 **下一步**
 
